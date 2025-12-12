@@ -8,7 +8,13 @@
     "ai_summary": "Learn about the growing risk of data leakage from AI-powered apps and how defense-in-depth can help keep info safe.",
     "authors": [
       "Jim Hoagland - Vanessa Villa"
-    ]
+    ],
+    "analysis": {
+      "issue": "Learn about the growing risk of data leakage from AI-powered apps and how defense-in-depth can help keep info safe",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
   },
   {
     "category": "main_blog",
@@ -19,7 +25,13 @@
     "ai_summary": "CrowdStrike achieved 100% detection, protection, and zero false positives in the 2025 report.",
     "authors": [
       "Elia Zaitsev"
-    ]
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "CrowdStrike achieved 100% detection, protection, and zero false positives in the 2025 report",
+      "cause": null,
+      "timeline": "% detection, protection, and zero false positives in the 2025 report. Learn more!"
+    }
   },
   {
     "category": "main_blog",
@@ -30,7 +42,13 @@
     "ai_summary": "Microsoft has released security updates for 57 vulnerabilities, including one actively exploited zero-day, two publicly disclosed zero-days, and two Critical, in its December 2025 Patch Tuesday rollout.",
     "authors": [
       "Falcon Exposure Management Team"
-    ]
+    ],
+    "analysis": {
+      "issue": "Microsoft has released security updates for 57 vulnerabilities, including one actively exploited zero-day, two publicly disclosed zero-days, and two Critical, in its December 2025 Patch Tuesday rollou",
+      "solution": "Microsoft has released security updates for 57 vulnerabilities, including one actively exploited zero-day, two publicly disclosed zero-days, and two Critical, in its December 2025 Patch Tuesday rollou",
+      "cause": null,
+      "timeline": "osed zero-days, and two Critical, in its December 2025 Patch Tuesday rollout."
+    }
   },
   {
     "category": "main_blog",
@@ -41,7 +59,13 @@
     "ai_summary": "Falcon Shield will provide a central view of AI agents across apps and now integrates first-party SaaS telemetry into Falcon Next-Gen SIEM.",
     "authors": [
       "Charles Choe"
-    ]
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
   },
   {
     "category": "main_blog",
@@ -52,7 +76,13 @@
     "ai_summary": "China-nexus adversary WARP PANDA exhibits advanced technical sophistication and broad knowledge of cloud and virtual machine environments.",
     "authors": [
       "Counter Adversary Operations"
-    ]
+    ],
+    "analysis": {
+      "issue": "China-nexus adversary WARP PANDA exhibits advanced technical sophistication and broad knowledge of cloud and virtual machine environments",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
   },
   {
     "category": "main_blog",
@@ -60,10 +90,16 @@
     "link": "https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/",
     "published": "Dec 04, 2025 00:00:00-0600",
     "summary": "",
-    "ai_summary": "Indirect prompt injection is a hidden threat to GenAI systems, allowing attackers to embed malicious instructions in content AI tools access. Learn how the risk works.",
+    "ai_summary": "Indirect prompt injection is a hidden threat to GenAI systems, allowing attackers to embed malicious instructions in content AI tools access.",
     "authors": [
       "John Gamble"
-    ]
+    ],
+    "analysis": {
+      "issue": "Indirect prompt injection is a hidden threat to GenAI systems, allowing attackers to embed malicious instructions in content AI tools access",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
   },
   {
     "category": "main_blog",
@@ -74,7 +110,13 @@
     "ai_summary": "CrowdStrike, NVIDIA, and AWS join forces to advance agentic AI security with Nemotron on Amazon Bedrock — enabling faster, smarter cyber defense.",
     "authors": [
       "Nico Lozano - Chris Kachigian"
-    ]
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "CrowdStrike, NVIDIA, and AWS join forces to advance agentic AI security with Nemotron on Amazon Bedrock — enabling faster, smarter cyber defense",
+      "cause": null,
+      "timeline": null
+    }
   },
   {
     "category": "main_blog",
@@ -85,7 +127,13 @@
     "ai_summary": "CrowdStrike and AWS introduce new SIEM integrations, flexible pricing, and Quick Start onboarding to simplify cloud security operations and improve SOC efficiency.",
     "authors": [
       "Vicky Ngo-Lam"
-    ]
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "CrowdStrike and AWS introduce new SIEM integrations, flexible pricing, and Quick Start onboarding to simplify cloud security operations and improve SOC efficiency",
+      "cause": null,
+      "timeline": null
+    }
   },
   {
     "category": "main_blog",
@@ -96,7 +144,13 @@
     "ai_summary": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments.",
     "authors": [
       "Karishma Asthana"
-    ]
+    ],
+    "analysis": {
+      "issue": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments",
+      "solution": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments",
+      "cause": null,
+      "timeline": null
+    }
   },
   {
     "category": "main_blog",
@@ -107,6 +161,12 @@
     "ai_summary": "Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest.",
     "authors": [
       "Luke Hunsinger"
-    ]
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest",
+      "cause": null,
+      "timeline": null
+    }
   }
 ]

@@ -1,0 +1,102 @@
+[
+  {
+    "category": "main_blog",
+    "title": "Data Leakage: AI&rsquo;s Plumbing Problem",
+    "link": "https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/",
+    "published": "Dec 11, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "Jim Hoagland - Vanessa Villa"
+    ]
+  },
+  {
+    "category": "main_blog",
+    "title": "CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/",
+    "published": "Dec 10, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "Elia Zaitsev"
+    ]
+  },
+  {
+    "category": "main_blog",
+    "title": "December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/",
+    "published": "Dec 09, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "Falcon Exposure Management Team"
+    ]
+  },
+  {
+    "category": "main_blog",
+    "title": "Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/",
+    "published": "Dec 08, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "Charles Choe"
+    ]
+  },
+  {
+    "category": "main_blog",
+    "title": "Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary",
+    "link": "https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/",
+    "published": "Dec 04, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "Counter Adversary Operations"
+    ]
+  },
+  {
+    "category": "main_blog",
+    "title": "Indirect Prompt Injection Attacks: A Lurking Risk to AI Systems",
+    "link": "https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/",
+    "published": "Dec 04, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "John Gamble"
+    ]
+  },
+  {
+    "category": "main_blog",
+    "title": "CrowdStrike Leverages NVIDIA Nemotron in Amazon Bedrock to Advance Agentic Security",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uses-nvidia-nemotron-aws-power-agentic-security/",
+    "published": "Dec 02, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "Nico Lozano - Chris Kachigian"
+    ]
+  },
+  {
+    "category": "main_blog",
+    "title": "Transform AWS Security Operations with Falcon Next-Gen SIEM",
+    "link": "https://www.crowdstrike.com/en-us/blog/transform-aws-security-operations-with-falcon-next-gen-siem/",
+    "published": "Dec 01, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "Vicky Ngo-Lam"
+    ]
+  },
+  {
+    "category": "main_blog",
+    "title": "CrowdStrike Unveils Real-Time Cloud Detection and Response Innovations",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-unveils-real-time-cloud-detection-and-response/",
+    "published": "Dec 01, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "Karishma Asthana"
+    ]
+  },
+  {
+    "category": "main_blog",
+    "title": "Falcon Data Protection for Cloud Extends DSPM into Runtime",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-protection-for-cloud-extends-dspm-into-runtime/",
+    "published": "Nov 20, 2025 00:00:00-0600",
+    "summary": "",
+    "authors": [
+      "Luke Hunsinger"
+    ]
+  }
+]

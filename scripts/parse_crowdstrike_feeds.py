@@ -2,7 +2,7 @@
 """
 CrowdStrike News & Blog RSS Feed Monitor
 Fetches latest updates from multiple CrowdStrike RSS feeds
-Generates AI-style summaries from article content
+Generates structured analysis: Issue, Solution, Cause, Timeline
 """
 
 import feedparser
@@ -46,7 +46,7 @@ def is_recent(published_date, days=7):
         if hasattr(published_date, 'timetuple'):
             pub_date = datetime(*published_date.timetuple()[:6])
         else:
-            return True  # Include if we can't parse date
+            return True
             
         cutoff = datetime.now() - timedelta(days=days)
         return pub_date >= cutoff
@@ -55,31 +55,25 @@ def is_recent(published_date, days=7):
 
 def clean_html_text(html_text):
     """Remove HTML tags and clean text"""
-    # Remove HTML tags
     text = re.sub(r'<[^>]+>', '', html_text)
-    # Remove extra whitespace
     text = re.sub(r'\s+', ' ', text)
-    # Remove special characters
     text = re.sub(r'[\r\n\t]', ' ', text)
     return text.strip()
 
 def extract_key_sentences(text, max_sentences=2):
-    """Extract key sentences from text for summarization"""
+    """Extract key sentences from text"""
     if not text:
         return None
         
-    # Split into sentences
     sentences = re.split(r'[.!?]+', text)
     sentences = [s.strip() for s in sentences if len(s.strip()) > 20]
     
     if not sentences:
         return None
     
-    # Take first few sentences as summary
     summary_sentences = sentences[:max_sentences]
     summary = '. '.join(summary_sentences)
     
-    # Limit to reasonable length
     if len(summary) > 250:
         summary = summary[:247] + '...'
     elif not summary.endswith('.'):
@@ -87,30 +81,113 @@ def extract_key_sentences(text, max_sentences=2):
         
     return summary
 
-def generate_ai_summary(title, description, content):
+def analyze_article_structure(title, content, link):
     """
-    Generate a concise AI-style summary from article content
-    Uses extractive summarization approach
+    Extract structured information: Issue, Solution, Cause, Timeline
+    Uses keyword-based extraction and pattern matching
     """
-    # Start with RSS description if available
-    if description:
-        clean_desc = clean_html_text(description)
-        summary = extract_key_sentences(clean_desc, max_sentences=2)
-        if summary:
-            return summary
+    analysis = {
+        'issue': None,
+        'solution': None,
+        'cause': None,
+        'timeline': None
+    }
     
-    # Fallback to content extraction
-    if content:
-        clean_content = clean_html_text(content)
-        summary = extract_key_sentences(clean_content, max_sentences=2)
-        if summary:
-            return summary
+    if not content:
+        return analysis
     
-    # Last resort: use title as basis
-    return f"Article about {title.lower()}."
+    content_lower = content.lower()
+    
+    # Extract ISSUE
+    issue_keywords = ['vulnerability', 'threat', 'attack', 'risk', 'flaw', 'exploit', 
+                      'breach', 'malware', 'ransomware', 'zero-day', 'cve-', 'adversary',
+                      'leakage', 'injection', 'disclosed', 'critical']
+    
+    for keyword in issue_keywords:
+        if keyword in content_lower:
+            # Find sentences containing the keyword
+            sentences = re.split(r'[.!?]+', content)
+            for sent in sentences:
+                if keyword in sent.lower() and len(sent.strip()) > 30:
+                    analysis['issue'] = sent.strip()[:200]
+                    break
+            if analysis['issue']:
+                break
+    
+    # Fallback: Use title for issue if it contains security keywords
+    if not analysis['issue']:
+        for keyword in issue_keywords:
+            if keyword in title.lower():
+                analysis['issue'] = f"{title}"
+                break
+    
+    # Extract SOLUTION/MITIGATION
+    solution_keywords = ['mitigate', 'fix', 'patch', 'update', 'protect', 'defend',
+                        'remediate', 'solution', 'recommendation', 'detection',
+                        'prevention', 'security', 'safeguard', 'implement']
+    
+    for keyword in solution_keywords:
+        if keyword in content_lower:
+            sentences = re.split(r'[.!?]+', content)
+            for sent in sentences:
+                if keyword in sent.lower() and len(sent.strip()) > 30:
+                    analysis['solution'] = sent.strip()[:200]
+                    break
+            if analysis['solution']:
+                break
+    
+    # Extract CAUSE/ROOT CAUSE
+    cause_keywords = ['caused by', 'due to', 'result of', 'stemming from', 'originates',
+                     'attributed to', 'exploits', 'leverages', 'abuses', 'misconfiguration']
+    
+    for keyword in cause_keywords:
+        if keyword in content_lower:
+            # Find context around the keyword
+            idx = content_lower.find(keyword)
+            if idx != -1:
+                # Extract sentence containing the cause
+                start = max(0, content.rfind('.', 0, idx) + 1)
+                end = content.find('.', idx)
+                if end != -1:
+                    analysis['cause'] = content[start:end].strip()[:200]
+                    break
+    
+    # Extract TIMELINE
+    # Look for date patterns and temporal keywords
+    timeline_patterns = [
+        r'(since|from|starting)\s+([A-Z][a-z]+\s+\d{4})',  # "since January 2024"
+        r'(in|during)\s+([A-Z][a-z]+\s+\d{4})',  # "in December 2024"
+        r'(\d{4})',  # Year alone
+        r'(first|initially|recently|ongoing)\s+(detected|observed|discovered|identified)',
+    ]
+    
+    for pattern in timeline_patterns:
+        match = re.search(pattern, content, re.IGNORECASE)
+        if match:
+            # Get surrounding context
+            start = max(0, match.start() - 50)
+            end = min(len(content), match.end() + 100)
+            context = content[start:end].strip()
+            analysis['timeline'] = context[:150]
+            break
+    
+    # Look for "active since" or "observed since" patterns
+    if not analysis['timeline']:
+        temporal_keywords = ['active since', 'observed since', 'discovered in', 
+                           'first seen', 'reported in', 'disclosed on']
+        for keyword in temporal_keywords:
+            if keyword in content_lower:
+                idx = content_lower.find(keyword)
+                if idx != -1:
+                    end = content.find('.', idx)
+                    if end != -1:
+                        analysis['timeline'] = content[idx:end].strip()[:150]
+                        break
+    
+    return analysis
 
 def extract_article_content(link):
-    """Extract full article content from webpage for better summarization"""
+    """Extract full article content from webpage"""
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
@@ -118,23 +195,21 @@ def extract_article_content(link):
         response = requests.get(link, headers=headers, timeout=15)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Try multiple methods to extract content
         content = None
         
-        # Method 1: Look for article content
+        # Extract main article content
         article = soup.find('article')
         if article:
             paragraphs = article.find_all('p')
             if paragraphs:
-                content = ' '.join([p.get_text() for p in paragraphs[:3]])
+                content = ' '.join([p.get_text() for p in paragraphs[:10]])  # Get more content for analysis
         
-        # Method 2: Meta description
+        # Fallback methods
         if not content:
             meta_desc = soup.find('meta', {'name': 'description'})
             if meta_desc and meta_desc.get('content'):
                 content = meta_desc.get('content')
         
-        # Method 3: og:description
         if not content:
             og_desc = soup.find('meta', {'property': 'og:description'})
             if og_desc and og_desc.get('content'):
@@ -144,6 +219,22 @@ def extract_article_content(link):
     except Exception as e:
         print(f"  Warning: Could not extract content from {link}: {e}")
         return None
+
+def generate_ai_summary(title, description, content):
+    """Generate concise summary"""
+    if description:
+        clean_desc = clean_html_text(description)
+        summary = extract_key_sentences(clean_desc, max_sentences=1)
+        if summary:
+            return summary
+    
+    if content:
+        clean_content = clean_html_text(content)
+        summary = extract_key_sentences(clean_content, max_sentences=1)
+        if summary:
+            return summary
+    
+    return f"Article about {title.lower()}."
 
 def process_feeds():
     """Process all RSS feeds and generate reports"""
@@ -158,19 +249,25 @@ def process_feeds():
             
         print(f"Found {len(feed.entries)} entries in {feed_name}")
         
-        for entry in feed.entries[:10]:  # Limit to 10 most recent per feed
+        for entry in feed.entries[:10]:
             print(f"  Processing: {entry.get('title', 'No Title')[:50]}...")
             
-            # Get content for summarization
             description = entry.get('summary', '')
             content = entry.get('content', [{}])[0].get('value', '') if 'content' in entry else ''
             
-            # Extract full article content for better summaries (only for recent articles)
+            # Extract full article content for analysis
             full_content = None
+            structured_analysis = None
+            
             if hasattr(entry, 'published_parsed') and is_recent(entry.published_parsed, days=7):
                 full_content = extract_article_content(entry.get('link', ''))
+                if full_content:
+                    structured_analysis = analyze_article_structure(
+                        entry.get('title', ''),
+                        full_content,
+                        entry.get('link', '')
+                    )
             
-            # Generate AI summary
             ai_summary = generate_ai_summary(
                 entry.get('title', ''),
                 description or full_content,
@@ -183,11 +280,14 @@ def process_feeds():
                 'link': entry.get('link', ''),
                 'published': entry.get('published', 'Unknown'),
                 'summary': description,
-                'ai_summary': ai_summary,  # New AI-generated summary
+                'ai_summary': ai_summary,
                 'authors': [author.get('name', '') for author in entry.get('authors', [])],
             }
             
-            # Check if recent (last 7 days)
+            # Add structured analysis if available
+            if structured_analysis:
+                article['analysis'] = structured_analysis
+            
             if hasattr(entry, 'published_parsed') and is_recent(entry.published_parsed, days=7):
                 recent_articles.append(article)
                 
@@ -203,7 +303,7 @@ def save_json_report(articles, filename):
     print(f"Saved {len(articles)} articles to {filepath}")
 
 def generate_markdown_report(recent_articles):
-    """Generate Markdown report of recent articles with AI summaries"""
+    """Generate Markdown report with structured analysis"""
     md_content = f"""# 🛡️ CrowdStrike Latest Updates
 
 **Last Updated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}
@@ -215,7 +315,6 @@ def generate_markdown_report(recent_articles):
     if not recent_articles:
         md_content += "*No new articles in the last 7 days.*\n"
     else:
-        # Group by category
         by_category = {}
         for article in recent_articles:
             cat = article['category'].replace('_', ' ').title()
@@ -228,14 +327,31 @@ def generate_markdown_report(recent_articles):
             for idx, article in enumerate(articles, 1):
                 md_content += f"#### {idx}. [{article['title']}]({article['link']})\n\n"
                 
-                # Add metadata
-                md_content += f"**Published:** {article['published']}  \n"
+                # Metadata
+                md_content += f"**📅 Published:** {article['published']}  \n"
                 if article['authors']:
-                    md_content += f"**Authors:** {', '.join(article['authors'])}  \n"
+                    md_content += f"**✍️ Authors:** {', '.join(article['authors'])}  \n"
                 
-                # Add AI-generated summary
+                # AI Summary
                 if article.get('ai_summary'):
-                    md_content += f"\n**🤖 Summary:** {article['ai_summary']}\n"
+                    md_content += f"\n**📝 Summary:** {article['ai_summary']}\n"
+                
+                # Structured Analysis
+                if article.get('analysis'):
+                    analysis = article['analysis']
+                    md_content += "\n**🔍 Detailed Analysis:**\n\n"
+                    
+                    if analysis.get('issue'):
+                        md_content += f"- **⚠️ Issue:** {analysis['issue']}\n"
+                    
+                    if analysis.get('cause'):
+                        md_content += f"- **🔎 Cause:** {analysis['cause']}\n"
+                    
+                    if analysis.get('solution'):
+                        md_content += f"- **✅ Solution:** {analysis['solution']}\n"
+                    
+                    if analysis.get('timeline'):
+                        md_content += f"- **⏰ Timeline:** {analysis['timeline']}\n"
                 
                 md_content += "\n---\n\n"
     
@@ -249,11 +365,11 @@ def generate_markdown_report(recent_articles):
     md_content += f"""
 ---
 
-*🤖 This report is automatically generated every 6 hours by GitHub Actions with AI-powered summarization.*  
+*🤖 This report is automatically generated every 6 hours with AI-powered analysis.*  
+*📊 Includes: Issue identification, Root cause analysis, Solutions, Timeline tracking*  
 *Repository: [CrowdStrike Monitor](https://github.com/starkarthikr/crowdstrike-monitor)*
 """
     
-    # Save markdown
     with open('CROWDSTRIKE_UPDATES.md', 'w', encoding='utf-8') as f:
         f.write(md_content)
     
@@ -261,23 +377,22 @@ def generate_markdown_report(recent_articles):
 
 def main():
     print("=" * 60)
-    print("CrowdStrike News Monitor - Starting (AI Summaries Enabled)")
+    print("CrowdStrike Monitor - Structured Analysis Mode")
     print("=" * 60)
     
-    # Fetch all feeds
     all_articles, recent_articles = process_feeds()
     
-    # Save full archive as JSON
     save_json_report(all_articles, 'all_articles.json')
     save_json_report(recent_articles, 'recent_articles.json')
     
-    # Generate Markdown report with AI summaries
     generate_markdown_report(recent_articles)
+    
+    analyzed = sum(1 for a in recent_articles if a.get('analysis'))
     
     print("=" * 60)
     print(f"Total Articles: {len(all_articles)}")
     print(f"Recent Articles (7 days): {len(recent_articles)}")
-    print(f"AI Summaries Generated: {sum(1 for a in recent_articles if a.get('ai_summary'))}")
+    print(f"Structured Analysis: {analyzed}")
     print("=" * 60)
 
 if __name__ == '__main__':

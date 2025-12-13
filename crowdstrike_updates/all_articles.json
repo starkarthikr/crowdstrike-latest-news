@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Inside the Latest Innovations Powering Falcon Exposure Management",
+    "link": "https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/",
+    "published": "Dec 12, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Learn about the latest Falcon Exposure Management innovations, providing real-time, high-fidelity visibility and prioritization.",
+    "authors": [
+      "Rona Kedmi"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Data Leakage: AI&rsquo;s Plumbing Problem",
     "link": "https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/",
     "published": "Dec 11, 2025 00:00:00-0600",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments",
       "solution": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Falcon Data Protection for Cloud Extends DSPM into Runtime",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-protection-for-cloud-extends-dspm-into-runtime/",
-    "published": "Nov 20, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest.",
-    "authors": [
-      "Luke Hunsinger"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest",
       "cause": null,
       "timeline": null
     }

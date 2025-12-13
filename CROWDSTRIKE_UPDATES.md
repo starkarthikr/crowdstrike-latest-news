@@ -1,13 +1,25 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2025-12-13 01:54:20 UTC
+**Last Updated:** 2025-12-13 06:36:29 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
+#### 1. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
+
+**📅 Published:** Dec 12, 2025 00:00:00-0600  
+**✍️ Authors:** Rona Kedmi  
+
+**📝 Summary:** Learn about the latest Falcon Exposure Management innovations, providing real-time, high-fidelity visibility and prioritization.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 2. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
 
 **📅 Published:** Dec 11, 2025 00:00:00-0600  
 **✍️ Authors:** Jim Hoagland - Vanessa Villa  
@@ -20,7 +32,7 @@
 
 ---
 
-#### 2. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
+#### 3. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
 
 **📅 Published:** Dec 10, 2025 00:00:00-0600  
 **✍️ Authors:** Elia Zaitsev  
@@ -34,7 +46,7 @@
 
 ---
 
-#### 3. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
+#### 4. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
 
 **📅 Published:** Dec 09, 2025 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -49,7 +61,7 @@
 
 ---
 
-#### 4. [Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration](https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/)
+#### 5. [Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration](https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/)
 
 **📅 Published:** Dec 08, 2025 00:00:00-0600  
 **✍️ Authors:** Charles Choe  
@@ -61,7 +73,7 @@
 
 ---
 
-#### 5. [Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary](https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/)
+#### 6. [Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary](https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/)
 
 **📅 Published:** Dec 04, 2025 00:00:00-0600  
 **✍️ Authors:** Counter Adversary Operations  
@@ -74,7 +86,7 @@
 
 ---
 
-#### 6. [Indirect Prompt Injection Attacks: A Lurking Risk to AI Systems](https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/)
+#### 7. [Indirect Prompt Injection Attacks: A Lurking Risk to AI Systems](https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/)
 
 **📅 Published:** Dec 04, 2025 00:00:00-0600  
 **✍️ Authors:** John Gamble  
@@ -87,7 +99,7 @@
 
 ---
 
-#### 7. [CrowdStrike Leverages NVIDIA Nemotron in Amazon Bedrock to Advance Agentic Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-uses-nvidia-nemotron-aws-power-agentic-security/)
+#### 8. [CrowdStrike Leverages NVIDIA Nemotron in Amazon Bedrock to Advance Agentic Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-uses-nvidia-nemotron-aws-power-agentic-security/)
 
 **📅 Published:** Dec 02, 2025 00:00:00-0600  
 **✍️ Authors:** Nico Lozano - Chris Kachigian  
@@ -100,7 +112,7 @@
 
 ---
 
-#### 8. [Transform AWS Security Operations with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/transform-aws-security-operations-with-falcon-next-gen-siem/)
+#### 9. [Transform AWS Security Operations with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/transform-aws-security-operations-with-falcon-next-gen-siem/)
 
 **📅 Published:** Dec 01, 2025 00:00:00-0600  
 **✍️ Authors:** Vicky Ngo-Lam  
@@ -113,7 +125,7 @@
 
 ---
 
-#### 9. [CrowdStrike Unveils Real-Time Cloud Detection and Response Innovations](https://www.crowdstrike.com/en-us/blog/crowdstrike-unveils-real-time-cloud-detection-and-response/)
+#### 10. [CrowdStrike Unveils Real-Time Cloud Detection and Response Innovations](https://www.crowdstrike.com/en-us/blog/crowdstrike-unveils-real-time-cloud-detection-and-response/)
 
 **📅 Published:** Dec 01, 2025 00:00:00-0600  
 **✍️ Authors:** Karishma Asthana  
@@ -124,19 +136,6 @@
 
 - **⚠️ Issue:** CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments
 - **✅ Solution:** CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments
-
----
-
-#### 10. [Falcon Data Protection for Cloud Extends DSPM into Runtime](https://www.crowdstrike.com/en-us/blog/falcon-data-protection-for-cloud-extends-dspm-into-runtime/)
-
-**📅 Published:** Nov 20, 2025 00:00:00-0600  
-**✍️ Authors:** Luke Hunsinger  
-
-**📝 Summary:** Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** Falcon Data Protection for Cloud provides real-time visibility into sensitive data in motion and at rest
 
 ---
 

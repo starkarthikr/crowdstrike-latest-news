@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/",
+    "published": "Dec 15, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Falcon AIDR delivers unified prompt-layer protection across workforce AI adoption and AI development.",
+    "authors": [
+      "John Gamble"
+    ],
+    "analysis": {
+      "issue": "CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response",
+      "solution": "Falcon AIDR delivers unified prompt-layer protection across workforce AI adoption and AI development",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Inside the Latest Innovations Powering Falcon Exposure Management",
     "link": "https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/",
     "published": "Dec 12, 2025 00:00:00-0600",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "CrowdStrike and AWS introduce new SIEM integrations, flexible pricing, and Quick Start onboarding to simplify cloud security operations and improve SOC efficiency",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike Unveils Real-Time Cloud Detection and Response Innovations",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-unveils-real-time-cloud-detection-and-response/",
-    "published": "Dec 01, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments.",
-    "authors": [
-      "Karishma Asthana"
-    ],
-    "analysis": {
-      "issue": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments",
-      "solution": "CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments",
       "cause": null,
       "timeline": null
     }

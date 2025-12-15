@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2025-12-15 12:56:51 UTC
+**Last Updated:** 2025-12-15 18:38:44 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
+#### 1. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
+
+**📅 Published:** Dec 15, 2025 00:00:00-0600  
+**✍️ Authors:** John Gamble  
+
+**📝 Summary:** Falcon AIDR delivers unified prompt-layer protection across workforce AI adoption and AI development.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response
+- **✅ Solution:** Falcon AIDR delivers unified prompt-layer protection across workforce AI adoption and AI development
+
+---
+
+#### 2. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
 
 **📅 Published:** Dec 12, 2025 00:00:00-0600  
 **✍️ Authors:** Rona Kedmi  
@@ -19,7 +33,7 @@
 
 ---
 
-#### 2. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
+#### 3. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
 
 **📅 Published:** Dec 11, 2025 00:00:00-0600  
 **✍️ Authors:** Jim Hoagland - Vanessa Villa  
@@ -32,7 +46,7 @@
 
 ---
 
-#### 3. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
+#### 4. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
 
 **📅 Published:** Dec 10, 2025 00:00:00-0600  
 **✍️ Authors:** Elia Zaitsev  
@@ -46,7 +60,7 @@
 
 ---
 
-#### 4. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
+#### 5. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
 
 **📅 Published:** Dec 09, 2025 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -61,7 +75,7 @@
 
 ---
 
-#### 5. [Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration](https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/)
+#### 6. [Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration](https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/)
 
 **📅 Published:** Dec 08, 2025 00:00:00-0600  
 **✍️ Authors:** Charles Choe  
@@ -73,7 +87,7 @@
 
 ---
 
-#### 6. [Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary](https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/)
+#### 7. [Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary](https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/)
 
 **📅 Published:** Dec 04, 2025 00:00:00-0600  
 **✍️ Authors:** Counter Adversary Operations  
@@ -86,7 +100,7 @@
 
 ---
 
-#### 7. [Indirect Prompt Injection Attacks: A Lurking Risk to AI Systems](https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/)
+#### 8. [Indirect Prompt Injection Attacks: A Lurking Risk to AI Systems](https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/)
 
 **📅 Published:** Dec 04, 2025 00:00:00-0600  
 **✍️ Authors:** John Gamble  
@@ -99,7 +113,7 @@
 
 ---
 
-#### 8. [CrowdStrike Leverages NVIDIA Nemotron in Amazon Bedrock to Advance Agentic Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-uses-nvidia-nemotron-aws-power-agentic-security/)
+#### 9. [CrowdStrike Leverages NVIDIA Nemotron in Amazon Bedrock to Advance Agentic Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-uses-nvidia-nemotron-aws-power-agentic-security/)
 
 **📅 Published:** Dec 02, 2025 00:00:00-0600  
 **✍️ Authors:** Nico Lozano - Chris Kachigian  
@@ -112,7 +126,7 @@
 
 ---
 
-#### 9. [Transform AWS Security Operations with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/transform-aws-security-operations-with-falcon-next-gen-siem/)
+#### 10. [Transform AWS Security Operations with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/transform-aws-security-operations-with-falcon-next-gen-siem/)
 
 **📅 Published:** Dec 01, 2025 00:00:00-0600  
 **✍️ Authors:** Vicky Ngo-Lam  
@@ -122,20 +136,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** CrowdStrike and AWS introduce new SIEM integrations, flexible pricing, and Quick Start onboarding to simplify cloud security operations and improve SOC efficiency
-
----
-
-#### 10. [CrowdStrike Unveils Real-Time Cloud Detection and Response Innovations](https://www.crowdstrike.com/en-us/blog/crowdstrike-unveils-real-time-cloud-detection-and-response/)
-
-**📅 Published:** Dec 01, 2025 00:00:00-0600  
-**✍️ Authors:** Karishma Asthana  
-
-**📝 Summary:** CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments
-- **✅ Solution:** CrowdStrike introduces real-time cloud detection and automated response to identify and stop cloud threats in seconds, reducing MTTR across hybrid and multi-cloud environments
 
 ---
 

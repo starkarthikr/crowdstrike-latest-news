@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/",
+    "published": "Dec 17, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "The Forrester Total Economic Impact™ Study shows measurable ROI, efficiency gains, and faster protection.",
+    "authors": [
+      "Dana Larson"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "The Forrester Total Economic Impact™ Study shows measurable ROI, efficiency gains, and faster protection",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/",
     "published": "Dec 15, 2025 00:00:00-0600",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "CrowdStrike, NVIDIA, and AWS join forces to advance agentic AI security with Nemotron on Amazon Bedrock — enabling faster, smarter cyber defense",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Transform AWS Security Operations with Falcon Next-Gen SIEM",
-    "link": "https://www.crowdstrike.com/en-us/blog/transform-aws-security-operations-with-falcon-next-gen-siem/",
-    "published": "Dec 01, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "CrowdStrike and AWS introduce new SIEM integrations, flexible pricing, and Quick Start onboarding to simplify cloud security operations and improve SOC efficiency.",
-    "authors": [
-      "Vicky Ngo-Lam"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "CrowdStrike and AWS introduce new SIEM integrations, flexible pricing, and Quick Start onboarding to simplify cloud security operations and improve SOC efficiency",
       "cause": null,
       "timeline": null
     }

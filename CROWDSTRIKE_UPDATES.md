@@ -1,13 +1,38 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2025-12-20 01:54:12 UTC
+**Last Updated:** 2025-12-20 06:36:34 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
+#### 1. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
+
+**📅 Published:** Dec 19, 2025 00:00:00-0600  
+**✍️ Authors:** Ted Driggs - Chase Midler  
+
+**📝 Summary:** Learn why a science-backed approach to agent training, testing, and refinement delivers agents worthy of SOC operation.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 2. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
+
+**📅 Published:** Dec 19, 2025 00:00:00-0600  
+**✍️ Authors:** Gautam Mehandru  
+
+**📝 Summary:** CrowdTour 2026 is a front-row seat to how organizations are responding with AI-powered defense.
+
+**🔍 Detailed Analysis:**
+
+- **⏰ Timeline:** CrowdTour 2026 is a front-row seat to how organizations are responding with AI-powered defense. Learn more!
+
+---
+
+#### 3. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
 
 **📅 Published:** Dec 17, 2025 00:00:00-0600  
 **✍️ Authors:** Dana Larson  
@@ -20,7 +45,7 @@
 
 ---
 
-#### 2. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
+#### 4. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
 
 **📅 Published:** Dec 15, 2025 00:00:00-0600  
 **✍️ Authors:** John Gamble  
@@ -34,7 +59,7 @@
 
 ---
 
-#### 3. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
+#### 5. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
 
 **📅 Published:** Dec 12, 2025 00:00:00-0600  
 **✍️ Authors:** Rona Kedmi  
@@ -46,7 +71,7 @@
 
 ---
 
-#### 4. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
+#### 6. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
 
 **📅 Published:** Dec 11, 2025 00:00:00-0600  
 **✍️ Authors:** Jim Hoagland - Vanessa Villa  
@@ -59,7 +84,7 @@
 
 ---
 
-#### 5. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
+#### 7. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
 
 **📅 Published:** Dec 10, 2025 00:00:00-0600  
 **✍️ Authors:** Elia Zaitsev  
@@ -73,7 +98,7 @@
 
 ---
 
-#### 6. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
+#### 8. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
 
 **📅 Published:** Dec 09, 2025 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -88,7 +113,7 @@
 
 ---
 
-#### 7. [Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration](https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/)
+#### 9. [Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration](https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/)
 
 **📅 Published:** Dec 08, 2025 00:00:00-0600  
 **✍️ Authors:** Charles Choe  
@@ -100,7 +125,7 @@
 
 ---
 
-#### 8. [Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary](https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/)
+#### 10. [Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary](https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/)
 
 **📅 Published:** Dec 04, 2025 00:00:00-0600  
 **✍️ Authors:** Counter Adversary Operations  
@@ -110,32 +135,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** China-nexus adversary WARP PANDA exhibits advanced technical sophistication and broad knowledge of cloud and virtual machine environments
-
----
-
-#### 9. [Indirect Prompt Injection Attacks: A Lurking Risk to AI Systems](https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/)
-
-**📅 Published:** Dec 04, 2025 00:00:00-0600  
-**✍️ Authors:** John Gamble  
-
-**📝 Summary:** Indirect prompt injection is a hidden threat to GenAI systems, allowing attackers to embed malicious instructions in content AI tools access.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Indirect prompt injection is a hidden threat to GenAI systems, allowing attackers to embed malicious instructions in content AI tools access
-
----
-
-#### 10. [CrowdStrike Leverages NVIDIA Nemotron in Amazon Bedrock to Advance Agentic Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-uses-nvidia-nemotron-aws-power-agentic-security/)
-
-**📅 Published:** Dec 02, 2025 00:00:00-0600  
-**✍️ Authors:** Nico Lozano - Chris Kachigian  
-
-**📝 Summary:** CrowdStrike, NVIDIA, and AWS join forces to advance agentic AI security with Nemotron on Amazon Bedrock — enabling faster, smarter cyber defense.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** CrowdStrike, NVIDIA, and AWS join forces to advance agentic AI security with Nemotron on Amazon Bedrock — enabling faster, smarter cyber defense
 
 ---
 

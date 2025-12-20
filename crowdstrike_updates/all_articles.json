@@ -1,6 +1,40 @@
 [
   {
     "category": "main_blog",
+    "title": "Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents",
+    "link": "https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/",
+    "published": "Dec 19, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Learn why a science-backed approach to agent training, testing, and refinement delivers agents worthy of SOC operation.",
+    "authors": [
+      "Ted Driggs - Chase Midler"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "CrowdTour 2026: Securing the AI Era Together",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/",
+    "published": "Dec 19, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "CrowdTour 2026 is a front-row seat to how organizations are responding with AI-powered defense.",
+    "authors": [
+      "Gautam Mehandru"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": "CrowdTour 2026 is a front-row seat to how organizations are responding with AI-powered defense. Learn more!"
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/",
     "published": "Dec 17, 2025 00:00:00-0600",
@@ -131,40 +165,6 @@
     "analysis": {
       "issue": "China-nexus adversary WARP PANDA exhibits advanced technical sophistication and broad knowledge of cloud and virtual machine environments",
       "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Indirect Prompt Injection Attacks: A Lurking Risk to AI Systems",
-    "link": "https://www.crowdstrike.com/en-us/blog/indirect-prompt-injection-attacks-hidden-ai-risks/",
-    "published": "Dec 04, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Indirect prompt injection is a hidden threat to GenAI systems, allowing attackers to embed malicious instructions in content AI tools access.",
-    "authors": [
-      "John Gamble"
-    ],
-    "analysis": {
-      "issue": "Indirect prompt injection is a hidden threat to GenAI systems, allowing attackers to embed malicious instructions in content AI tools access",
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike Leverages NVIDIA Nemotron in Amazon Bedrock to Advance Agentic Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uses-nvidia-nemotron-aws-power-agentic-security/",
-    "published": "Dec 02, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "CrowdStrike, NVIDIA, and AWS join forces to advance agentic AI security with Nemotron on Amazon Bedrock — enabling faster, smarter cyber defense.",
-    "authors": [
-      "Nico Lozano - Chris Kachigian"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "CrowdStrike, NVIDIA, and AWS join forces to advance agentic AI security with Nemotron on Amazon Bedrock — enabling faster, smarter cyber defense",
       "cause": null,
       "timeline": null
     }

@@ -1,13 +1,25 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2025-12-23 06:40:48 UTC
+**Last Updated:** 2025-12-23 12:54:21 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
+#### 1. [How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/)
+
+**📅 Published:** Dec 22, 2025 00:00:00-0600  
+**✍️ Authors:** Andrei Preda - Alexandru Dinu - Florian Stortz - Nathan Nusaputra - Catalin-Andrei Stan  
+
+**📝 Summary:** CrowdStrike researchers are using distributed computing to train GenAI models at scale.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 2. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
 
 **📅 Published:** Dec 19, 2025 00:00:00-0600  
 **✍️ Authors:** Ted Driggs - Chase Midler  
@@ -19,7 +31,7 @@
 
 ---
 
-#### 2. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
+#### 3. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
 
 **📅 Published:** Dec 19, 2025 00:00:00-0600  
 **✍️ Authors:** Gautam Mehandru  
@@ -32,7 +44,7 @@
 
 ---
 
-#### 3. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
+#### 4. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
 
 **📅 Published:** Dec 17, 2025 00:00:00-0600  
 **✍️ Authors:** Dana Larson  
@@ -45,7 +57,7 @@
 
 ---
 
-#### 4. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
+#### 5. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
 
 **📅 Published:** Dec 15, 2025 00:00:00-0600  
 **✍️ Authors:** John Gamble  
@@ -59,7 +71,7 @@
 
 ---
 
-#### 5. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
+#### 6. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
 
 **📅 Published:** Dec 12, 2025 00:00:00-0600  
 **✍️ Authors:** Rona Kedmi  
@@ -71,7 +83,7 @@
 
 ---
 
-#### 6. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
+#### 7. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
 
 **📅 Published:** Dec 11, 2025 00:00:00-0600  
 **✍️ Authors:** Jim Hoagland - Vanessa Villa  
@@ -84,7 +96,7 @@
 
 ---
 
-#### 7. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
+#### 8. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
 
 **📅 Published:** Dec 10, 2025 00:00:00-0600  
 **✍️ Authors:** Elia Zaitsev  
@@ -98,7 +110,7 @@
 
 ---
 
-#### 8. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
+#### 9. [December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/)
 
 **📅 Published:** Dec 09, 2025 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -113,7 +125,7 @@
 
 ---
 
-#### 9. [Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration](https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/)
+#### 10. [Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration](https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/)
 
 **📅 Published:** Dec 08, 2025 00:00:00-0600  
 **✍️ Authors:** Charles Choe  
@@ -122,19 +134,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary](https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/)
-
-**📅 Published:** Dec 04, 2025 00:00:00-0600  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** China-nexus adversary WARP PANDA exhibits advanced technical sophistication and broad knowledge of cloud and virtual machine environments.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** China-nexus adversary WARP PANDA exhibits advanced technical sophistication and broad knowledge of cloud and virtual machine environments
 
 ---
 

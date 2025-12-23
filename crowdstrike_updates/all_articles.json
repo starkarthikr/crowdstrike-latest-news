@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/",
+    "published": "Dec 22, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "CrowdStrike researchers are using distributed computing to train GenAI models at scale.",
+    "authors": [
+      "Andrei Preda - Alexandru Dinu - Florian Stortz - Nathan Nusaputra - Catalin-Andrei Stan"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents",
     "link": "https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/",
     "published": "Dec 19, 2025 00:00:00-0600",
@@ -147,23 +164,6 @@
     ],
     "analysis": {
       "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Unveiling WARP PANDA: A New Sophisticated China-Nexus Adversary",
-    "link": "https://www.crowdstrike.com/en-us/blog/warp-panda-cloud-threats/",
-    "published": "Dec 04, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "China-nexus adversary WARP PANDA exhibits advanced technical sophistication and broad knowledge of cloud and virtual machine environments.",
-    "authors": [
-      "Counter Adversary Operations"
-    ],
-    "analysis": {
-      "issue": "China-nexus adversary WARP PANDA exhibits advanced technical sophistication and broad knowledge of cloud and virtual machine environments",
       "solution": null,
       "cause": null,
       "timeline": null

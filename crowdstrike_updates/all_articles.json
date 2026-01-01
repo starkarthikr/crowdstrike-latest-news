@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Streamline Security Operations with Falcon for IT&rsquo;s Turnkey Automations",
+    "link": "https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/",
+    "published": "Dec 29, 2025 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "See how Falcon for IT turnkey automations deliver prebuilt workflows to enforce configs, maintain app health, and secure endpoints at scale.",
+    "authors": [
+      "Michael Devins"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing",
     "link": "https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/",
     "published": "Dec 22, 2025 00:00:00-0600",
@@ -150,23 +167,6 @@
       "solution": "Microsoft has released security updates for 57 vulnerabilities, including one actively exploited zero-day, two publicly disclosed zero-days, and two Critical, in its December 2025 Patch Tuesday rollou",
       "cause": null,
       "timeline": "osed zero-days, and two Critical, in its December 2025 Patch Tuesday rollout."
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Falcon Shield Evolves with AI Agent Visibility and Falcon Next-Gen SIEM Integration",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-shield-evolves-ai-agent-visibility/",
-    "published": "Dec 08, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Falcon Shield will provide a central view of AI agents across apps and now integrates first-party SaaS telemetry into Falcon Next-Gen SIEM.",
-    "authors": [
-      "Charles Choe"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
     }
   }
 ]

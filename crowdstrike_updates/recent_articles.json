@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "CrowdStrike&rsquo;s Journey in Customizing NVIDIA Nemotron Models for Peak Accuracy and Performance",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-journey-in-customizing-nvidia-nemotron-models/",
+    "published": "Jan 05, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Learn how CrowdStrike collaborates with NVIDIA to evaluate and fine-tune Nemotron models for real SOC workflows.",
+    "authors": [
+      "Ioana Croitoru - Sophie Chau - Roxana Boriceanu - Chase Midler"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Streamline Security Operations with Falcon for IT&rsquo;s Turnkey Automations",
     "link": "https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/",
     "published": "Dec 29, 2025 00:00:00-0600",
@@ -150,23 +167,6 @@
       "solution": "CrowdStrike achieved 100% detection, protection, and zero false positives in the 2025 report",
       "cause": null,
       "timeline": "% detection, protection, and zero false positives in the 2025 report. Learn more!"
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "December 2025 Patch Tuesday: One Critical Zero-Day, Two Publicly Disclosed Vulnerabilities Among 57 CVEs",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/",
-    "published": "Dec 09, 2025 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Microsoft has released security updates for 57 vulnerabilities, including one actively exploited zero-day, two publicly disclosed zero-days, and two Critical, in its December 2025 Patch Tuesday rollout.",
-    "authors": [
-      "Falcon Exposure Management Team"
-    ],
-    "analysis": {
-      "issue": "Microsoft has released security updates for 57 vulnerabilities, including one actively exploited zero-day, two publicly disclosed zero-days, and two Critical, in its December 2025 Patch Tuesday rollou",
-      "solution": "Microsoft has released security updates for 57 vulnerabilities, including one actively exploited zero-day, two publicly disclosed zero-days, and two Critical, in its December 2025 Patch Tuesday rollou",
-      "cause": null,
-      "timeline": "osed zero-days, and two Critical, in its December 2025 Patch Tuesday rollout."
     }
   }
 ]

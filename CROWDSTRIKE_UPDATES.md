@@ -1,136 +1,145 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-01-06 18:38:38 UTC
+**Last Updated:** 2026-02-01 02:50:29 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike&rsquo;s Journey in Customizing NVIDIA Nemotron Models for Peak Accuracy and Performance](https://www.crowdstrike.com/en-us/blog/crowdstrike-journey-in-customizing-nvidia-nemotron-models/)
+#### 1. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
 
-**📅 Published:** Jan 05, 2026 00:00:00-0600  
-**✍️ Authors:** Ioana Croitoru - Sophie Chau - Roxana Boriceanu - Chase Midler  
+**📅 Published:** Jan 30, 2026 00:00:00-0800  
+**✍️ Authors:** Vanessa Villa  
 
-**📝 Summary:** Learn how CrowdStrike collaborates with NVIDIA to evaluate and fine-tune Nemotron models for real SOC workflows.
-
-**🔍 Detailed Analysis:**
-
-
----
-
-#### 2. [Streamline Security Operations with Falcon for IT&rsquo;s Turnkey Automations](https://www.crowdstrike.com/en-us/blog/streamline-security-operations-falcon-for-it-automations/)
-
-**📅 Published:** Dec 29, 2025 00:00:00-0600  
-**✍️ Authors:** Michael Devins  
-
-**📝 Summary:** See how Falcon for IT turnkey automations deliver prebuilt workflows to enforce configs, maintain app health, and secure endpoints at scale.
+**📝 Summary:** Learn about three critical agentic tool chain attacks, how they exploit AI agents, and how you can mitigate risk.
 
 **🔍 Detailed Analysis:**
 
+- **⚠️ Issue:** Learn about three critical agentic tool chain attacks, how they exploit AI agents, and how you can mitigate risk
+- **✅ Solution:** Learn about three critical agentic tool chain attacks, how they exploit AI agents, and how you can mitigate risk
 
 ---
 
-#### 3. [How CrowdStrike Trains GenAI Models at Scale Using Distributed Computing](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-trains-genai-models-at-scale-using-distributed-computing/)
+#### 2. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
-**📅 Published:** Dec 22, 2025 00:00:00-0600  
-**✍️ Authors:** Andrei Preda - Alexandru Dinu - Florian Stortz - Nathan Nusaputra - Catalin-Andrei Stan  
+**📅 Published:** Jan 29, 2026 00:00:00-0800  
+**✍️ Authors:** Rob Bruner  
 
-**📝 Summary:** CrowdStrike researchers are using distributed computing to train GenAI models at scale.
+**📝 Summary:** LABYRINTH CHOLLIMA has evolved into three distinct adversaries with specialized malware, objectives, and tradecraft.
 
 **🔍 Detailed Analysis:**
 
+- **⚠️ Issue:** LABYRINTH CHOLLIMA has evolved into three distinct adversaries with specialized malware, objectives, and tradecraft
 
 ---
 
-#### 4. [Inside CrowdStrike&rsquo;s Science-Backed Approach to Building Expert SOC Agents](https://www.crowdstrike.com/en-us/blog/inside-crowdstrikes-science-backed-approach-to-building-soc-agents/)
+#### 3. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
 
-**📅 Published:** Dec 19, 2025 00:00:00-0600  
-**✍️ Authors:** Ted Driggs - Chase Midler  
+**📅 Published:** Jan 28, 2026 00:00:00-0800  
+**✍️ Authors:** Chris Prall  
 
-**📝 Summary:** Learn why a science-backed approach to agent training, testing, and refinement delivers agents worthy of SOC operation.
+**📝 Summary:** CrowdStrike was named a Customers’ Choice in the 2026 Gartner Voice of the Customer for Endpoint Protection Platforms report.
 
 **🔍 Detailed Analysis:**
 
+- **✅ Solution:** CrowdStrike was named a Customers’ Choice in the 2026 Gartner Voice of the Customer for Endpoint Protection Platforms report
+- **⏰ Timeline:** CrowdStrike was named a Customers’ Choice in the 2026 Gartner Voice of the Customer for Endpoint Protection Platforms report.
 
 ---
 
-#### 5. [CrowdTour 2026: Securing the AI Era Together](https://www.crowdstrike.com/en-us/blog/crowdtour-2026-securing-ai-era-together/)
+#### 4. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
 
-**📅 Published:** Dec 19, 2025 00:00:00-0600  
-**✍️ Authors:** Gautam Mehandru  
+**📅 Published:** Jan 28, 2026 00:00:00-0800  
+**✍️ Authors:** Drew Bagley - Christoph Bausewein  
 
-**📝 Summary:** CrowdTour 2026 is a front-row seat to how organizations are responding with AI-powered defense.
+**📝 Summary:** The AI era is redefining data protection.
 
 **🔍 Detailed Analysis:**
 
-- **⏰ Timeline:** CrowdTour 2026 is a front-row seat to how organizations are responding with AI-powered defense. Learn more!
+- **⚠️ Issue:** As threats accelerate, data protection evolves from compliance to resilience
+- **✅ Solution:** The AI era is redefining data protection
 
 ---
 
-#### 6. [CrowdStrike Endpoint Security Achieves 273% ROI Over Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-endpoint-security-achieves-273-percent-roi-over-three-years/)
+#### 5. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
 
-**📅 Published:** Dec 17, 2025 00:00:00-0600  
-**✍️ Authors:** Dana Larson  
+**📅 Published:** Jan 21, 2026 00:00:00-0600  
+**✍️ Authors:** Luke Hunsinger - Dana Larson  
 
-**📝 Summary:** The Forrester Total Economic Impact™ Study shows measurable ROI, efficiency gains, and faster protection.
+**📝 Summary:** Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives.
 
 **🔍 Detailed Analysis:**
 
-- **✅ Solution:** The Forrester Total Economic Impact™ Study shows measurable ROI, efficiency gains, and faster protection
+- **⚠️ Issue:** Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives
+- **✅ Solution:** Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives
 
 ---
 
-#### 7. [CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-growing-ai-attack-surface-with-falcon-aidr/)
+#### 6. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
 
-**📅 Published:** Dec 15, 2025 00:00:00-0600  
-**✍️ Authors:** John Gamble  
-
-**📝 Summary:** Falcon AIDR delivers unified prompt-layer protection across workforce AI adoption and AI development.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike Secures Growing AI Attack Surface with Falcon AI Detection and Response
-- **✅ Solution:** Falcon AIDR delivers unified prompt-layer protection across workforce AI adoption and AI development
-
----
-
-#### 8. [Inside the Latest Innovations Powering Falcon Exposure Management](https://www.crowdstrike.com/en-us/blog/built-for-scale-powered-by-ai-innovation-driving-falcon-exposure-management/)
-
-**📅 Published:** Dec 12, 2025 00:00:00-0600  
-**✍️ Authors:** Rona Kedmi  
-
-**📝 Summary:** Learn about the latest Falcon Exposure Management innovations, providing real-time, high-fidelity visibility and prioritization.
-
-**🔍 Detailed Analysis:**
-
-
----
-
-#### 9. [Data Leakage: AI&rsquo;s Plumbing Problem](https://www.crowdstrike.com/en-us/blog/data-leakage-ai-plumbing-problem/)
-
-**📅 Published:** Dec 11, 2025 00:00:00-0600  
-**✍️ Authors:** Jim Hoagland - Vanessa Villa  
-
-**📝 Summary:** Learn about the growing risk of data leakage from AI-powered apps and how defense-in-depth can help keep info safe.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Learn about the growing risk of data leakage from AI-powered apps and how defense-in-depth can help keep info safe
-
----
-
-#### 10. [CrowdStrike Achieves 100% Detection, 100% Protection, and Zero False Positives in 2025 MITRE ATT&amp;CK&reg; Enterprise Evaluations](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-100-percent-2025-mitre-attack-enterprise-evaluation/)
-
-**📅 Published:** Dec 10, 2025 00:00:00-0600  
+**📅 Published:** Jan 16, 2026 00:00:00-0800  
 **✍️ Authors:** Elia Zaitsev  
 
-**📝 Summary:** CrowdStrike achieved 100% detection, protection, and zero false positives in the 2025 report.
+**📝 Summary:** Learn how CrowdStrike AI and ML technologies work and their role in powering the agentic SOC as agentic defense matures.
 
 **🔍 Detailed Analysis:**
 
-- **✅ Solution:** CrowdStrike achieved 100% detection, protection, and zero false positives in the 2025 report
-- **⏰ Timeline:** % detection, protection, and zero false positives in the 2025 report. Learn more!
+
+---
+
+#### 7. [CrowdStrike to Acquire Seraphic to Secure Work in Any Browser](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/)
+
+**📅 Published:** Jan 13, 2026 00:00:00-0600  
+**✍️ Authors:** Michael Sentonas  
+
+**📝 Summary:** The acquisition of Seraphic will extend zero-trust protections to the browser, facilitating secure access to corporate resources for today’s distributed enterprise.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** The acquisition of Seraphic will extend zero-trust protections to the browser, facilitating secure access to corporate resources for today’s distributed enterprise
+
+---
+
+#### 8. [January 2026 Patch Tuesday: 114 CVEs Patched Including 3 Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-january-2026/)
+
+**📅 Published:** Jan 13, 2026 00:00:00-0600  
+**✍️ Authors:** Falcon Exposure Management Team  
+
+**📝 Summary:** Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout
+- **✅ Solution:** Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout
+- **⏰ Timeline:** ero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout.
+
+---
+
+#### 9. [AI Tool Poisoning: How Hidden Instructions Threaten AI Agents](https://www.crowdstrike.com/en-us/blog/ai-tool-poisoning/)
+
+**📅 Published:** Jan 09, 2026 00:00:00-0600  
+**✍️ Authors:** Vanessa Villa  
+
+**📝 Summary:** Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat
+- **✅ Solution:** Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat
+
+---
+
+#### 10. [CrowdStrike to Acquire SGNL to Secure Every Identity in the AI Era](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-sgnl/)
+
+**📅 Published:** Jan 08, 2026 00:00:00-0600  
+**✍️ Authors:** Michael Sentonas  
+
+**📝 Summary:** With SGNL, Falcon Next-Gen Identity Security will deliver continuous dynamic authorization and eliminate standing privileges for human, non-human, and AI agent identities.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** With SGNL, Falcon Next-Gen Identity Security will deliver continuous dynamic authorization and eliminate standing privileges for human, non-human, and AI agent identities
 
 ---
 

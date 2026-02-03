@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
+    "published": "Feb 02, 2026 00:00:00-0800",
+    "summary": "",
+    "ai_summary": "Leaders at WEX, Med Center Health, and Genesys share how they're using CrowdStrike to secure AI systems.",
+    "authors": [
+      "Scott Wotring"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "How Agentic Tool Chain Attacks Threaten AI Agent Security",
     "link": "https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/",
     "published": "Jan 30, 2026 00:00:00-0800",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat",
       "solution": "Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike to Acquire SGNL to Secure Every Identity in the AI Era",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-sgnl/",
-    "published": "Jan 08, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "With SGNL, Falcon Next-Gen Identity Security will deliver continuous dynamic authorization and eliminate standing privileges for human, non-human, and AI agent identities.",
-    "authors": [
-      "Michael Sentonas"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "With SGNL, Falcon Next-Gen Identity Security will deliver continuous dynamic authorization and eliminate standing privileges for human, non-human, and AI agent identities",
       "cause": null,
       "timeline": null
     }

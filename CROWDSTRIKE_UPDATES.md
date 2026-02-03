@@ -1,13 +1,41 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-02-03 13:12:23 UTC
+**Last Updated:** 2026-02-03 19:02:10 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
+#### 1. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
+
+**📅 Published:** Feb 03, 2026 00:00:00-0800  
+**✍️ Authors:** Bhavna B. Sehgal  
+
+**📝 Summary:** CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools
+- **⏰ Timeline:** CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools.
+
+---
+
+#### 2. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
+
+**📅 Published:** Feb 03, 2026 00:00:00-0800  
+**✍️ Authors:** Brad Moon  
+
+**📝 Summary:** The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test
+- **✅ Solution:** The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test
+
+---
+
+#### 3. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
 
 **📅 Published:** Feb 02, 2026 00:00:00-0800  
 **✍️ Authors:** Scott Wotring  
@@ -19,7 +47,7 @@
 
 ---
 
-#### 2. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
+#### 4. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
 
 **📅 Published:** Jan 30, 2026 00:00:00-0800  
 **✍️ Authors:** Vanessa Villa  
@@ -33,7 +61,7 @@
 
 ---
 
-#### 3. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
+#### 5. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 **📅 Published:** Jan 29, 2026 00:00:00-0800  
 **✍️ Authors:** Rob Bruner  
@@ -46,7 +74,7 @@
 
 ---
 
-#### 4. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
+#### 6. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
 
 **📅 Published:** Jan 28, 2026 00:00:00-0800  
 **✍️ Authors:** Chris Prall  
@@ -60,7 +88,7 @@
 
 ---
 
-#### 5. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
+#### 7. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
 
 **📅 Published:** Jan 28, 2026 00:00:00-0800  
 **✍️ Authors:** Drew Bagley - Christoph Bausewein  
@@ -74,7 +102,7 @@
 
 ---
 
-#### 6. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
+#### 8. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
 
 **📅 Published:** Jan 21, 2026 00:00:00-0600  
 **✍️ Authors:** Luke Hunsinger - Dana Larson  
@@ -88,7 +116,7 @@
 
 ---
 
-#### 7. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
+#### 9. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
 
 **📅 Published:** Jan 16, 2026 00:00:00-0800  
 **✍️ Authors:** Elia Zaitsev  
@@ -100,7 +128,7 @@
 
 ---
 
-#### 8. [CrowdStrike to Acquire Seraphic to Secure Work in Any Browser](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/)
+#### 10. [CrowdStrike to Acquire Seraphic to Secure Work in Any Browser](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/)
 
 **📅 Published:** Jan 13, 2026 00:00:00-0600  
 **✍️ Authors:** Michael Sentonas  
@@ -110,35 +138,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** The acquisition of Seraphic will extend zero-trust protections to the browser, facilitating secure access to corporate resources for today’s distributed enterprise
-
----
-
-#### 9. [January 2026 Patch Tuesday: 114 CVEs Patched Including 3 Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-january-2026/)
-
-**📅 Published:** Jan 13, 2026 00:00:00-0600  
-**✍️ Authors:** Falcon Exposure Management Team  
-
-**📝 Summary:** Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout
-- **✅ Solution:** Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout
-- **⏰ Timeline:** ero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout.
-
----
-
-#### 10. [AI Tool Poisoning: How Hidden Instructions Threaten AI Agents](https://www.crowdstrike.com/en-us/blog/ai-tool-poisoning/)
-
-**📅 Published:** Jan 09, 2026 00:00:00-0600  
-**✍️ Authors:** Vanessa Villa  
-
-**📝 Summary:** Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat
-- **✅ Solution:** Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat
 
 ---
 

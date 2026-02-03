@@ -1,6 +1,40 @@
 [
   {
     "category": "main_blog",
+    "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/",
+    "published": "Feb 03, 2026 00:00:00-0800",
+    "summary": "",
+    "ai_summary": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools.",
+    "authors": [
+      "Bhavna B. Sehgal"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools",
+      "cause": null,
+      "timeline": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools."
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/",
+    "published": "Feb 03, 2026 00:00:00-0800",
+    "summary": "",
+    "ai_summary": "The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test.",
+    "authors": [
+      "Brad Moon"
+    ],
+    "analysis": {
+      "issue": "The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test",
+      "solution": "The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data",
     "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
     "published": "Feb 02, 2026 00:00:00-0800",
@@ -131,40 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "The acquisition of Seraphic will extend zero-trust protections to the browser, facilitating secure access to corporate resources for today’s distributed enterprise",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "January 2026 Patch Tuesday: 114 CVEs Patched Including 3 Zero-Days",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-january-2026/",
-    "published": "Jan 13, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout.",
-    "authors": [
-      "Falcon Exposure Management Team"
-    ],
-    "analysis": {
-      "issue": "Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout",
-      "solution": "Microsoft has released security updates for 114 vulnerabilities, including three zero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout",
-      "cause": null,
-      "timeline": "ero-days, plus eight critical CVEs in its January 2026 Patch Tuesday rollout."
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "AI Tool Poisoning: How Hidden Instructions Threaten AI Agents",
-    "link": "https://www.crowdstrike.com/en-us/blog/ai-tool-poisoning/",
-    "published": "Jan 09, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat.",
-    "authors": [
-      "Vanessa Villa"
-    ],
-    "analysis": {
-      "issue": "Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat",
-      "solution": "Learn what AI tool poisoning is, how attackers manipulate AI agent tools, and how organizations can defend against this emerging threat",
       "cause": null,
       "timeline": null
     }

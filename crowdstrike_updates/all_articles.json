@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "What Security Teams Need to Know About OpenClaw, the AI Super Agent",
+    "link": "https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/",
+    "published": "Feb 04, 2026 00:00:00-0800",
+    "summary": "",
+    "ai_summary": "Learn what OpenClaw is, how it is deployed, how it is running, whether it is exposed, and how CrowdStrike can help.",
+    "authors": [
+      "Elia Zaitsev"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/",
     "published": "Feb 03, 2026 00:00:00-0800",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike to Acquire Seraphic to Secure Work in Any Browser",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-seraphic/",
-    "published": "Jan 13, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "The acquisition of Seraphic will extend zero-trust protections to the browser, facilitating secure access to corporate resources for today’s distributed enterprise.",
-    "authors": [
-      "Michael Sentonas"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "The acquisition of Seraphic will extend zero-trust protections to the browser, facilitating secure access to corporate resources for today’s distributed enterprise",
       "cause": null,
       "timeline": null
     }

@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/",
+    "published": "Feb 05, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Learn about recently released enhancements for the Falcon sensor on Linux platforms that provide better visibility.",
+    "authors": [
+      "Falcon Adversary OverWatch"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "What Security Teams Need to Know About OpenClaw, the AI Super Agent",
     "link": "https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/",
     "published": "Feb 04, 2026 00:00:00-0800",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives",
       "solution": "Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "The Architecture of Agentic Defense: Inside the Falcon Platform",
-    "link": "https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/",
-    "published": "Jan 16, 2026 00:00:00-0800",
-    "summary": "",
-    "ai_summary": "Learn how CrowdStrike AI and ML technologies work and their role in powering the agentic SOC as agentic defense matures.",
-    "authors": [
-      "Elia Zaitsev"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
       "cause": null,
       "timeline": null
     }

@@ -1,13 +1,25 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-02-06 02:33:34 UTC
+**Last Updated:** 2026-02-06 07:01:40 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+#### 1. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
+
+**📅 Published:** Feb 05, 2026 00:00:00-0600  
+**✍️ Authors:** Falcon Adversary OverWatch  
+
+**📝 Summary:** Learn about recently released enhancements for the Falcon sensor on Linux platforms that provide better visibility.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 2. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
 
 **📅 Published:** Feb 04, 2026 00:00:00-0800  
 **✍️ Authors:** Elia Zaitsev  
@@ -19,7 +31,7 @@
 
 ---
 
-#### 2. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
+#### 3. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
 
 **📅 Published:** Feb 03, 2026 00:00:00-0800  
 **✍️ Authors:** Bhavna B. Sehgal  
@@ -33,7 +45,7 @@
 
 ---
 
-#### 3. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
+#### 4. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
 
 **📅 Published:** Feb 03, 2026 00:00:00-0800  
 **✍️ Authors:** Brad Moon  
@@ -47,7 +59,7 @@
 
 ---
 
-#### 4. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
+#### 5. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
 
 **📅 Published:** Feb 02, 2026 00:00:00-0800  
 **✍️ Authors:** Scott Wotring  
@@ -59,7 +71,7 @@
 
 ---
 
-#### 5. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
+#### 6. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
 
 **📅 Published:** Jan 30, 2026 00:00:00-0800  
 **✍️ Authors:** Vanessa Villa  
@@ -73,7 +85,7 @@
 
 ---
 
-#### 6. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
+#### 7. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 **📅 Published:** Jan 29, 2026 00:00:00-0800  
 **✍️ Authors:** Rob Bruner  
@@ -86,7 +98,7 @@
 
 ---
 
-#### 7. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
+#### 8. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
 
 **📅 Published:** Jan 28, 2026 00:00:00-0800  
 **✍️ Authors:** Chris Prall  
@@ -100,7 +112,7 @@
 
 ---
 
-#### 8. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
+#### 9. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
 
 **📅 Published:** Jan 28, 2026 00:00:00-0800  
 **✍️ Authors:** Drew Bagley - Christoph Bausewein  
@@ -114,7 +126,7 @@
 
 ---
 
-#### 9. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
+#### 10. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
 
 **📅 Published:** Jan 21, 2026 00:00:00-0600  
 **✍️ Authors:** Luke Hunsinger - Dana Larson  
@@ -125,18 +137,6 @@
 
 - **⚠️ Issue:** Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives
 - **✅ Solution:** Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives
-
----
-
-#### 10. [The Architecture of Agentic Defense: Inside the Falcon Platform](https://www.crowdstrike.com/en-us/blog/architecture-of-agentic-defense-inside-the-falcon-platform/)
-
-**📅 Published:** Jan 16, 2026 00:00:00-0800  
-**✍️ Authors:** Elia Zaitsev  
-
-**📝 Summary:** Learn how CrowdStrike AI and ML technologies work and their role in powering the agentic SOC as agentic defense matures.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

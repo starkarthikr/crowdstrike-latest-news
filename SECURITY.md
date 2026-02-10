@@ -2,74 +2,73 @@
 
 ## Supported Versions
 
-We release patches for security vulnerabilities in the following versions:
+We release security updates for the following versions:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| main    | :white_check_mark: |
+| Latest  | :white_check_mark: |
+| Older   | :x:                |
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in this project, please report it by:
+We take the security of crowdstrike-latest-news seriously. If you believe you have found a security vulnerability, please report it to us as described below.
 
-1. **DO NOT** create a public GitHub issue
-2. Email the repository owner at: starkarthikr@gmail.com
-3. Include:
-   - Description of the vulnerability
-   - Steps to reproduce
-   - Potential impact
-   - Suggested fix (if any)
+### How to Report a Security Vulnerability
+
+**Please do NOT report security vulnerabilities through public GitHub issues.**
+
+Instead, please report them via email to:
+- **Email**: starkarthikr@gmail.com
+- **Subject**: [SECURITY] Vulnerability in crowdstrike-latest-news
+
+### What to Include in Your Report
+
+Please include the following information:
+- Type of vulnerability (e.g., XSS, SQL injection, credential exposure)
+- Full paths of source file(s) related to the vulnerability
+- Location of the affected source code (tag/branch/commit or direct URL)
+- Step-by-step instructions to reproduce the issue
+- Proof-of-concept or exploit code (if possible)
+- Impact of the vulnerability and how an attacker might exploit it
 
 ### What to Expect
 
-- **Response Time**: You will receive an initial response within 48 hours
-- **Investigation**: We will investigate and validate the report
-- **Fix Timeline**: Critical issues will be fixed within 7 days
-- **Disclosure**: We follow coordinated disclosure practices
+- **Acknowledgment**: We will acknowledge receipt of your vulnerability report within 48 hours
+- **Communication**: We will keep you informed of the progress toward resolving the vulnerability
+- **Timeline**: We aim to resolve critical vulnerabilities within 7 days
+- **Credit**: We will credit you in our security advisories (unless you prefer to remain anonymous)
+
+### Security Update Process
+
+1. Vulnerability reported and confirmed
+2. Security patch developed and tested
+3. Security advisory published
+4. Patch released and deployed
+5. Public disclosure after fix is deployed
 
 ## Security Best Practices
 
-### For Users
+When using this project:
+- Never commit API keys, passwords, or other secrets to the repository
+- Always use GitHub Secrets for sensitive credentials
+- Keep dependencies up to date (we use Dependabot for this)
+- Review security advisories regularly
+- Enable branch protection on your forks
 
-1. **Never commit secrets**: Always use environment variables or GitHub Secrets
-2. **Keep dependencies updated**: Regularly update Python packages
-3. **Review permissions**: Only grant necessary GitHub Actions permissions
-4. **Use branch protection**: Enable branch protection rules on main branch
+## Security Features
 
-### API Key Security
+This repository includes:
+- Dependabot security updates
+- CodeQL security scanning
+- Hardened GitHub Actions workflows
+- Dependency review on pull requests
+- Regular security audits
 
-- Store all API keys in GitHub Secrets (Settings → Secrets and variables → Actions)
-- Never hardcode API keys in source code or workflow files
-- Rotate API keys regularly
-- Revoke exposed keys immediately
+## Contact
 
-## Security Features Enabled
+- **Security Issues**: starkarthikr@gmail.com
+- **General Issues**: [GitHub Issues](https://github.com/starkarthikr/crowdstrike-latest-news/issues)
 
-- [x] Dependabot security updates
-- [x] GitHub Actions permissions restricted
-- [x] Secret scanning
-- [x] Security policy published
+---
 
-## Known Security Considerations
-
-### Third-Party APIs
-
-This project uses OpenRouter API for AI analysis:
-- API keys must be stored securely in GitHub Secrets
-- Rate limiting is implemented
-- No sensitive data is sent to external services
-
-### Automated Workflows
-
-- Workflows run with minimal permissions
-- Only necessary secrets are exposed to workflows
-- All dependencies are pinned to specific versions
-
-## Security Updates
-
-Security updates will be published as:
-- GitHub Security Advisories
-- Release notes with `[SECURITY]` prefix
-- Commits with security fixes
-
-Last Updated: February 10, 2026
+**Last Updated**: February 10, 2026

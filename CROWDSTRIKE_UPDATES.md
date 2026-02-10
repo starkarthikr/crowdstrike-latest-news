@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-02-08 06:57:40 UTC
+**Last Updated:** 2026-02-10 00:46:05 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
+#### 1. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
+
+**📅 Published:** Feb 09, 2026 00:00:00-0600  
+**✍️ Authors:** Rona Kedmi  
+
+**📝 Summary:** CrowdStrike is the only vendor to be named Customers’ Choice for the second year in a row.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management
+
+---
+
+#### 2. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
 
 **📅 Published:** Feb 05, 2026 00:00:00-0600  
 **✍️ Authors:** Falcon Adversary OverWatch  
@@ -19,7 +32,7 @@
 
 ---
 
-#### 2. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+#### 3. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
 
 **📅 Published:** Feb 04, 2026 00:00:00-0800  
 **✍️ Authors:** Elia Zaitsev  
@@ -31,7 +44,7 @@
 
 ---
 
-#### 3. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
+#### 4. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
 
 **📅 Published:** Feb 03, 2026 00:00:00-0800  
 **✍️ Authors:** Bhavna B. Sehgal  
@@ -45,7 +58,7 @@
 
 ---
 
-#### 4. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
+#### 5. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
 
 **📅 Published:** Feb 03, 2026 00:00:00-0800  
 **✍️ Authors:** Brad Moon  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
+#### 6. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
 
 **📅 Published:** Feb 02, 2026 00:00:00-0800  
 **✍️ Authors:** Scott Wotring  
@@ -71,7 +84,7 @@
 
 ---
 
-#### 6. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
+#### 7. [How Agentic Tool Chain Attacks Threaten AI Agent Security](https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/)
 
 **📅 Published:** Jan 30, 2026 00:00:00-0800  
 **✍️ Authors:** Vanessa Villa  
@@ -85,7 +98,7 @@
 
 ---
 
-#### 7. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
+#### 8. [LABYRINTH CHOLLIMA Evolves into Three Adversaries](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 **📅 Published:** Jan 29, 2026 00:00:00-0800  
 **✍️ Authors:** Rob Bruner  
@@ -98,7 +111,7 @@
 
 ---
 
-#### 8. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
+#### 9. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/)
 
 **📅 Published:** Jan 28, 2026 00:00:00-0800  
 **✍️ Authors:** Chris Prall  
@@ -112,7 +125,7 @@
 
 ---
 
-#### 9. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
+#### 10. [Data Protection Day 2026: From Compliance to Resilience](https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/)
 
 **📅 Published:** Jan 28, 2026 00:00:00-0800  
 **✍️ Authors:** Drew Bagley - Christoph Bausewein  
@@ -123,20 +136,6 @@
 
 - **⚠️ Issue:** As threats accelerate, data protection evolves from compliance to resilience
 - **✅ Solution:** The AI era is redefining data protection
-
----
-
-#### 10. [Small Devices, Big Risk: USB Drives Threaten Enterprise Security](https://www.crowdstrike.com/en-us/blog/usb-drives-threaten-enterprise-security/)
-
-**📅 Published:** Jan 21, 2026 00:00:00-0600  
-**✍️ Authors:** Luke Hunsinger - Dana Larson  
-
-**📝 Summary:** Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives
-- **✅ Solution:** Learn how CrowdStrike protects data going out, and threats coming in, across removable media like USB drives
 
 ---
 

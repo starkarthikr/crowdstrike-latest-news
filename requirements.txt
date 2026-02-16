@@ -1,9 +1,12 @@
 # Python dependencies with security patches
-# Updated: February 10, 2026
+# Updated: February 16, 2026
 # All versions pinned to secure releases
 
 # HTTP library - Fixed CVE-2024-47081, CVE-2024-35195, CVE-2023-32681
 requests>=2.32.4
+
+# RSS/Atom feed parsing
+feedparser>=6.0.11
 
 # Web scraping and parsing
 beautifulsoup4>=4.12.3  # Security updates

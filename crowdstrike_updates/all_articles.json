@@ -1,6 +1,74 @@
 [
   {
     "category": "main_blog",
+    "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/",
+    "published": "Feb 12, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "CrowdStrike has the most five-star ratings of any vendor evaluated in the report, based on the most verified ratings of any vendor.",
+    "authors": [
+      "Ryan Terry"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "How to Scale SOC Automation with Falcon Fusion SOAR",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/",
+    "published": "Feb 11, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Discover practical guidance for SOC teams looking to automate their first workflows and scale with confidence.",
+    "authors": [
+      "Paola Miranda"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security",
+    "link": "https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/",
+    "published": "Feb 10, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Learn about CrowdStrike's human-AI feedback loop and how it powers our high-performing agentic defense.",
+    "authors": [
+      "Chris Bowie - Grace Ural - Lucia Stanham"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/",
+    "published": "Feb 10, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publicly known, and five Critical vulnerabilities.",
+    "authors": [
+      "Falcon Exposure Management Team"
+    ],
+    "analysis": {
+      "issue": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publicly known, and five Critical vulnerabilities",
+      "solution": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publicly known, and five Critical vulnerabilities",
+      "cause": null,
+      "timeline": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publi"
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/",
     "published": "Feb 09, 2026 00:00:00-0600",
@@ -97,74 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "How Agentic Tool Chain Attacks Threaten AI Agent Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-agentic-tool-chain-attacks-threaten-ai-agent-security/",
-    "published": "Jan 30, 2026 00:00:00-0800",
-    "summary": "",
-    "ai_summary": "Learn about three critical agentic tool chain attacks, how they exploit AI agents, and how you can mitigate risk.",
-    "authors": [
-      "Vanessa Villa"
-    ],
-    "analysis": {
-      "issue": "Learn about three critical agentic tool chain attacks, how they exploit AI agents, and how you can mitigate risk",
-      "solution": "Learn about three critical agentic tool chain attacks, how they exploit AI agents, and how you can mitigate risk",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "LABYRINTH CHOLLIMA Evolves into Three Adversaries",
-    "link": "https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/",
-    "published": "Jan 29, 2026 00:00:00-0800",
-    "summary": "",
-    "ai_summary": "LABYRINTH CHOLLIMA has evolved into three distinct adversaries with specialized malware, objectives, and tradecraft.",
-    "authors": [
-      "Rob Bruner"
-    ],
-    "analysis": {
-      "issue": "LABYRINTH CHOLLIMA has evolved into three distinct adversaries with specialized malware, objectives, and tradecraft",
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Voice of the Customer for Endpoint Protection Platforms",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-voice-of-the-customer-for-epp-report/",
-    "published": "Jan 28, 2026 00:00:00-0800",
-    "summary": "",
-    "ai_summary": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Voice of the Customer for Endpoint Protection Platforms report.",
-    "authors": [
-      "Chris Prall"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Voice of the Customer for Endpoint Protection Platforms report",
-      "cause": null,
-      "timeline": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Voice of the Customer for Endpoint Protection Platforms report."
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Data Protection Day 2026: From Compliance to Resilience",
-    "link": "https://www.crowdstrike.com/en-us/blog/data-protection-day-2026-from-compliance-to-resilience/",
-    "published": "Jan 28, 2026 00:00:00-0800",
-    "summary": "",
-    "ai_summary": "The AI era is redefining data protection.",
-    "authors": [
-      "Drew Bagley - Christoph Bausewein"
-    ],
-    "analysis": {
-      "issue": "As threats accelerate, data protection evolves from compliance to resilience",
-      "solution": "The AI era is redefining data protection",
       "cause": null,
       "timeline": null
     }

@@ -1,6 +1,40 @@
 [
   {
     "category": "main_blog",
+    "title": "Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge",
+    "link": "https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/",
+    "published": "Feb 18, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available.",
+    "authors": [
+      "John Gamble - Vanessa Villa"
+    ],
+    "analysis": {
+      "issue": "A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available",
+      "solution": "A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "Exposing Insider Threats through Data Protection, Identity, and HR Context",
+    "link": "https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/",
+    "published": "Feb 18, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool.",
+    "authors": [
+      "Radu-Emanuel Chiscariu - Emilian Duca"
+    ],
+    "analysis": {
+      "issue": "Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/",
     "published": "Feb 12, 2026 00:00:00-0600",
@@ -133,40 +167,6 @@
       "solution": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools",
       "cause": null,
       "timeline": "CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools."
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/",
-    "published": "Feb 03, 2026 00:00:00-0800",
-    "summary": "",
-    "ai_summary": "The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test.",
-    "authors": [
-      "Brad Moon"
-    ],
-    "analysis": {
-      "issue": "The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test",
-      "solution": "The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/",
-    "published": "Feb 02, 2026 00:00:00-0800",
-    "summary": "",
-    "ai_summary": "Leaders at WEX, Med Center Health, and Genesys share how they're using CrowdStrike to secure AI systems.",
-    "authors": [
-      "Scott Wotring"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
     }
   }
 ]

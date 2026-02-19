@@ -1,13 +1,40 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-02-18 19:02:24 UTC
+**Last Updated:** 2026-02-19 02:38:41 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
+#### 1. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+
+**📅 Published:** Feb 18, 2026 00:00:00-0600  
+**✍️ Authors:** John Gamble - Vanessa Villa  
+
+**📝 Summary:** A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available
+- **✅ Solution:** A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available
+
+---
+
+#### 2. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+
+**📅 Published:** Feb 18, 2026 00:00:00-0600  
+**✍️ Authors:** Radu-Emanuel Chiscariu - Emilian Duca  
+
+**📝 Summary:** Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool
+
+---
+
+#### 3. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
 
 **📅 Published:** Feb 12, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -19,7 +46,7 @@
 
 ---
 
-#### 2. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
+#### 4. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
 
 **📅 Published:** Feb 11, 2026 00:00:00-0600  
 **✍️ Authors:** Paola Miranda  
@@ -31,7 +58,7 @@
 
 ---
 
-#### 3. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
+#### 5. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
 
 **📅 Published:** Feb 10, 2026 00:00:00-0600  
 **✍️ Authors:** Chris Bowie - Grace Ural - Lucia Stanham  
@@ -43,7 +70,7 @@
 
 ---
 
-#### 4. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
+#### 6. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
 
 **📅 Published:** Feb 10, 2026 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -58,7 +85,7 @@
 
 ---
 
-#### 5. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
+#### 7. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
 
 **📅 Published:** Feb 09, 2026 00:00:00-0600  
 **✍️ Authors:** Rona Kedmi  
@@ -71,7 +98,7 @@
 
 ---
 
-#### 6. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
+#### 8. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
 
 **📅 Published:** Feb 05, 2026 00:00:00-0600  
 **✍️ Authors:** Falcon Adversary OverWatch  
@@ -83,7 +110,7 @@
 
 ---
 
-#### 7. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+#### 9. [What Security Teams Need to Know About OpenClaw, the AI Super Agent](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
 
 **📅 Published:** Feb 04, 2026 00:00:00-0800  
 **✍️ Authors:** Elia Zaitsev  
@@ -95,7 +122,7 @@
 
 ---
 
-#### 8. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
+#### 10. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner Peer Insights&trade; Voice of the Customer for Application Security Posture Management Tools](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voice-of-the-customer-for-aspm/)
 
 **📅 Published:** Feb 03, 2026 00:00:00-0800  
 **✍️ Authors:** Bhavna B. Sehgal  
@@ -106,32 +133,6 @@
 
 - **✅ Solution:** CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools
 - **⏰ Timeline:** CrowdStrike was named a Customers’ Choice in the 2026 Gartner Peer Insights Voice of the Customer for Application Security Posture Management Tools.
-
----
-
-#### 9. [CrowdStrike Falcon Scores Perfect 100% in SE Labs&rsquo; Most Challenging Ransomware Test](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-scores-100-percent-in-se-labs-ransomware-test/)
-
-**📅 Published:** Feb 03, 2026 00:00:00-0800  
-**✍️ Authors:** Brad Moon  
-
-**📝 Summary:** The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test
-- **✅ Solution:** The CrowdStrike Falcon scored a perfect 100% detection, protection, and accuracy in SE Labs’ most challenging ransomware test
-
----
-
-#### 10. [Secure AI with CrowdStrike: Real-World Stories of Protecting AI Workloads and Data](https://www.crowdstrike.com/en-us/blog/how-three-companies-secure-ai-with-crowdstrike/)
-
-**📅 Published:** Feb 02, 2026 00:00:00-0800  
-**✍️ Authors:** Scott Wotring  
-
-**📝 Summary:** Leaders at WEX, Med Center Health, and Genesys share how they're using CrowdStrike to secure AI systems.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

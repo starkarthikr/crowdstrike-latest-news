@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-02-26 13:18:13 UTC
+**Last Updated:** 2026-02-26 18:59:59 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
+#### 1. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
+
+**📅 Published:** Feb 26, 2026 00:00:00-0600  
+**✍️ Authors:** Ryan Terry  
+
+**📝 Summary:** FalconID brings continuous risk-aware authorization to MFA for Falcon Next-Gen Identity Security.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** FalconID brings continuous risk-aware authorization to MFA for Falcon Next-Gen Identity Security
+- **✅ Solution:** FalconID brings continuous risk-aware authorization to MFA for Falcon Next-Gen Identity Security
+
+---
+
+#### 2. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
 
 **📅 Published:** Feb 24, 2026 00:00:00-0600  
 **✍️ Authors:** Adam Meyers  
@@ -21,7 +35,7 @@
 
 ---
 
-#### 2. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
+#### 3. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
 
 **📅 Published:** Feb 23, 2026 00:00:00-0600  
 **✍️ Authors:** Alen Peric  
@@ -35,7 +49,7 @@
 
 ---
 
-#### 3. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+#### 4. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
 
 **📅 Published:** Feb 18, 2026 00:00:00-0600  
 **✍️ Authors:** John Gamble - Vanessa Villa  
@@ -49,7 +63,7 @@
 
 ---
 
-#### 4. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+#### 5. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
 
 **📅 Published:** Feb 18, 2026 00:00:00-0600  
 **✍️ Authors:** Radu-Emanuel Chiscariu - Emilian Duca  
@@ -62,7 +76,7 @@
 
 ---
 
-#### 5. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
+#### 6. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
 
 **📅 Published:** Feb 12, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -74,7 +88,7 @@
 
 ---
 
-#### 6. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
+#### 7. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
 
 **📅 Published:** Feb 11, 2026 00:00:00-0600  
 **✍️ Authors:** Paola Miranda  
@@ -86,7 +100,7 @@
 
 ---
 
-#### 7. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
+#### 8. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
 
 **📅 Published:** Feb 10, 2026 00:00:00-0600  
 **✍️ Authors:** Chris Bowie - Grace Ural - Lucia Stanham  
@@ -98,7 +112,7 @@
 
 ---
 
-#### 8. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
+#### 9. [February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/)
 
 **📅 Published:** Feb 10, 2026 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -113,7 +127,7 @@
 
 ---
 
-#### 9. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
+#### 10. [CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/)
 
 **📅 Published:** Feb 09, 2026 00:00:00-0600  
 **✍️ Authors:** Rona Kedmi  
@@ -123,18 +137,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management
-
----
-
-#### 10. [Advanced Web Shell Detection and Prevention: A Deep Dive into CrowdStrike's Linux Sensor Capabilities](https://www.crowdstrike.com/en-us/blog/advanced-web-shell-detection-and-prevention/)
-
-**📅 Published:** Feb 05, 2026 00:00:00-0600  
-**✍️ Authors:** Falcon Adversary OverWatch  
-
-**📝 Summary:** Learn about recently released enhancements for the Falcon sensor on Linux platforms that provide better visibility.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

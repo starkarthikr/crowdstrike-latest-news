@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "CrowdStrike Achieves NCSC CIR Assurance for Incident Response",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/",
+    "published": "Mar 02, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "This certification recognizes CrowdStrike's incident response capability, governance, and technical competence.",
+    "authors": [
+      "Max Gebhardt"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/",
     "published": "Feb 26, 2026 00:00:00-0600",
@@ -150,23 +167,6 @@
       "solution": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publicly known, and five Critical vulnerabilities",
       "cause": null,
       "timeline": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publi"
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-only-customers-choice-2025-gartner-voice-of-the-customer-easm/",
-    "published": "Feb 09, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "CrowdStrike is the only vendor to be named Customers’ Choice for the second year in a row.",
-    "authors": [
-      "Rona Kedmi"
-    ],
-    "analysis": {
-      "issue": "CrowdStrike Is the Only Vendor to Be Named a Customers&rsquo; Choice in 2025 Gartner&reg; Voice of the Customer for External Attack Surface Management",
-      "solution": null,
-      "cause": null,
-      "timeline": null
     }
   }
 ]

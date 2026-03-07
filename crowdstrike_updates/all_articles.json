@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/",
+    "published": "Mar 06, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Falcon sensor-based log collector deployment will extend the existing policy-driven control plane to automate collector installation and management.",
+    "authors": [
+      "Arfan Sharif"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Achieves NCSC CIR Assurance for Incident Response",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/",
     "published": "Mar 02, 2026 00:00:00-0600",
@@ -150,23 +167,6 @@
       "solution": null,
       "cause": null,
       "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "February 2026 Patch Tuesday: Six Zero-Days Among 59 CVEs Patched",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-february-2026/",
-    "published": "Feb 10, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publicly known, and five Critical vulnerabilities.",
-    "authors": [
-      "Falcon Exposure Management Team"
-    ],
-    "analysis": {
-      "issue": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publicly known, and five Critical vulnerabilities",
-      "solution": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publicly known, and five Critical vulnerabilities",
-      "cause": null,
-      "timeline": "Microsoft's February 2026 Patch Tuesday addresses 59 CVEs, featuring six exploited vulnerabilities, three of which were publi"
     }
   }
 ]

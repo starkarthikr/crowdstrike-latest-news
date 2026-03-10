@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-03-09 18:59:40 UTC
+**Last Updated:** 2026-03-10 02:29:09 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+#### 1. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+
+**📅 Published:** Mar 09, 2026 00:00:00-0400  
+**✍️ Authors:** Adina Schoeneman  
+
+**📝 Summary:** CrowdStrike expands protection across IoT, OT, and now IoMT healthcare devices in the Falcon platform.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike expands protection across IoT, OT, and now IoMT healthcare devices in the Falcon platform
+
+---
+
+#### 2. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **📅 Published:** Mar 06, 2026 00:00:00-0600  
 **✍️ Authors:** Arfan Sharif  
@@ -19,7 +32,7 @@
 
 ---
 
-#### 2. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
+#### 3. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
 
 **📅 Published:** Mar 02, 2026 00:00:00-0600  
 **✍️ Authors:** Max Gebhardt  
@@ -31,7 +44,7 @@
 
 ---
 
-#### 3. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
+#### 4. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
 
 **📅 Published:** Feb 26, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -45,7 +58,7 @@
 
 ---
 
-#### 4. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
+#### 5. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
 
 **📅 Published:** Feb 24, 2026 00:00:00-0600  
 **✍️ Authors:** Adam Meyers  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
+#### 6. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
 
 **📅 Published:** Feb 23, 2026 00:00:00-0600  
 **✍️ Authors:** Alen Peric  
@@ -73,7 +86,7 @@
 
 ---
 
-#### 6. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+#### 7. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
 
 **📅 Published:** Feb 18, 2026 00:00:00-0600  
 **✍️ Authors:** John Gamble - Vanessa Villa  
@@ -87,7 +100,7 @@
 
 ---
 
-#### 7. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
+#### 8. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
 
 **📅 Published:** Feb 18, 2026 00:00:00-0600  
 **✍️ Authors:** Radu-Emanuel Chiscariu - Emilian Duca  
@@ -100,7 +113,7 @@
 
 ---
 
-#### 8. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
+#### 9. [CrowdStrike Named a Customers&rsquo; Choice in 2026 Gartner&reg; Peer Insights&trade; Voice of the Customer for User Authentication](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-customers-choice-2026-gartner-peer-insights-voc-user-authentication/)
 
 **📅 Published:** Feb 12, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -112,24 +125,12 @@
 
 ---
 
-#### 9. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
+#### 10. [How to Scale SOC Automation with Falcon Fusion SOAR](https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/)
 
 **📅 Published:** Feb 11, 2026 00:00:00-0600  
 **✍️ Authors:** Paola Miranda  
 
 **📝 Summary:** Discover practical guidance for SOC teams looking to automate their first workflows and scale with confidence.
-
-**🔍 Detailed Analysis:**
-
-
----
-
-#### 10. [Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security](https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/)
-
-**📅 Published:** Feb 10, 2026 00:00:00-0600  
-**✍️ Authors:** Chris Bowie - Grace Ural - Lucia Stanham  
-
-**📝 Summary:** Learn about CrowdStrike's human-AI feedback loop and how it powers our high-performing agentic defense.
 
 **🔍 Detailed Analysis:**
 

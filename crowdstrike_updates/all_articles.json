@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Falcon for XIoT Extends Asset Protection to Healthcare Environments",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/",
+    "published": "Mar 09, 2026 00:00:00-0400",
+    "summary": "",
+    "ai_summary": "CrowdStrike expands protection across IoT, OT, and now IoMT healthcare devices in the Falcon platform.",
+    "authors": [
+      "Adina Schoeneman"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "CrowdStrike expands protection across IoT, OT, and now IoMT healthcare devices in the Falcon platform",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/",
     "published": "Mar 06, 2026 00:00:00-0600",
@@ -144,23 +161,6 @@
     "ai_summary": "Discover practical guidance for SOC teams looking to automate their first workflows and scale with confidence.",
     "authors": [
       "Paola Miranda"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Inside the Human-AI Feedback Loop Powering CrowdStrike&rsquo;s Agentic Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/inside-the-human-ai-feedback-loop-powering-crowdstrike-agentic-security/",
-    "published": "Feb 10, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Learn about CrowdStrike's human-AI feedback loop and how it powers our high-performing agentic defense.",
-    "authors": [
-      "Chris Bowie - Grace Ural - Lucia Stanham"
     ],
     "analysis": {
       "issue": null,

@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/",
+    "published": "Mar 10, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities.",
+    "authors": [
+      "Falcon Exposure Management Team"
+    ],
+    "analysis": {
+      "issue": "Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities",
+      "solution": "Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities",
+      "cause": null,
+      "timeline": "Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities."
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Falcon for XIoT Extends Asset Protection to Healthcare Environments",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/",
     "published": "Mar 09, 2026 00:00:00-0400",
@@ -144,23 +161,6 @@
     "ai_summary": "CrowdStrike has the most five-star ratings of any vendor evaluated in the report, based on the most verified ratings of any vendor.",
     "authors": [
       "Ryan Terry"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "How to Scale SOC Automation with Falcon Fusion SOAR",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-to-scale-soc-automation-with-falcon-fusion-soar/",
-    "published": "Feb 11, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Discover practical guidance for SOC teams looking to automate their first workflows and scale with confidence.",
-    "authors": [
-      "Paola Miranda"
     ],
     "analysis": {
       "issue": null,

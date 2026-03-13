@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-03-12 19:00:27 UTC
+**Last Updated:** 2026-03-13 02:32:23 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
+#### 1. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
+
+**📅 Published:** Mar 12, 2026 00:00:00-0500  
+**✍️ Authors:** Scott Wotring  
+
+**📝 Summary:** Learn how Charlotte AI empowers defenders to cut through noise, respond faster, and stay ahead of modern adversaries.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** Learn how Charlotte AI empowers defenders to cut through noise, respond faster, and stay ahead of modern adversaries
+
+---
+
+#### 2. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
 
 **📅 Published:** Mar 11, 2026 00:00:00-0500  
 **✍️ Authors:** Ash Leslie - Colton Terrace - Chris Kent  
@@ -19,7 +32,7 @@
 
 ---
 
-#### 2. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
+#### 3. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
 
 **📅 Published:** Mar 10, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+#### 4. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
 
 **📅 Published:** Mar 09, 2026 00:00:00-0400  
 **✍️ Authors:** Adina Schoeneman  
@@ -47,7 +60,7 @@
 
 ---
 
-#### 4. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+#### 5. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **📅 Published:** Mar 06, 2026 00:00:00-0600  
 **✍️ Authors:** Arfan Sharif  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
+#### 6. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
 
 **📅 Published:** Mar 02, 2026 00:00:00-0600  
 **✍️ Authors:** Max Gebhardt  
@@ -71,7 +84,7 @@
 
 ---
 
-#### 6. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
+#### 7. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
 
 **📅 Published:** Feb 26, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -85,7 +98,7 @@
 
 ---
 
-#### 7. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
+#### 8. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
 
 **📅 Published:** Feb 24, 2026 00:00:00-0600  
 **✍️ Authors:** Adam Meyers  
@@ -99,7 +112,7 @@
 
 ---
 
-#### 8. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
+#### 9. [The Art of Deception: How Threat Actors Master Typosquatting Campaigns to Bypass Detection](https://www.crowdstrike.com/en-us/blog/the-art-of-deception-how-threat-actors-master-typosquatting-campaigns-to-bypass-detection/)
 
 **📅 Published:** Feb 23, 2026 00:00:00-0600  
 **✍️ Authors:** Alen Peric  
@@ -113,7 +126,7 @@
 
 ---
 
-#### 9. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
+#### 10. [Introducing &quot;AI Unlocked: Decoding Prompt Injection,&quot; a New Interactive Challenge](https://www.crowdstrike.com/en-us/blog/introducing-ai-unlocked-interactive-prompt-injection-challenge/)
 
 **📅 Published:** Feb 18, 2026 00:00:00-0600  
 **✍️ Authors:** John Gamble - Vanessa Villa  
@@ -124,19 +137,6 @@
 
 - **⚠️ Issue:** A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available
 - **✅ Solution:** A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available
-
----
-
-#### 10. [Exposing Insider Threats through Data Protection, Identity, and HR Context](https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/)
-
-**📅 Published:** Feb 18, 2026 00:00:00-0600  
-**✍️ Authors:** Radu-Emanuel Chiscariu - Emilian Duca  
-
-**📝 Summary:** Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool
 
 ---
 

@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations",
+    "link": "https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/",
+    "published": "Mar 12, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Learn how Charlotte AI empowers defenders to cut through noise, respond faster, and stay ahead of modern adversaries.",
+    "authors": [
+      "Scott Wotring"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "Learn how Charlotte AI empowers defenders to cut through noise, respond faster, and stay ahead of modern adversaries",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities",
     "link": "https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/",
     "published": "Mar 11, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available",
       "solution": "A new hands-on AI security challenge, designed to improve understanding of prompt injection attacks, is now available",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Exposing Insider Threats through Data Protection, Identity, and HR Context",
-    "link": "https://www.crowdstrike.com/en-us/blog/exposing-insider-threats-through-data-protection-identity-hr-context/",
-    "published": "Feb 18, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool.",
-    "authors": [
-      "Radu-Emanuel Chiscariu - Emilian Duca"
-    ],
-    "analysis": {
-      "issue": "Learn about CrowdStrike Falcon dashboard features that can detect insider threats and how customers can leverage this tool",
-      "solution": null,
       "cause": null,
       "timeline": null
     }

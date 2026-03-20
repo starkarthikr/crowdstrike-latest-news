@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-03-20 02:32:53 UTC
+**Last Updated:** 2026-03-20 07:02:52 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
+#### 1. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
+
+**📅 Published:** Mar 19, 2026 00:00:00-0500  
+**✍️ Authors:** Bruce McCorkendale - Rob Truesdell  
+
+**📝 Summary:** CrowdStrike Falcon AI Detection and Response (AIDR) now supports NeMo Guardrails for enterprise-grade agentic AI protection.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike Falcon AI Detection and Response (AIDR) now supports NeMo Guardrails for enterprise-grade agentic AI protection
+
+---
+
+#### 2. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
 
 **📅 Published:** Mar 18, 2026 00:00:00-0500  
 **✍️ Authors:** Adina Schoeneman  
@@ -20,7 +33,7 @@
 
 ---
 
-#### 2. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
+#### 3. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
 
 **📅 Published:** Mar 18, 2026 00:00:00-0500  
 **✍️ Authors:** Karan Sondhi  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
+#### 4. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
 
 **📅 Published:** Mar 12, 2026 00:00:00-0500  
 **✍️ Authors:** Scott Wotring  
@@ -47,7 +60,7 @@
 
 ---
 
-#### 4. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
+#### 5. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
 
 **📅 Published:** Mar 11, 2026 00:00:00-0500  
 **✍️ Authors:** Ash Leslie - Colton Terrace - Chris Kent  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
+#### 6. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
 
 **📅 Published:** Mar 10, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -74,7 +87,7 @@
 
 ---
 
-#### 6. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+#### 7. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
 
 **📅 Published:** Mar 09, 2026 00:00:00-0400  
 **✍️ Authors:** Adina Schoeneman  
@@ -87,7 +100,7 @@
 
 ---
 
-#### 7. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+#### 8. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **📅 Published:** Mar 06, 2026 00:00:00-0600  
 **✍️ Authors:** Arfan Sharif  
@@ -99,7 +112,7 @@
 
 ---
 
-#### 8. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
+#### 9. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
 
 **📅 Published:** Mar 02, 2026 00:00:00-0600  
 **✍️ Authors:** Max Gebhardt  
@@ -111,7 +124,7 @@
 
 ---
 
-#### 9. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
+#### 10. [CrowdStrike FalconID Brings Phishing-Resistant MFA to Falcon Next-Gen Identity Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-id-brings-phishing-resistant-mfa-to-falcon-next-gen-identity-security/)
 
 **📅 Published:** Feb 26, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -122,20 +135,6 @@
 
 - **⚠️ Issue:** FalconID brings continuous risk-aware authorization to MFA for Falcon Next-Gen Identity Security
 - **✅ Solution:** FalconID brings continuous risk-aware authorization to MFA for Falcon Next-Gen Identity Security
-
----
-
-#### 10. [CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-global-threat-report-findings/)
-
-**📅 Published:** Feb 24, 2026 00:00:00-0600  
-**✍️ Authors:** Adam Meyers  
-
-**📝 Summary:** Learn how adversaries leverage trusted access paths, AI-enabled techniques, and cross-domain movement to evade detection.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike 2026 Global Threat Report: The Evasive Adversary Wields AI
-- **✅ Solution:** Learn how adversaries leverage trusted access paths, AI-enabled techniques, and cross-domain movement to evade detection
 
 ---
 

@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-03-21 02:27:27 UTC
+**Last Updated:** 2026-03-21 06:52:50 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -19,7 +19,21 @@
 
 ---
 
-#### 2. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
+#### 2. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
+
+**📅 Published:** Mar 20, 2026 00:00:00-0500  
+**✍️ Authors:** Adam Cardillo - Ben Ellett - Travis Lowe - Radu-Emanuel Chiscariu  
+
+**📝 Summary:** CrowdStrike discusses how this activity was discovered, how the attack works, what the payload does, and how to defend.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike discusses how this activity was discovered, how the attack works, what the payload does, and how to defend
+- **✅ Solution:** CrowdStrike discusses how this activity was discovered, how the attack works, what the payload does, and how to defend
+
+---
+
+#### 3. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
 
 **📅 Published:** Mar 19, 2026 00:00:00-0500  
 **✍️ Authors:** Bruce McCorkendale - Rob Truesdell  
@@ -32,7 +46,7 @@
 
 ---
 
-#### 3. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
+#### 4. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
 
 **📅 Published:** Mar 18, 2026 00:00:00-0500  
 **✍️ Authors:** Adina Schoeneman  
@@ -45,7 +59,7 @@
 
 ---
 
-#### 4. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
+#### 5. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
 
 **📅 Published:** Mar 18, 2026 00:00:00-0500  
 **✍️ Authors:** Karan Sondhi  
@@ -59,7 +73,7 @@
 
 ---
 
-#### 5. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
+#### 6. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
 
 **📅 Published:** Mar 12, 2026 00:00:00-0500  
 **✍️ Authors:** Scott Wotring  
@@ -72,7 +86,7 @@
 
 ---
 
-#### 6. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
+#### 7. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
 
 **📅 Published:** Mar 11, 2026 00:00:00-0500  
 **✍️ Authors:** Ash Leslie - Colton Terrace - Chris Kent  
@@ -84,7 +98,7 @@
 
 ---
 
-#### 7. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
+#### 8. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
 
 **📅 Published:** Mar 10, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -99,7 +113,7 @@
 
 ---
 
-#### 8. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
+#### 9. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
 
 **📅 Published:** Mar 09, 2026 00:00:00-0400  
 **✍️ Authors:** Adina Schoeneman  
@@ -112,24 +126,12 @@
 
 ---
 
-#### 9. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
+#### 10. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
 
 **📅 Published:** Mar 06, 2026 00:00:00-0600  
 **✍️ Authors:** Arfan Sharif  
 
 **📝 Summary:** Falcon sensor-based log collector deployment will extend the existing policy-driven control plane to automate collector installation and management.
-
-**🔍 Detailed Analysis:**
-
-
----
-
-#### 10. [CrowdStrike Achieves NCSC CIR Assurance for Incident Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-ncsc-cir-certification-for-incident-response/)
-
-**📅 Published:** Mar 02, 2026 00:00:00-0600  
-**✍️ Authors:** Max Gebhardt  
-
-**📝 Summary:** This certification recognizes CrowdStrike's incident response capability, governance, and technical competence.
 
 **🔍 Detailed Analysis:**
 

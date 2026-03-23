@@ -1,6 +1,40 @@
 [
   {
     "category": "main_blog",
+    "title": "Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/",
+    "published": "Mar 23, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Falcon Next-Gen SIEM is expanding to support third-party EDR solutions, starting with Microsoft Defender.",
+    "authors": [
+      "Paola Miranda"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "Falcon Next-Gen SIEM is expanding to support third-party EDR solutions, starting with Microsoft Defender",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud",
+    "link": "https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/",
+    "published": "Mar 23, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Learn how Falcon platform innovations enable organizations to confidently and securely accelerate AI development and adoption.",
+    "authors": [
+      "John Gamble"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown",
     "link": "https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/",
     "published": "Mar 20, 2026 00:00:00-0500",
@@ -133,40 +167,6 @@
       "solution": "Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities",
       "cause": null,
       "timeline": "Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities."
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Falcon for XIoT Extends Asset Protection to Healthcare Environments",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/",
-    "published": "Mar 09, 2026 00:00:00-0400",
-    "summary": "",
-    "ai_summary": "CrowdStrike expands protection across IoT, OT, and now IoMT healthcare devices in the Falcon platform.",
-    "authors": [
-      "Adina Schoeneman"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "CrowdStrike expands protection across IoT, OT, and now IoMT healthcare devices in the Falcon platform",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/",
-    "published": "Mar 06, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Falcon sensor-based log collector deployment will extend the existing policy-driven control plane to automate collector installation and management.",
-    "authors": [
-      "Arfan Sharif"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
     }
   }
 ]

@@ -1,13 +1,38 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-03-23 07:18:23 UTC
+**Last Updated:** 2026-03-23 13:19:03 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
+#### 1. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
+
+**📅 Published:** Mar 23, 2026 00:00:00-0500  
+**✍️ Authors:** Paola Miranda  
+
+**📝 Summary:** Falcon Next-Gen SIEM is expanding to support third-party EDR solutions, starting with Microsoft Defender.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** Falcon Next-Gen SIEM is expanding to support third-party EDR solutions, starting with Microsoft Defender
+
+---
+
+#### 2. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
+
+**📅 Published:** Mar 23, 2026 00:00:00-0500  
+**✍️ Authors:** John Gamble  
+
+**📝 Summary:** Learn how Falcon platform innovations enable organizations to confidently and securely accelerate AI development and adoption.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 3. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
 
 **📅 Published:** Mar 20, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Complete Team - Counter Adversary Operations  
@@ -19,7 +44,7 @@
 
 ---
 
-#### 2. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
+#### 4. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
 
 **📅 Published:** Mar 20, 2026 00:00:00-0500  
 **✍️ Authors:** Adam Cardillo - Ben Ellett - Travis Lowe - Radu-Emanuel Chiscariu  
@@ -33,7 +58,7 @@
 
 ---
 
-#### 3. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
+#### 5. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
 
 **📅 Published:** Mar 19, 2026 00:00:00-0500  
 **✍️ Authors:** Bruce McCorkendale - Rob Truesdell  
@@ -46,7 +71,7 @@
 
 ---
 
-#### 4. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
+#### 6. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
 
 **📅 Published:** Mar 18, 2026 00:00:00-0500  
 **✍️ Authors:** Adina Schoeneman  
@@ -59,7 +84,7 @@
 
 ---
 
-#### 5. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
+#### 7. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
 
 **📅 Published:** Mar 18, 2026 00:00:00-0500  
 **✍️ Authors:** Karan Sondhi  
@@ -73,7 +98,7 @@
 
 ---
 
-#### 6. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
+#### 8. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
 
 **📅 Published:** Mar 12, 2026 00:00:00-0500  
 **✍️ Authors:** Scott Wotring  
@@ -86,7 +111,7 @@
 
 ---
 
-#### 7. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
+#### 9. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
 
 **📅 Published:** Mar 11, 2026 00:00:00-0500  
 **✍️ Authors:** Ash Leslie - Colton Terrace - Chris Kent  
@@ -98,7 +123,7 @@
 
 ---
 
-#### 8. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
+#### 10. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
 
 **📅 Published:** Mar 10, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -110,31 +135,6 @@
 - **⚠️ Issue:** Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities
 - **✅ Solution:** Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities
 - **⏰ Timeline:** Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities.
-
----
-
-#### 9. [Falcon for XIoT Extends Asset Protection to Healthcare Environments](https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-extends-asset-protection-to-healthcare-environments/)
-
-**📅 Published:** Mar 09, 2026 00:00:00-0400  
-**✍️ Authors:** Adina Schoeneman  
-
-**📝 Summary:** CrowdStrike expands protection across IoT, OT, and now IoMT healthcare devices in the Falcon platform.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** CrowdStrike expands protection across IoT, OT, and now IoMT healthcare devices in the Falcon platform
-
----
-
-#### 10. [Falcon Next-Gen SIEM Simplifies Onboarding with Sensor-Native Log Collection](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-simplifies-onboarding-with-sensor-native-log-collection/)
-
-**📅 Published:** Mar 06, 2026 00:00:00-0600  
-**✍️ Authors:** Arfan Sharif  
-
-**📝 Summary:** Falcon sensor-based log collector deployment will extend the existing policy-driven control plane to automate collector installation and management.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

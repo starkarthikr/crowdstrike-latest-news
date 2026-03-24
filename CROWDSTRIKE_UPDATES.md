@@ -1,13 +1,52 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-03-24 13:23:11 UTC
+**Last Updated:** 2026-03-24 19:11:05 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
+#### 1. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
+
+**📅 Published:** Mar 24, 2026 00:00:00-0500  
+**✍️ Authors:** Luke Hunsinger  
+
+**📝 Summary:** Falcon Data Security helps organizations understand what data is sensitive, see how it moves in real time, and stop data theft.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** Falcon Data Security helps organizations understand what data is sensitive, see how it moves in real time, and stop data theft
+
+---
+
+#### 2. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
+
+**📅 Published:** Mar 24, 2026 00:00:00-0500  
+**✍️ Authors:** Chris Bowie - JJ Cranford  
+
+**📝 Summary:** CrowdStrike introduces agentic MDR and SOC Transformation Services to provide a trusted path to operationalizing the agentic SOC.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 3. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
+
+**📅 Published:** Mar 24, 2026 00:00:00-0500  
+**✍️ Authors:** Jason Williams  
+
+**📝 Summary:** Industry-first Falcon Cloud Security capabilities arm security teams with risk-based insights to close security gaps.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Industry-first Falcon Cloud Security capabilities arm security teams with risk-based insights to close security gaps
+- **✅ Solution:** Industry-first Falcon Cloud Security capabilities arm security teams with risk-based insights to close security gaps
+
+---
+
+#### 4. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
 
 **📅 Published:** Mar 23, 2026 00:00:00-0500  
 **✍️ Authors:** Paola Miranda  
@@ -20,7 +59,7 @@
 
 ---
 
-#### 2. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
+#### 5. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
 
 **📅 Published:** Mar 23, 2026 00:00:00-0500  
 **✍️ Authors:** John Gamble  
@@ -32,7 +71,7 @@
 
 ---
 
-#### 3. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
+#### 6. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
 
 **📅 Published:** Mar 20, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Complete Team - Counter Adversary Operations  
@@ -44,7 +83,7 @@
 
 ---
 
-#### 4. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
+#### 7. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
 
 **📅 Published:** Mar 20, 2026 00:00:00-0500  
 **✍️ Authors:** Adam Cardillo - Ben Ellett - Travis Lowe - Radu-Emanuel Chiscariu  
@@ -58,7 +97,7 @@
 
 ---
 
-#### 5. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
+#### 8. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
 
 **📅 Published:** Mar 19, 2026 00:00:00-0500  
 **✍️ Authors:** Bruce McCorkendale - Rob Truesdell  
@@ -71,7 +110,7 @@
 
 ---
 
-#### 6. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
+#### 9. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
 
 **📅 Published:** Mar 18, 2026 00:00:00-0500  
 **✍️ Authors:** Adina Schoeneman  
@@ -84,7 +123,7 @@
 
 ---
 
-#### 7. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
+#### 10. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
 
 **📅 Published:** Mar 18, 2026 00:00:00-0500  
 **✍️ Authors:** Karan Sondhi  
@@ -95,46 +134,6 @@
 
 - **⚠️ Issue:** CrowdStrike Innovates to Modernize National Security and Protect Critical Systems
 - **✅ Solution:** Con Gov enable public sector defenders to understand adversaries, mobilize security, and secure the AI
-
----
-
-#### 8. [4 Ways Businesses Use CrowdStrike Charlotte AI to Transform Security Operations](https://www.crowdstrike.com/en-us/blog/four-ways-businesses-use-charlotte-ai-to-transform-security-operations/)
-
-**📅 Published:** Mar 12, 2026 00:00:00-0500  
-**✍️ Authors:** Scott Wotring  
-
-**📝 Summary:** Learn how Charlotte AI empowers defenders to cut through noise, respond faster, and stay ahead of modern adversaries.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** Learn how Charlotte AI empowers defenders to cut through noise, respond faster, and stay ahead of modern adversaries
-
----
-
-#### 9. [Enhanced Network Visibility: A Dive into the Falcon macOS Sensor's New Capabilities](https://www.crowdstrike.com/en-us/blog/enhanced-network-visibility-dive-into-falcon-macos-sensor-new-capabilities/)
-
-**📅 Published:** Mar 11, 2026 00:00:00-0500  
-**✍️ Authors:** Ash Leslie - Colton Terrace - Chris Kent  
-
-**📝 Summary:** Learn about the new Enhanced Network Visibility feature for the CrowdStrike Falcon macOS sensor.
-
-**🔍 Detailed Analysis:**
-
-
----
-
-#### 10. [March 2026 Patch Tuesday: Eight Critical Vulnerabilities and Two Publicly Disclosed Among 82 CVEs Patched](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/)
-
-**📅 Published:** Mar 10, 2026 00:00:00-0500  
-**✍️ Authors:** Falcon Exposure Management Team  
-
-**📝 Summary:** Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities
-- **✅ Solution:** Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities
-- **⏰ Timeline:** Microsoft's March 2026 Patch Tuesday addresses 82 CVEs, featuring eight Critical vulnerabilities.
 
 ---
 

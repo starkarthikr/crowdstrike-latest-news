@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-03-25 13:22:20 UTC
+**Last Updated:** 2026-03-25 19:02:07 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
+#### 1. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
+
+**📅 Published:** Mar 25, 2026 00:00:00-0500  
+**✍️ Authors:** Lucia Stanham  
+
+**📝 Summary:** Charlotte AI underpins a security-first ecosystem for building and orchestrating agents across the SOC.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** Charlotte AI underpins a security-first ecosystem for building and orchestrating agents across the SOC
+
+---
+
+#### 2. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** Luke Hunsinger  
@@ -20,7 +33,7 @@
 
 ---
 
-#### 2. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
+#### 3. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** Chris Bowie - JJ Cranford  
@@ -32,7 +45,7 @@
 
 ---
 
-#### 3. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
+#### 4. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** Jason Williams  
@@ -46,7 +59,7 @@
 
 ---
 
-#### 4. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
+#### 5. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** JJ Cranford  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
+#### 6. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
 
 **📅 Published:** Mar 23, 2026 00:00:00-0500  
 **✍️ Authors:** Paola Miranda  
@@ -72,7 +85,7 @@
 
 ---
 
-#### 6. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
+#### 7. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
 
 **📅 Published:** Mar 23, 2026 00:00:00-0500  
 **✍️ Authors:** John Gamble  
@@ -84,7 +97,7 @@
 
 ---
 
-#### 7. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
+#### 8. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
 
 **📅 Published:** Mar 20, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Complete Team - Counter Adversary Operations  
@@ -96,7 +109,7 @@
 
 ---
 
-#### 8. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
+#### 9. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
 
 **📅 Published:** Mar 20, 2026 00:00:00-0500  
 **✍️ Authors:** Adam Cardillo - Ben Ellett - Travis Lowe - Radu-Emanuel Chiscariu  
@@ -110,7 +123,7 @@
 
 ---
 
-#### 9. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
+#### 10. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
 
 **📅 Published:** Mar 19, 2026 00:00:00-0500  
 **✍️ Authors:** Bruce McCorkendale - Rob Truesdell  
@@ -120,19 +133,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** CrowdStrike Falcon AI Detection and Response (AIDR) now supports NeMo Guardrails for enterprise-grade agentic AI protection
-
----
-
-#### 10. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
-
-**📅 Published:** Mar 18, 2026 00:00:00-0500  
-**✍️ Authors:** Adina Schoeneman  
-
-**📝 Summary:** CrowdStrike's FedRAMP High authorized offering now enables government agencies to identify, prioritize, and address risks across OT and IT environments.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike's FedRAMP High authorized offering now enables government agencies to identify, prioritize, and address risks across OT and IT environments
 
 ---
 

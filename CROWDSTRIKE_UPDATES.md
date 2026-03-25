@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-03-25 02:39:33 UTC
+**Last Updated:** 2026-03-25 07:09:15 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -46,7 +46,20 @@
 
 ---
 
-#### 4. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
+#### 4. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
+
+**📅 Published:** Mar 24, 2026 00:00:00-0500  
+**✍️ Authors:** JJ Cranford  
+
+**📝 Summary:** CrowdStrike Flex for Services applies the successful Falcon Flex approach to expert-led cybersecurity services.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike Flex for Services applies the successful Falcon Flex approach to expert-led cybersecurity services
+
+---
+
+#### 5. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
 
 **📅 Published:** Mar 23, 2026 00:00:00-0500  
 **✍️ Authors:** Paola Miranda  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
+#### 6. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
 
 **📅 Published:** Mar 23, 2026 00:00:00-0500  
 **✍️ Authors:** John Gamble  
@@ -71,7 +84,7 @@
 
 ---
 
-#### 6. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
+#### 7. [Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown](https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/)
 
 **📅 Published:** Mar 20, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Complete Team - Counter Adversary Operations  
@@ -83,7 +96,7 @@
 
 ---
 
-#### 7. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
+#### 8. [From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise](https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/)
 
 **📅 Published:** Mar 20, 2026 00:00:00-0500  
 **✍️ Authors:** Adam Cardillo - Ben Ellett - Travis Lowe - Radu-Emanuel Chiscariu  
@@ -97,7 +110,7 @@
 
 ---
 
-#### 8. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
+#### 9. [Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails](https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/)
 
 **📅 Published:** Mar 19, 2026 00:00:00-0500  
 **✍️ Authors:** Bruce McCorkendale - Rob Truesdell  
@@ -110,7 +123,7 @@
 
 ---
 
-#### 9. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
+#### 10. [Falcon Platform for Government Now Offers Falcon for XIoT to Secure Connected Assets](https://www.crowdstrike.com/en-us/blog/falcon-platform-for-government-now-offers-falcon-for-xiot-to-secure-connected-assets/)
 
 **📅 Published:** Mar 18, 2026 00:00:00-0500  
 **✍️ Authors:** Adina Schoeneman  
@@ -120,20 +133,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** CrowdStrike's FedRAMP High authorized offering now enables government agencies to identify, prioritize, and address risks across OT and IT environments
-
----
-
-#### 10. [CrowdStrike Innovates to Modernize National Security and Protect Critical Systems](https://www.crowdstrike.com/en-us/blog/crowdstrike-innovates-to-modernize-national-security-and-protect-critical-systems/)
-
-**📅 Published:** Mar 18, 2026 00:00:00-0500  
-**✍️ Authors:** Karan Sondhi  
-
-**📝 Summary:** New innovations debuted at Fal.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike Innovates to Modernize National Security and Protect Critical Systems
-- **✅ Solution:** Con Gov enable public sector defenders to understand adversaries, mobilize security, and secure the AI
 
 ---
 

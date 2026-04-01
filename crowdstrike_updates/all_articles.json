@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse",
+    "link": "https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/",
+    "published": "Mar 31, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD CS certificate-based attacks.",
+    "authors": [
+      "Yan Linkov"
+    ],
+    "analysis": {
+      "issue": "Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD CS certificate-based attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": "Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD"
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem",
     "link": "https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/",
     "published": "Mar 25, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "CrowdStrike discusses how this activity was discovered, how the attack works, what the payload does, and how to defend",
       "solution": "CrowdStrike discusses how this activity was discovered, how the attack works, what the payload does, and how to defend",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Secure Homegrown AI Agents with CrowdStrike Falcon AIDR and NVIDIA NeMo Guardrails",
-    "link": "https://www.crowdstrike.com/en-us/blog/secure-homegrown-ai-agents-with-crowdstrike-falcon-aidr-and-nvidia-nemo-guardrails/",
-    "published": "Mar 19, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "CrowdStrike Falcon AI Detection and Response (AIDR) now supports NeMo Guardrails for enterprise-grade agentic AI protection.",
-    "authors": [
-      "Bruce McCorkendale - Rob Truesdell"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "CrowdStrike Falcon AI Detection and Response (AIDR) now supports NeMo Guardrails for enterprise-grade agentic AI protection",
       "cause": null,
       "timeline": null
     }

@@ -1,6 +1,40 @@
 [
   {
     "category": "main_blog",
+    "title": "STARDUST CHOLLIMA Likely Compromises Axios npm Package",
+    "link": "https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/",
+    "published": "Apr 01, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "STARDUST CHOLLIMA has likely compromised Axios Note Package Manager (npm) Package with stolen manager credentials.",
+    "authors": [
+      "Counter Adversary Operations"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/",
+    "published": "Apr 01, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Falcon for IT brings precision and control with the Windows Secure Boot Certificate Lifecycle Management content pack.",
+    "authors": [
+      "Dr. Beth Williams"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse",
     "link": "https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/",
     "published": "Mar 31, 2026 00:00:00-0500",
@@ -131,40 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown",
-    "link": "https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/",
-    "published": "Mar 20, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "The subscription-based Tycoon2FA PHaaS platform, which enabled adversaries to bypass MFA, persists after takedown.",
-    "authors": [
-      "Falcon Complete Team - Counter Adversary Operations"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise",
-    "link": "https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/",
-    "published": "Mar 20, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "CrowdStrike discusses how this activity was discovered, how the attack works, what the payload does, and how to defend.",
-    "authors": [
-      "Adam Cardillo - Ben Ellett - Travis Lowe - Radu-Emanuel Chiscariu"
-    ],
-    "analysis": {
-      "issue": "CrowdStrike discusses how this activity was discovered, how the attack works, what the payload does, and how to defend",
-      "solution": "CrowdStrike discusses how this activity was discovered, how the attack works, what the payload does, and how to defend",
       "cause": null,
       "timeline": null
     }

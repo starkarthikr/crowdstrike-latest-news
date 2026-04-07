@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-04-07 02:49:51 UTC
+**Last Updated:** 2026-04-07 07:25:48 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+#### 1. [How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+
+**📅 Published:** Apr 06, 2026 00:00:00-0500  
+**✍️ Authors:** Rona Kedmi  
+
+**📝 Summary:** Learn how CrowdStrike enables continuous exposure evaluation to identify vulnerabilities in real time, prioritize risks, and respond faster than modern threats.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Learn how CrowdStrike enables continuous exposure evaluation to identify vulnerabilities in real time, prioritize risks, and respond faster than modern threats
+
+---
+
+#### 2. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **📅 Published:** Apr 01, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -19,7 +32,7 @@
 
 ---
 
-#### 2. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
+#### 3. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
 
 **📅 Published:** Apr 01, 2026 00:00:00-0500  
 **✍️ Authors:** Dr. Beth Williams  
@@ -31,7 +44,7 @@
 
 ---
 
-#### 3. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
+#### 4. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
 
 **📅 Published:** Mar 31, 2026 00:00:00-0500  
 **✍️ Authors:** Yan Linkov  
@@ -45,7 +58,7 @@
 
 ---
 
-#### 4. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
+#### 5. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
 
 **📅 Published:** Mar 25, 2026 00:00:00-0500  
 **✍️ Authors:** Lucia Stanham  
@@ -58,7 +71,7 @@
 
 ---
 
-#### 5. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
+#### 6. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** JJ Cranford  
@@ -71,7 +84,7 @@
 
 ---
 
-#### 6. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
+#### 7. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** Luke Hunsinger  
@@ -84,7 +97,7 @@
 
 ---
 
-#### 7. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
+#### 8. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** Jason Williams  
@@ -98,7 +111,7 @@
 
 ---
 
-#### 8. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
+#### 9. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** Chris Bowie - JJ Cranford  
@@ -110,7 +123,7 @@
 
 ---
 
-#### 9. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
+#### 10. [Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender](https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/)
 
 **📅 Published:** Mar 23, 2026 00:00:00-0500  
 **✍️ Authors:** Paola Miranda  
@@ -120,18 +133,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** Falcon Next-Gen SIEM is expanding to support third-party EDR solutions, starting with Microsoft Defender
-
----
-
-#### 10. [New CrowdStrike Innovations Secure AI Agents and Govern Shadow AI Across Endpoints, SaaS, and Cloud](https://www.crowdstrike.com/en-us/blog/new-crowdstrike-innovations-secure-ai-agents-govern-shadow-ai/)
-
-**📅 Published:** Mar 23, 2026 00:00:00-0500  
-**✍️ Authors:** John Gamble  
-
-**📝 Summary:** Learn how Falcon platform innovations enable organizations to confidently and securely accelerate AI development and adoption.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

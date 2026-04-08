@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-04-08 13:43:18 UTC
+**Last Updated:** 2026-04-08 19:24:00 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -9,7 +9,7 @@
 
 #### 1. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
-**📅 Published:** Apr 07, 2026 00:00:00-0500  
+**📅 Published:** Apr 06, 2026 00:00:00-0700  
 **✍️ Authors:** CrowdStrike  
 
 **📝 Summary:** CrowdStrike is a founding member of Anthropic’s security coalition for the Mythos frontier model, securing AI where it executes.

@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/",
+    "published": "Apr 07, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "CrowdStrike is a founding member of Anthropic’s security coalition for the Mythos frontier model, securing AI where it executes.",
+    "authors": [
+      "CrowdStrike"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "CrowdStrike is a founding member of Anthropic’s security coalition for the Mythos frontier model, securing AI where it executes",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed",
     "link": "https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/",
     "published": "Apr 06, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Falcon Next-Gen SIEM Supports Third-Party EDR Tools, Starting with Microsoft Defender",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-supports-third-party-edr-tools-starting-with-microsoft-defender/",
-    "published": "Mar 23, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Falcon Next-Gen SIEM is expanding to support third-party EDR solutions, starting with Microsoft Defender.",
-    "authors": [
-      "Paola Miranda"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "Falcon Next-Gen SIEM is expanding to support third-party EDR solutions, starting with Microsoft Defender",
       "cause": null,
       "timeline": null
     }

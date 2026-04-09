@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-04-08 19:24:00 UTC
+**Last Updated:** 2026-04-09 02:45:39 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -9,7 +9,7 @@
 
 #### 1. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
-**📅 Published:** Apr 06, 2026 00:00:00-0700  
+**📅 Published:** Apr 06, 2026 00:00:00-0400  
 **✍️ Authors:** CrowdStrike  
 
 **📝 Summary:** CrowdStrike is a founding member of Anthropic’s security coalition for the Mythos frontier model, securing AI where it executes.
@@ -20,9 +20,9 @@
 
 ---
 
-#### 2. [How CrowdStrike is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+#### 2. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
-**📅 Published:** Apr 06, 2026 00:00:00-0500  
+**📅 Published:** Apr 05, 2026 00:00:00-0700  
 **✍️ Authors:** Rona Kedmi  
 
 **📝 Summary:** Learn how CrowdStrike enables continuous exposure evaluation to identify vulnerabilities in real time, prioritize risks, and respond faster than modern threats.

@@ -1,13 +1,28 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-04-15 02:55:58 UTC
+**Last Updated:** 2026-04-15 07:55:57 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+#### 1. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+
+**📅 Published:** Apr 14, 2026 00:00:00-0500  
+**✍️ Authors:** Falcon Exposure Management Team  
+
+**📝 Summary:** Microsoft's April 2026 Patch Tuesday addresses 164 CVEs, featuring 8 Critical vulnerabilities, one exploited zero-day, and one disclosed zero-day.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Microsoft's April 2026 Patch Tuesday addresses 164 CVEs, featuring 8 Critical vulnerabilities, one exploited zero-day, and one disclosed zero-day
+- **✅ Solution:** Microsoft's April 2026 Patch Tuesday addresses 164 CVEs, featuring 8 Critical vulnerabilities, one exploited zero-day, and one disclosed zero-day
+- **⏰ Timeline:** Microsoft's April 2026 Patch Tuesday addresses 164 CVEs, featuring 8 Critical vulnerabilities, one exploited zero-day, and
+
+---
+
+#### 2. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **📅 Published:** Apr 06, 2026 00:00:00-0400  
 **✍️ Authors:** CrowdStrike  
@@ -20,7 +35,7 @@
 
 ---
 
-#### 2. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+#### 3. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **📅 Published:** Apr 05, 2026 00:00:00-0700  
 **✍️ Authors:** Rona Kedmi  
@@ -33,7 +48,7 @@
 
 ---
 
-#### 3. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+#### 4. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **📅 Published:** Apr 01, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -45,7 +60,7 @@
 
 ---
 
-#### 4. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
+#### 5. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
 
 **📅 Published:** Apr 01, 2026 00:00:00-0500  
 **✍️ Authors:** Dr. Beth Williams  
@@ -57,7 +72,7 @@
 
 ---
 
-#### 5. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
+#### 6. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
 
 **📅 Published:** Mar 31, 2026 00:00:00-0500  
 **✍️ Authors:** Yan Linkov  
@@ -71,7 +86,7 @@
 
 ---
 
-#### 6. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
+#### 7. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
 
 **📅 Published:** Mar 25, 2026 00:00:00-0500  
 **✍️ Authors:** Lucia Stanham  
@@ -84,7 +99,7 @@
 
 ---
 
-#### 7. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
+#### 8. [CrowdStrike Flex for Services Expands Access to Elite Security Expertise](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-the-falcon-flex-model-to-services/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** JJ Cranford  
@@ -97,7 +112,7 @@
 
 ---
 
-#### 8. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
+#### 9. [Falcon Data Security Secures Data Wherever It Lives and Moves](https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** Luke Hunsinger  
@@ -110,7 +125,7 @@
 
 ---
 
-#### 9. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
+#### 10. [CrowdStrike Advances CNAPP with Industry-First Adversary-Informed Risk Prioritization](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-cnapp-with-industry-first-adversary-informed-risk-prioritization/)
 
 **📅 Published:** Mar 24, 2026 00:00:00-0500  
 **✍️ Authors:** Jason Williams  
@@ -121,18 +136,6 @@
 
 - **⚠️ Issue:** Industry-first Falcon Cloud Security capabilities arm security teams with risk-based insights to close security gaps
 - **✅ Solution:** Industry-first Falcon Cloud Security capabilities arm security teams with risk-based insights to close security gaps
-
----
-
-#### 10. [CrowdStrike Services and Agentic MDR Put the Agentic SOC in Reach](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-and-agentic-mdr-put-the-agentic-soc-in-reach/)
-
-**📅 Published:** Mar 24, 2026 00:00:00-0500  
-**✍️ Authors:** Chris Bowie - JJ Cranford  
-
-**📝 Summary:** CrowdStrike introduces agentic MDR and SOC Transformation Services to provide a trusted path to operationalizing the agentic SOC.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

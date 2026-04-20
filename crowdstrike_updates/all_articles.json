@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.",
+    "link": "https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/",
+    "published": "Apr 20, 2026 00:00:00-0700",
+    "summary": "",
+    "ai_summary": "CrowdStrike can help organizations respond to accelerating threats in the era of frontier AI.",
+    "authors": [
+      "CrowdStrike"
+    ],
+    "analysis": {
+      "issue": "CrowdStrike can help organizations respond to accelerating threats in the era of frontier AI",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Frontier AI for Defenders: CrowdStrike and OpenAI TAC",
     "link": "https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/",
     "published": "Apr 16, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "CrowdStrike Flex for Services applies the successful Falcon Flex approach to expert-led cybersecurity services",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Falcon Data Security Secures Data Wherever It Lives and Moves",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-security-secures-data-wherever-it-lives-and-moves/",
-    "published": "Mar 24, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Falcon Data Security helps organizations understand what data is sensitive, see how it moves in real time, and stop data theft.",
-    "authors": [
-      "Luke Hunsinger"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "Falcon Data Security helps organizations understand what data is sensitive, see how it moves in real time, and stop data theft",
       "cause": null,
       "timeline": null
     }

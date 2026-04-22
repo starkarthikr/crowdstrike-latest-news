@@ -1,13 +1,25 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-04-21 19:19:46 UTC
+**Last Updated:** 2026-04-22 03:17:34 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
+#### 1. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
+
+**📅 Published:** Apr 21, 2026 00:00:00-0700  
+**✍️ Authors:** Michael Devins  
+
+**📝 Summary:** An IDC Business Value study shows how consolidating on the Falcon platform reduces cost, improves signal quality, and more.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 2. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
 
 **📅 Published:** Apr 21, 2026 00:00:00-0400  
 **✍️ Authors:** JJ Cranford - Kris Krewson  
@@ -19,7 +31,7 @@
 
 ---
 
-#### 2. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
+#### 3. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
 
 **📅 Published:** Apr 20, 2026 00:00:00-0700  
 **✍️ Authors:** CrowdStrike  
@@ -32,7 +44,7 @@
 
 ---
 
-#### 3. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
+#### 4. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
 
 **📅 Published:** Apr 16, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -44,7 +56,7 @@
 
 ---
 
-#### 4. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+#### 5. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
 
 **📅 Published:** Apr 14, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -59,7 +71,7 @@
 
 ---
 
-#### 5. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+#### 6. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **📅 Published:** Apr 06, 2026 00:00:00-0400  
 **✍️ Authors:** CrowdStrike  
@@ -72,7 +84,7 @@
 
 ---
 
-#### 6. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+#### 7. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **📅 Published:** Apr 05, 2026 00:00:00-0700  
 **✍️ Authors:** Rona Kedmi  
@@ -85,7 +97,7 @@
 
 ---
 
-#### 7. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+#### 8. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **📅 Published:** Apr 01, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -97,7 +109,7 @@
 
 ---
 
-#### 8. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
+#### 9. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
 
 **📅 Published:** Apr 01, 2026 00:00:00-0500  
 **✍️ Authors:** Dr. Beth Williams  
@@ -109,7 +121,7 @@
 
 ---
 
-#### 9. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
+#### 10. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
 
 **📅 Published:** Mar 31, 2026 00:00:00-0500  
 **✍️ Authors:** Yan Linkov  
@@ -120,19 +132,6 @@
 
 - **⚠️ Issue:** Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD CS certificate-based attacks
 - **⏰ Timeline:** Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD
-
----
-
-#### 10. [How Charlotte AI AgentWorks Fuels Security's Agentic Ecosystem](https://www.crowdstrike.com/en-us/blog/how-charlotte-ai-agentworks-fuels-securitys-agentic-ecosystem/)
-
-**📅 Published:** Mar 25, 2026 00:00:00-0500  
-**✍️ Authors:** Lucia Stanham  
-
-**📝 Summary:** Charlotte AI underpins a security-first ecosystem for building and orchestrating agents across the SOC.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** Charlotte AI underpins a security-first ecosystem for building and orchestrating agents across the SOC
 
 ---
 

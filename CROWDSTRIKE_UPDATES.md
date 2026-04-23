@@ -1,13 +1,40 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-04-23 03:20:50 UTC
+**Last Updated:** 2026-04-23 08:03:10 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
+#### 1. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
+
+**📅 Published:** Apr 22, 2026 00:00:00-0500  
+**✍️ Authors:** Karishma Asthana - Grace Ural  
+
+**📝 Summary:** CrowdStrike expands cloud runtime security leadership and enables defenders to stop cloud breaches in seconds.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike expands cloud runtime security leadership and enables defenders to stop cloud breaches in seconds
+- **✅ Solution:** CrowdStrike expands cloud runtime security leadership and enables defenders to stop cloud breaches in seconds
+
+---
+
+#### 2. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
+
+**📅 Published:** Apr 22, 2026 00:00:00-0500  
+**✍️ Authors:** Brett Shaw  
+
+**📝 Summary:** A Forrester TEI study revealed measurable benefits of unifying CSPM and runtime protection with CrowdStrike.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** A Forrester TEI study revealed measurable benefits of unifying CSPM and runtime protection with CrowdStrike
+
+---
+
+#### 3. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
 
 **📅 Published:** Apr 21, 2026 00:00:00-0700  
 **✍️ Authors:** Michael Devins  
@@ -19,7 +46,7 @@
 
 ---
 
-#### 2. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
+#### 4. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
 
 **📅 Published:** Apr 21, 2026 00:00:00-0400  
 **✍️ Authors:** JJ Cranford - Kris Krewson  
@@ -31,7 +58,7 @@
 
 ---
 
-#### 3. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
+#### 5. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
 
 **📅 Published:** Apr 20, 2026 00:00:00-0700  
 **✍️ Authors:** CrowdStrike  
@@ -44,7 +71,7 @@
 
 ---
 
-#### 4. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
+#### 6. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
 
 **📅 Published:** Apr 16, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -56,7 +83,7 @@
 
 ---
 
-#### 5. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+#### 7. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
 
 **📅 Published:** Apr 14, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -71,7 +98,7 @@
 
 ---
 
-#### 6. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+#### 8. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **📅 Published:** Apr 06, 2026 00:00:00-0400  
 **✍️ Authors:** CrowdStrike  
@@ -84,7 +111,7 @@
 
 ---
 
-#### 7. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+#### 9. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **📅 Published:** Apr 05, 2026 00:00:00-0700  
 **✍️ Authors:** Rona Kedmi  
@@ -97,7 +124,7 @@
 
 ---
 
-#### 8. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
+#### 10. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
 
 **📅 Published:** Apr 01, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -106,32 +133,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 9. [Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management](https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/)
-
-**📅 Published:** Apr 01, 2026 00:00:00-0500  
-**✍️ Authors:** Dr. Beth Williams  
-
-**📝 Summary:** Falcon for IT brings precision and control with the Windows Secure Boot Certificate Lifecycle Management content pack.
-
-**🔍 Detailed Analysis:**
-
-
----
-
-#### 10. [Detecting CVE-2026-20929: Kerberos Authentication Relay via CNAME Abuse](https://www.crowdstrike.com/en-us/blog/detecting-kerberos-relay-attack-via-dns-cname-abuse/)
-
-**📅 Published:** Mar 31, 2026 00:00:00-0500  
-**✍️ Authors:** Yan Linkov  
-
-**📝 Summary:** Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD CS certificate-based attacks.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD CS certificate-based attacks
-- **⏰ Timeline:** Learn how to detect CVE-2026-20929, a Kerberos relay vulnerability using DNS CNAME abuse, with CrowdStrike Falcon to identify AD
 
 ---
 

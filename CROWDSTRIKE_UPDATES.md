@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-04-27 08:33:21 UTC
+**Last Updated:** 2026-04-27 14:05:54 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
+#### 1. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
+
+**📅 Published:** Apr 27, 2026 00:00:00-0700  
+**✍️ Authors:** Brett Shaw  
+
+**📝 Summary:** CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection and response.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection and response
+- **⏰ Timeline:** CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection a
+
+---
+
+#### 2. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
 
 **📅 Published:** Apr 22, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana - Grace Ural  
@@ -21,7 +35,7 @@
 
 ---
 
-#### 2. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
+#### 3. [CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/)
 
 **📅 Published:** Apr 22, 2026 00:00:00-0500  
 **✍️ Authors:** Brett Shaw  
@@ -34,7 +48,7 @@
 
 ---
 
-#### 3. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
+#### 4. [CrowdStrike Falcon Platform Achieves 441% ROI in Three Years](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-achieves-441-percent-roi-in-three-years/)
 
 **📅 Published:** Apr 21, 2026 00:00:00-0700  
 **✍️ Authors:** Michael Devins  
@@ -46,7 +60,7 @@
 
 ---
 
-#### 4. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
+#### 5. [Introducing the CrowdStrike Shadow AI Visibility Service](https://www.crowdstrike.com/en-us/blog/crowdstrike-shadow-AI-visibility-service/)
 
 **📅 Published:** Apr 21, 2026 00:00:00-0400  
 **✍️ Authors:** JJ Cranford - Kris Krewson  
@@ -58,7 +72,7 @@
 
 ---
 
-#### 5. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
+#### 6. [Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.](https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/)
 
 **📅 Published:** Apr 20, 2026 00:00:00-0700  
 **✍️ Authors:** CrowdStrike  
@@ -71,7 +85,7 @@
 
 ---
 
-#### 6. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
+#### 7. [Frontier AI for Defenders: CrowdStrike and OpenAI TAC](https://www.crowdstrike.com/en-us/blog/frontier-ai-for-defenders-crowdstrike-and-openai-tac/)
 
 **📅 Published:** Apr 16, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -83,7 +97,7 @@
 
 ---
 
-#### 7. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
+#### 8. [April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/)
 
 **📅 Published:** Apr 14, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -98,7 +112,7 @@
 
 ---
 
-#### 8. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
+#### 9. [Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs](https://www.crowdstrike.com/en-us/blog/crowdstrike-founding-member-anthropic-mythos-frontier-model-to-secure-ai/)
 
 **📅 Published:** Apr 06, 2026 00:00:00-0400  
 **✍️ Authors:** CrowdStrike  
@@ -111,7 +125,7 @@
 
 ---
 
-#### 9. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
+#### 10. [How CrowdStrike Is Accelerating Exposure Evaluation as Adversaries Gain Speed](https://www.crowdstrike.com/en-us/blog/how-crowdstrike-accelerates-exposure-evaluation-against-threats/)
 
 **📅 Published:** Apr 05, 2026 00:00:00-0700  
 **✍️ Authors:** Rona Kedmi  
@@ -121,18 +135,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** Learn how CrowdStrike enables continuous exposure evaluation to identify vulnerabilities in real time, prioritize risks, and respond faster than modern threats
-
----
-
-#### 10. [STARDUST CHOLLIMA Likely Compromises Axios npm Package](https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/)
-
-**📅 Published:** Apr 01, 2026 00:00:00-0500  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** STARDUST CHOLLIMA has likely compromised Axios Note Package Manager (npm) Package with stolen manager credentials.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

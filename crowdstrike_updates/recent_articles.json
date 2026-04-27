@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/",
+    "published": "Apr 27, 2026 00:00:00-0700",
+    "summary": "",
+    "ai_summary": "CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection and response.",
+    "authors": [
+      "Brett Shaw"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection and response",
+      "cause": null,
+      "timeline": "CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection a"
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/",
     "published": "Apr 22, 2026 00:00:00-0500",
@@ -147,23 +164,6 @@
     ],
     "analysis": {
       "issue": "Learn how CrowdStrike enables continuous exposure evaluation to identify vulnerabilities in real time, prioritize risks, and respond faster than modern threats",
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "STARDUST CHOLLIMA Likely Compromises Axios npm Package",
-    "link": "https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/",
-    "published": "Apr 01, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "STARDUST CHOLLIMA has likely compromised Axios Note Package Manager (npm) Package with stolen manager credentials.",
-    "authors": [
-      "Counter Adversary Operations"
-    ],
-    "analysis": {
-      "issue": null,
       "solution": null,
       "cause": null,
       "timeline": null

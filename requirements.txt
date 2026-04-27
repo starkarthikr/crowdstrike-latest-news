@@ -6,7 +6,7 @@
 requests>=2.32.4
 
 # RSS/Atom feed parsing
-feedparser>=6.0.11
+feedparser>=6.0.12
 
 # Web scraping and parsing
 beautifulsoup4>=4.12.3  # Security updates

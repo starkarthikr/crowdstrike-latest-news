@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Tune In: The Future of AI-Powered Vulnerability Discovery",
+    "link": "https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/",
+    "published": "May 01, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "This episode of the Adversary Universe podcast explores how AI is accelerating vulnerability research and its implications.",
+    "authors": [
+      "CrowdStrike"
+    ],
+    "analysis": {
+      "issue": "This episode of the Adversary Universe podcast explores how AI is accelerating vulnerability research and its implications",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield",
     "link": "https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/",
     "published": "Apr 30, 2026 00:00:00-0500",
@@ -150,23 +167,6 @@
       "solution": null,
       "cause": null,
       "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/",
-    "published": "Apr 14, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Microsoft's April 2026 Patch Tuesday addresses 164 CVEs, featuring 8 Critical vulnerabilities, one exploited zero-day, and one disclosed zero-day.",
-    "authors": [
-      "Falcon Exposure Management Team"
-    ],
-    "analysis": {
-      "issue": "Microsoft's April 2026 Patch Tuesday addresses 164 CVEs, featuring 8 Critical vulnerabilities, one exploited zero-day, and one disclosed zero-day",
-      "solution": "Microsoft's April 2026 Patch Tuesday addresses 164 CVEs, featuring 8 Critical vulnerabilities, one exploited zero-day, and one disclosed zero-day",
-      "cause": null,
-      "timeline": "Microsoft's April 2026 Patch Tuesday addresses 164 CVEs, featuring 8 Critical vulnerabilities, one exploited zero-day, and"
     }
   }
 ]

@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-05-13 20:01:07 UTC
+**Last Updated:** 2026-05-14 03:50:13 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+#### 1. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
+
+**📅 Published:** May 13, 2026 00:00:00-0500  
+**✍️ Authors:** Karishma Asthana  
+
+**📝 Summary:** Falcon AIDR brings runtime visibility and detection to the prompt layer in Kubernetes AI applications.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications
+- **✅ Solution:** Falcon AIDR brings runtime visibility and detection to the prompt layer in Kubernetes AI applications
+
+---
+
+#### 2. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
 
 **📅 Published:** May 12, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -22,7 +36,7 @@
 
 ---
 
-#### 2. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
+#### 3. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
 
 **📅 Published:** May 11, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Brown - Thomas Hobson - Amogh Pradeep  
@@ -35,7 +49,7 @@
 
 ---
 
-#### 3. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
+#### 4. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
 
 **📅 Published:** May 06, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -48,7 +62,7 @@
 
 ---
 
-#### 4. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
+#### 5. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
 
 **📅 Published:** May 05, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -62,7 +76,7 @@
 
 ---
 
-#### 5. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
+#### 6. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
 
 **📅 Published:** May 04, 2026 00:00:00-0500  
 **✍️ Authors:** Jesse Vazquez - JJ Cranford  
@@ -75,7 +89,7 @@
 
 ---
 
-#### 6. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
+#### 7. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
 
 **📅 Published:** May 01, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -88,7 +102,7 @@
 
 ---
 
-#### 7. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
+#### 8. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
 
 **📅 Published:** Apr 30, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Shield - Counter Adversary Operations  
@@ -101,7 +115,7 @@
 
 ---
 
-#### 8. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
+#### 9. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
 
 **📅 Published:** Apr 28, 2026 00:00:00-0700  
 **✍️ Authors:** Yonatan Nachman  
@@ -113,7 +127,7 @@
 
 ---
 
-#### 9. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
+#### 10. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
 
 **📅 Published:** Apr 27, 2026 00:00:00-0700  
 **✍️ Authors:** Brett Shaw  
@@ -124,20 +138,6 @@
 
 - **✅ Solution:** CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection and response
 - **⏰ Timeline:** CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection a
-
----
-
-#### 10. [CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/)
-
-**📅 Published:** Apr 22, 2026 00:00:00-0500  
-**✍️ Authors:** Karishma Asthana - Grace Ural  
-
-**📝 Summary:** CrowdStrike expands cloud runtime security leadership and enables defenders to stop cloud breaches in seconds.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike expands cloud runtime security leadership and enables defenders to stop cloud breaches in seconds
-- **✅ Solution:** CrowdStrike expands cloud runtime security leadership and enables defenders to stop cloud breaches in seconds
 
 ---
 

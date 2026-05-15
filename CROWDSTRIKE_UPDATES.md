@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-05-15 03:53:37 UTC
+**Last Updated:** 2026-05-15 08:54:15 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
+#### 1. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
+
+**📅 Published:** May 14, 2026 00:00:00-0500  
+**✍️ Authors:** Counter Adversary Operations  
+
+**📝 Summary:** Financial services face a threat landscape defined by stealth access, device exploitation, intel collection and more.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Financial services face a threat landscape defined by stealth access, device exploitation, intel collection and more
+
+---
+
+#### 2. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
 
 **📅 Published:** May 13, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -21,7 +34,7 @@
 
 ---
 
-#### 2. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+#### 3. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
 
 **📅 Published:** May 12, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -36,7 +49,7 @@
 
 ---
 
-#### 3. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
+#### 4. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
 
 **📅 Published:** May 11, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Brown - Thomas Hobson - Amogh Pradeep  
@@ -49,7 +62,7 @@
 
 ---
 
-#### 4. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
+#### 5. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
 
 **📅 Published:** May 06, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -62,7 +75,7 @@
 
 ---
 
-#### 5. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
+#### 6. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
 
 **📅 Published:** May 05, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -76,7 +89,7 @@
 
 ---
 
-#### 6. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
+#### 7. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
 
 **📅 Published:** May 04, 2026 00:00:00-0500  
 **✍️ Authors:** Jesse Vazquez - JJ Cranford  
@@ -89,7 +102,7 @@
 
 ---
 
-#### 7. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
+#### 8. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
 
 **📅 Published:** May 01, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -102,7 +115,7 @@
 
 ---
 
-#### 8. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
+#### 9. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
 
 **📅 Published:** Apr 30, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Shield - Counter Adversary Operations  
@@ -115,7 +128,7 @@
 
 ---
 
-#### 9. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
+#### 10. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
 
 **📅 Published:** Apr 28, 2026 00:00:00-0700  
 **✍️ Authors:** Yonatan Nachman  
@@ -124,20 +137,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/)
-
-**📅 Published:** Apr 27, 2026 00:00:00-0700  
-**✍️ Authors:** Brett Shaw  
-
-**📝 Summary:** CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection and response.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection and response
-- **⏰ Timeline:** CrowdStrike is named a Leader in the 2026 Frost & Sullivan CNAPP Radar, recognizing Falcon Cloud Security for innovation in cloud detection a
 
 ---
 

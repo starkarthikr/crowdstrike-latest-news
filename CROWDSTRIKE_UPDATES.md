@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-05-20 15:33:01 UTC
+**Last Updated:** 2026-05-20 20:23:01 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
+#### 1. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
+
+**📅 Published:** May 20, 2026 00:00:00-0500  
+**✍️ Authors:** Hananel Livneh  
+
+**📝 Summary:** Learn what infostealers are, how they operate, and the threats they pose to individuals and organizations worldwide.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Learn what infostealers are, how they operate, and the threats they pose to individuals and organizations worldwide
+
+---
+
+#### 2. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
 
 **📅 Published:** May 14, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -20,7 +33,7 @@
 
 ---
 
-#### 2. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
+#### 3. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
 
 **📅 Published:** May 13, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+#### 4. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
 
 **📅 Published:** May 12, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -49,7 +62,7 @@
 
 ---
 
-#### 4. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
+#### 5. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
 
 **📅 Published:** May 11, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Brown - Thomas Hobson - Amogh Pradeep  
@@ -62,7 +75,7 @@
 
 ---
 
-#### 5. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
+#### 6. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
 
 **📅 Published:** May 06, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -75,7 +88,7 @@
 
 ---
 
-#### 6. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
+#### 7. [CrowdStrike Launches Falcon OverWatch for Defender](https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/)
 
 **📅 Published:** May 05, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -89,7 +102,7 @@
 
 ---
 
-#### 7. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
+#### 8. [CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns](https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/)
 
 **📅 Published:** May 04, 2026 00:00:00-0500  
 **✍️ Authors:** Jesse Vazquez - JJ Cranford  
@@ -102,7 +115,7 @@
 
 ---
 
-#### 8. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
+#### 9. [Tune In: The Future of AI-Powered Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/)
 
 **📅 Published:** May 01, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -115,7 +128,7 @@
 
 ---
 
-#### 9. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
+#### 10. [Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield](https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/)
 
 **📅 Published:** Apr 30, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Shield - Counter Adversary Operations  
@@ -125,18 +138,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** Learn how CrowdStrike Falcon Shield identifies and disrupts SaaS-centric attacks that bypass endpoint visibility
-
----
-
-#### 10. [CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/)
-
-**📅 Published:** Apr 28, 2026 00:00:00-0700  
-**✍️ Authors:** Yonatan Nachman  
-
-**📝 Summary:** Enhanced audit logging and activity monitoring help Falcon Shield deliver deeper visibility and govern AI at scale.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

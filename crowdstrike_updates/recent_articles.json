@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "New Claude Integration Brings Audit Data into the Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/",
+    "published": "May 21, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "A new Claude Compliance API integration brings Claude platform audit data into the Falcon platform.",
+    "authors": [
+      "Dixon Styres"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "How to Protect Identities and Sessions from Infostealers",
     "link": "https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/",
     "published": "May 20, 2026 00:00:00-0500",
@@ -147,23 +164,6 @@
     ],
     "analysis": {
       "issue": "This episode of the Adversary Universe podcast explores how AI is accelerating vulnerability research and its implications",
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield",
-    "link": "https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/",
-    "published": "Apr 30, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Learn how CrowdStrike Falcon Shield identifies and disrupts SaaS-centric attacks that bypass endpoint visibility.",
-    "authors": [
-      "Falcon Shield - Counter Adversary Operations"
-    ],
-    "analysis": {
-      "issue": "Learn how CrowdStrike Falcon Shield identifies and disrupts SaaS-centric attacks that bypass endpoint visibility",
       "solution": null,
       "cause": null,
       "timeline": null

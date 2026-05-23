@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Measuring AI-Enabled Success: 3 KPIs Leaders Should Track",
+    "link": "https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/",
+    "published": "May 22, 2026 00:00:00-0700",
+    "summary": "",
+    "ai_summary": "Learn three KPIs every CIO should track essential to evaluating security and speed as AI use evolves across the business.",
+    "authors": [
+      "CrowdStrike"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "Learn three KPIs every CIO should track essential to evaluating security and speed as AI use evolves across the business",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "New Claude Integration Brings Audit Data into the Falcon Platform",
     "link": "https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/",
     "published": "May 21, 2026 00:00:00-0500",
@@ -147,23 +164,6 @@
     ],
     "analysis": {
       "issue": "Learn common patterns and issues driving cyber risk based on a large sample of CrowdStrike Technical Risk Assessments",
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Tune In: The Future of AI-Powered Vulnerability Discovery",
-    "link": "https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/",
-    "published": "May 01, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "This episode of the Adversary Universe podcast explores how AI is accelerating vulnerability research and its implications.",
-    "authors": [
-      "CrowdStrike"
-    ],
-    "analysis": {
-      "issue": "This episode of the Adversary Universe podcast explores how AI is accelerating vulnerability research and its implications",
       "solution": null,
       "cause": null,
       "timeline": null

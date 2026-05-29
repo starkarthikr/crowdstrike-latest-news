@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-05-29 10:01:10 UTC
+**Last Updated:** 2026-05-29 15:50:52 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
+#### 1. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
+
+**📅 Published:** May 29, 2026 00:00:00-0500  
+**✍️ Authors:** Anne Aarness - Chris Prall  
+
+**📝 Summary:** CrowdStrike is a Leader in the 2026 Gartner Magic Quadrant for Endpoint Protection for the seventh consecutive time.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike is a Leader in the 2026 Gartner Magic Quadrant for Endpoint Protection for the seventh consecutive time
+- **⏰ Timeline:** CrowdStrike is a Leader in the 2026 Gartner Magic Quadrant for Endpoint Protection for the seventh consecutive time. Learn more!
+
+---
+
+#### 2. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Ryan Terry  
@@ -20,7 +34,7 @@
 
 ---
 
-#### 2. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
+#### 3. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -33,7 +47,7 @@
 
 ---
 
-#### 3. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
+#### 4. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
 
 **📅 Published:** May 22, 2026 00:00:00-0700  
 **✍️ Authors:** CrowdStrike  
@@ -46,7 +60,7 @@
 
 ---
 
-#### 4. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
+#### 5. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
 
 **📅 Published:** May 21, 2026 00:00:00-0500  
 **✍️ Authors:** Dixon Styres  
@@ -58,7 +72,7 @@
 
 ---
 
-#### 5. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
+#### 6. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
 
 **📅 Published:** May 20, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -71,7 +85,7 @@
 
 ---
 
-#### 6. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
+#### 7. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
 
 **📅 Published:** May 14, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -84,7 +98,7 @@
 
 ---
 
-#### 7. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
+#### 8. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
 
 **📅 Published:** May 13, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -98,7 +112,7 @@
 
 ---
 
-#### 8. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+#### 9. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
 
 **📅 Published:** May 12, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -113,7 +127,7 @@
 
 ---
 
-#### 9. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
+#### 10. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
 
 **📅 Published:** May 11, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Brown - Thomas Hobson - Amogh Pradeep  
@@ -123,19 +137,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** Learn how CrowdStrike Automated Leads uses AI to reduce alert fatigue, surface hidden threats, and help analysts detect attacks faster on the Falcon platform
-
----
-
-#### 10. [CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/)
-
-**📅 Published:** May 06, 2026 00:00:00-0500  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** CrowdStrike is named a Leader in the Gartner Magic Quadrant for Cyberthreat Intelligence Technologies, positioned furthest to the right for Completeness of Vision.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike is named a Leader in the Gartner Magic Quadrant for Cyberthreat Intelligence Technologies, positioned furthest to the right for Completeness of Vision
 
 ---
 

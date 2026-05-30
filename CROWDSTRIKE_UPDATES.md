@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-05-30 03:52:09 UTC
+**Last Updated:** 2026-05-30 08:32:43 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -21,7 +21,21 @@
 
 ---
 
-#### 2. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
+#### 2. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
+
+**📅 Published:** May 29, 2026 00:00:00-0500  
+**✍️ Authors:** CrowdStrike  
+
+**📝 Summary:** Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats
+- **✅ Solution:** Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats
+
+---
+
+#### 3. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Ryan Terry  
@@ -34,7 +48,7 @@
 
 ---
 
-#### 3. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
+#### 4. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -47,7 +61,7 @@
 
 ---
 
-#### 4. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
+#### 5. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
 
 **📅 Published:** May 22, 2026 00:00:00-0700  
 **✍️ Authors:** CrowdStrike  
@@ -60,7 +74,7 @@
 
 ---
 
-#### 5. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
+#### 6. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
 
 **📅 Published:** May 21, 2026 00:00:00-0500  
 **✍️ Authors:** Dixon Styres  
@@ -72,7 +86,7 @@
 
 ---
 
-#### 6. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
+#### 7. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
 
 **📅 Published:** May 20, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -85,7 +99,7 @@
 
 ---
 
-#### 7. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
+#### 8. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
 
 **📅 Published:** May 14, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -98,7 +112,7 @@
 
 ---
 
-#### 8. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
+#### 9. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
 
 **📅 Published:** May 13, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -112,7 +126,7 @@
 
 ---
 
-#### 9. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
+#### 10. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
 
 **📅 Published:** May 12, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -124,19 +138,6 @@
 - **⚠️ Issue:** Microsoft has released security updates for 130 vulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout
 - **✅ Solution:** Microsoft has released security updates for 130 vulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout
 - **⏰ Timeline:** ulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout.
-
----
-
-#### 10. [Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections](https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/)
-
-**📅 Published:** May 11, 2026 00:00:00-0500  
-**✍️ Authors:** Daniel Brown - Thomas Hobson - Amogh Pradeep  
-
-**📝 Summary:** Learn how CrowdStrike Automated Leads uses AI to reduce alert fatigue, surface hidden threats, and help analysts detect attacks faster on the Falcon platform.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Learn how CrowdStrike Automated Leads uses AI to reduce alert fatigue, surface hidden threats, and help analysts detect attacks faster on the Falcon platform
 
 ---
 

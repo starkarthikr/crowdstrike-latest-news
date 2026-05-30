@@ -18,6 +18,23 @@
   },
   {
     "category": "main_blog",
+    "title": "Shadow AI: The Hidden Risk Expanding Across the Enterprise",
+    "link": "https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/",
+    "published": "May 29, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats.",
+    "authors": [
+      "CrowdStrike"
+    ],
+    "analysis": {
+      "issue": "Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats",
+      "solution": "Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Named a Leader in Identity Threat Detection and Response",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/",
     "published": "May 26, 2026 00:00:00-0500",
@@ -150,23 +167,6 @@
       "solution": "Microsoft has released security updates for 130 vulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout",
       "cause": null,
       "timeline": "ulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout."
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections",
-    "link": "https://www.crowdstrike.com/en-us/blog/ai-threat-detection-with-automated-leads/",
-    "published": "May 11, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Learn how CrowdStrike Automated Leads uses AI to reduce alert fatigue, surface hidden threats, and help analysts detect attacks faster on the Falcon platform.",
-    "authors": [
-      "Daniel Brown - Thomas Hobson - Amogh Pradeep"
-    ],
-    "analysis": {
-      "issue": "Learn how CrowdStrike Automated Leads uses AI to reduce alert fatigue, surface hidden threats, and help analysts detect attacks faster on the Falcon platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null
     }
   }
 ]

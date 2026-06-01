@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-06-01 17:50:29 UTC
+**Last Updated:** 2026-06-01 21:37:45 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -32,7 +32,20 @@
 
 ---
 
-#### 3. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
+#### 3. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
+
+**📅 Published:** Jun 01, 2026 00:00:00-0500  
+**✍️ Authors:** Dr. Beth Williams  
+
+**📝 Summary:** AI is expanding the attack surface and introducing new execution paths across the enterprise control plane.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** AI is expanding the attack surface and introducing new execution paths across the enterprise control plane
+
+---
+
+#### 4. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
 
 **📅 Published:** May 29, 2026 00:00:00-0500  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -46,7 +59,7 @@
 
 ---
 
-#### 4. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
+#### 5. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
 
 **📅 Published:** May 29, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -60,7 +73,7 @@
 
 ---
 
-#### 5. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
+#### 6. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Ryan Terry  
@@ -73,7 +86,7 @@
 
 ---
 
-#### 6. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
+#### 7. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -86,7 +99,7 @@
 
 ---
 
-#### 7. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
+#### 8. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
 
 **📅 Published:** May 22, 2026 00:00:00-0700  
 **✍️ Authors:** CrowdStrike  
@@ -99,7 +112,7 @@
 
 ---
 
-#### 8. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
+#### 9. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
 
 **📅 Published:** May 21, 2026 00:00:00-0500  
 **✍️ Authors:** Dixon Styres  
@@ -111,7 +124,7 @@
 
 ---
 
-#### 9. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
+#### 10. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
 
 **📅 Published:** May 20, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -121,19 +134,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** Learn what infostealers are, how they operate, and the threats they pose to individuals and organizations worldwide
-
----
-
-#### 10. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
-
-**📅 Published:** May 14, 2026 00:00:00-0500  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** Financial services face a threat landscape defined by stealth access, device exploitation, intel collection and more.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Financial services face a threat landscape defined by stealth access, device exploitation, intel collection and more
 
 ---
 

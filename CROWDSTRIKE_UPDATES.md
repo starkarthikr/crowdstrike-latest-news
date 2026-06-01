@@ -1,13 +1,25 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-06-01 11:44:22 UTC
+**Last Updated:** 2026-06-01 17:50:29 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
+#### 1. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
+
+**📅 Published:** Jun 01, 2026 00:00:00-0500  
+**✍️ Authors:** Chris Kachigian  
+
+**📝 Summary:** This collaboration integrates NVIDIA DOCA telemetry into Falcon Next-Gen SIEM for unified visibility across the AI factory.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 2. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Chase Midler  
@@ -17,18 +29,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** This collaboration aims to scale AI-native agents within Falcon Exposure Management for faster vulnerability remediation
-
----
-
-#### 2. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
-
-**📅 Published:** Jun 01, 2026 00:00:00-0500  
-**✍️ Authors:** Chris Kachigian  
-
-**📝 Summary:** This collaboration integrates NVIDIA DOCA telemetry into Falcon Next-Gen SIEM for unified visibility across the AI factory.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

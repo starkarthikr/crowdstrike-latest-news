@@ -1,13 +1,38 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-06-01 04:45:01 UTC
+**Last Updated:** 2026-06-01 11:44:22 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
+#### 1. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
+
+**📅 Published:** Jun 01, 2026 00:00:00-0500  
+**✍️ Authors:** Chase Midler  
+
+**📝 Summary:** This collaboration aims to scale AI-native agents within Falcon Exposure Management for faster vulnerability remediation.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** This collaboration aims to scale AI-native agents within Falcon Exposure Management for faster vulnerability remediation
+
+---
+
+#### 2. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
+
+**📅 Published:** Jun 01, 2026 00:00:00-0500  
+**✍️ Authors:** Chris Kachigian  
+
+**📝 Summary:** This collaboration integrates NVIDIA DOCA telemetry into Falcon Next-Gen SIEM for unified visibility across the AI factory.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 3. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
 
 **📅 Published:** May 29, 2026 00:00:00-0500  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -21,7 +46,7 @@
 
 ---
 
-#### 2. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
+#### 4. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
 
 **📅 Published:** May 29, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -35,7 +60,7 @@
 
 ---
 
-#### 3. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
+#### 5. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Ryan Terry  
@@ -48,7 +73,7 @@
 
 ---
 
-#### 4. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
+#### 6. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -61,7 +86,7 @@
 
 ---
 
-#### 5. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
+#### 7. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
 
 **📅 Published:** May 22, 2026 00:00:00-0700  
 **✍️ Authors:** CrowdStrike  
@@ -74,7 +99,7 @@
 
 ---
 
-#### 6. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
+#### 8. [New Claude Integration Brings Audit Data into the Falcon Platform](https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/)
 
 **📅 Published:** May 21, 2026 00:00:00-0500  
 **✍️ Authors:** Dixon Styres  
@@ -86,7 +111,7 @@
 
 ---
 
-#### 7. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
+#### 9. [How to Protect Identities and Sessions from Infostealers](https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/)
 
 **📅 Published:** May 20, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -99,7 +124,7 @@
 
 ---
 
-#### 8. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
+#### 10. [Now Live: The CrowdStrike 2026 Financial Services Threat Landscape Report](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-financial-services-threat-landscape-report/)
 
 **📅 Published:** May 14, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -109,35 +134,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** Financial services face a threat landscape defined by stealth access, device exploitation, intel collection and more
-
----
-
-#### 9. [Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications](https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/)
-
-**📅 Published:** May 13, 2026 00:00:00-0500  
-**✍️ Authors:** Karishma Asthana  
-
-**📝 Summary:** Falcon AIDR brings runtime visibility and detection to the prompt layer in Kubernetes AI applications.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications
-- **✅ Solution:** Falcon AIDR brings runtime visibility and detection to the prompt layer in Kubernetes AI applications
-
----
-
-#### 10. [May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/)
-
-**📅 Published:** May 12, 2026 00:00:00-0500  
-**✍️ Authors:** Falcon Exposure Management Team  
-
-**📝 Summary:** Microsoft has released security updates for 130 vulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Microsoft has released security updates for 130 vulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout
-- **✅ Solution:** Microsoft has released security updates for 130 vulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout
-- **⏰ Timeline:** ulnerabilities, including 30 critical, in its May 2026 Patch Tuesday rollout.
 
 ---
 

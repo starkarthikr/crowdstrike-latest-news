@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "3 Principles to Safely Scale Agentic AI",
+    "link": "https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/",
+    "published": "Jun 05, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk.",
+    "authors": [
+      "CrowdStrike"
+    ],
+    "analysis": {
+      "issue": "Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk",
+      "solution": "Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "ISO 42001:2023 and the New Reality of Cloud AI Data Risk",
     "link": "https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/",
     "published": "Jun 04, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "Learn how CrowdStrike’s Counter Adversary Operations team executed a coordinated takedown of the Glassworm botnet, which targeted software developers",
       "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Measuring AI-Enabled Success: 3 KPIs Leaders Should Track",
-    "link": "https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/",
-    "published": "May 22, 2026 00:00:00-0700",
-    "summary": "",
-    "ai_summary": "Learn three KPIs every CIO should track essential to evaluating security and speed as AI use evolves across the business.",
-    "authors": [
-      "CrowdStrike"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "Learn three KPIs every CIO should track essential to evaluating security and speed as AI use evolves across the business",
       "cause": null,
       "timeline": null
     }

@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-06-05 15:13:46 UTC
+**Last Updated:** 2026-06-05 20:00:33 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
+#### 1. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
+
+**📅 Published:** Jun 05, 2026 00:00:00-0500  
+**✍️ Authors:** CrowdStrike  
+
+**📝 Summary:** Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk
+- **✅ Solution:** Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk
+
+---
+
+#### 2. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
 
 **📅 Published:** Jun 04, 2026 00:00:00-0500  
 **✍️ Authors:** Luke Hunsinger - Ofer Dekel  
@@ -22,7 +36,7 @@
 
 ---
 
-#### 2. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
+#### 3. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
 
 **📅 Published:** Jun 02, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -35,7 +49,7 @@
 
 ---
 
-#### 3. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
+#### 4. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Chris Kachigian  
@@ -47,7 +61,7 @@
 
 ---
 
-#### 4. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
+#### 5. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Chase Midler  
@@ -60,7 +74,7 @@
 
 ---
 
-#### 5. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
+#### 6. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Dr. Beth Williams  
@@ -73,7 +87,7 @@
 
 ---
 
-#### 6. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
+#### 7. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
 
 **📅 Published:** May 29, 2026 00:00:00-0500  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -87,7 +101,7 @@
 
 ---
 
-#### 7. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
+#### 8. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
 
 **📅 Published:** May 29, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -101,7 +115,7 @@
 
 ---
 
-#### 8. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
+#### 9. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Ryan Terry  
@@ -114,7 +128,7 @@
 
 ---
 
-#### 9. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
+#### 10. [Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet](https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/)
 
 **📅 Published:** May 26, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -124,19 +138,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** Learn how CrowdStrike’s Counter Adversary Operations team executed a coordinated takedown of the Glassworm botnet, which targeted software developers
-
----
-
-#### 10. [Measuring AI-Enabled Success: 3 KPIs Leaders Should Track](https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/)
-
-**📅 Published:** May 22, 2026 00:00:00-0700  
-**✍️ Authors:** CrowdStrike  
-
-**📝 Summary:** Learn three KPIs every CIO should track essential to evaluating security and speed as AI use evolves across the business.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** Learn three KPIs every CIO should track essential to evaluating security and speed as AI use evolves across the business
 
 ---
 

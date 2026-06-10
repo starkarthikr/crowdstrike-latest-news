@@ -1,13 +1,41 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-06-10 04:09:21 UTC
+**Last Updated:** 2026-06-10 10:10:35 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
+#### 1. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
+
+**📅 Published:** Jun 09, 2026 00:00:00-0500  
+**✍️ Authors:** Counter Adversary Operations  
+
+**📝 Summary:** Learn how China-nexus adversaries target technology companies for espionage, intellectual property theft, and supply chain access.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks
+
+---
+
+#### 2. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
+
+**📅 Published:** Jun 09, 2026 00:00:00-0500  
+**✍️ Authors:** Falcon Exposure Management Team  
+
+**📝 Summary:** Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days
+- **✅ Solution:** Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days
+- **⏰ Timeline:** Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days.
+
+---
+
+#### 3. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
 
 **📅 Published:** Jun 08, 2026 00:00:00-0500  
 **✍️ Authors:** Chris Kachigian  
@@ -21,7 +49,7 @@
 
 ---
 
-#### 2. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
+#### 4. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
 
 **📅 Published:** Jun 05, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -35,7 +63,7 @@
 
 ---
 
-#### 3. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
+#### 5. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
 
 **📅 Published:** Jun 04, 2026 00:00:00-0500  
 **✍️ Authors:** Luke Hunsinger - Ofer Dekel  
@@ -50,7 +78,7 @@
 
 ---
 
-#### 4. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
+#### 6. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
 
 **📅 Published:** Jun 02, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -63,7 +91,7 @@
 
 ---
 
-#### 5. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
+#### 7. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Chris Kachigian  
@@ -75,7 +103,7 @@
 
 ---
 
-#### 6. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
+#### 8. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Chase Midler  
@@ -88,7 +116,7 @@
 
 ---
 
-#### 7. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
+#### 9. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Dr. Beth Williams  
@@ -101,7 +129,7 @@
 
 ---
 
-#### 8. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
+#### 10. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
 
 **📅 Published:** May 29, 2026 00:00:00-0500  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -112,33 +140,6 @@
 
 - **✅ Solution:** CrowdStrike is a Leader in the 2026 Gartner Magic Quadrant for Endpoint Protection for the seventh consecutive time
 - **⏰ Timeline:** CrowdStrike is a Leader in the 2026 Gartner Magic Quadrant for Endpoint Protection for the seventh consecutive time. Learn more!
-
----
-
-#### 9. [Shadow AI: The Hidden Risk Expanding Across the Enterprise](https://www.crowdstrike.com/en-us/blog/shadow-ai-hidden-risk-expanding-across-the-enterprise/)
-
-**📅 Published:** May 29, 2026 00:00:00-0500  
-**✍️ Authors:** CrowdStrike  
-
-**📝 Summary:** Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats
-- **✅ Solution:** Learn about the shadow AI attack surface, how it is expanding, and how you can protect and govern it from threats
-
----
-
-#### 10. [CrowdStrike Named a Leader in Identity Threat Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/)
-
-**📅 Published:** May 26, 2026 00:00:00-0500  
-**✍️ Authors:** Ryan Terry  
-
-**📝 Summary:** Recent Frost & Sullivan and GigaOm reports underscore CrowdStrike's position as a leader in the ITDR market.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike Named a Leader in Identity Threat Detection and Response
 
 ---
 

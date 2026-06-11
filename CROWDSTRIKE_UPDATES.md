@@ -1,26 +1,35 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-06-11 04:22:22 UTC
+**Last Updated:** 2026-06-11 10:44:59 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
+#### 1. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
+
+**📅 Published:** Jun 10, 2026 00:00:00-0500  
+**✍️ Authors:** Atul Tulshibagwale - Ian Glazer  
+
+**📝 Summary:** CrowdStrike helps shape identity-first security by advancing open standards and enabling real-time security signals.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike helps shape identity-first security by advancing open standards and enabling real-time security signals
+
+---
+
+#### 2. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
 
 **📅 Published:** Jun 09, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
 
-**📝 Summary:** Learn how China-nexus adversaries target technology companies for espionage, intellectual property theft, and supply chain access.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks
+**📝 Summary:** Article about crowdstrike 2026 technology threat landscape report: china&rsquo;s ambitions fuel attacks.
 
 ---
 
-#### 2. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
+#### 3. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
 
 **📅 Published:** Jun 09, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -35,7 +44,7 @@
 
 ---
 
-#### 3. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
+#### 4. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
 
 **📅 Published:** Jun 08, 2026 00:00:00-0500  
 **✍️ Authors:** Chris Kachigian  
@@ -49,7 +58,7 @@
 
 ---
 
-#### 4. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
+#### 5. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
 
 **📅 Published:** Jun 05, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -63,7 +72,7 @@
 
 ---
 
-#### 5. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
+#### 6. [ISO 42001:2023 and the New Reality of Cloud AI Data Risk](https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/)
 
 **📅 Published:** Jun 04, 2026 00:00:00-0500  
 **✍️ Authors:** Luke Hunsinger - Ofer Dekel  
@@ -78,7 +87,7 @@
 
 ---
 
-#### 6. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
+#### 7. [How to Stop AI-Driven Data Loss](https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/)
 
 **📅 Published:** Jun 02, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -91,7 +100,7 @@
 
 ---
 
-#### 7. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
+#### 8. [CrowdStrike Brings Enterprise-Grade Security to the AI Factory with NVIDIA Vera BlueField-4 STX](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-bring-enterprise-grade-security-to-the-ai-factory/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Chris Kachigian  
@@ -103,7 +112,7 @@
 
 ---
 
-#### 8. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
+#### 9. [CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Chase Midler  
@@ -116,7 +125,7 @@
 
 ---
 
-#### 9. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
+#### 10. [Secure Shadow AI at the Control Plane with Falcon for IT](https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/)
 
 **📅 Published:** Jun 01, 2026 00:00:00-0500  
 **✍️ Authors:** Dr. Beth Williams  
@@ -126,20 +135,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** AI is expanding the attack surface and introducing new execution paths across the enterprise control plane
-
----
-
-#### 10. [CrowdStrike Named a Leader in 2026 Gartner&reg; Magic Quadrant&trade; for Endpoint Protection for Seventh Consecutive Time](https://www.crowdstrike.com/en-us/blog/crowdstrike-leader-in-2026-gartner-magic-quadrant-for-endpoint-protection/)
-
-**📅 Published:** May 29, 2026 00:00:00-0500  
-**✍️ Authors:** Anne Aarness - Chris Prall  
-
-**📝 Summary:** CrowdStrike is a Leader in the 2026 Gartner Magic Quadrant for Endpoint Protection for the seventh consecutive time.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** CrowdStrike is a Leader in the 2026 Gartner Magic Quadrant for Endpoint Protection for the seventh consecutive time
-- **⏰ Timeline:** CrowdStrike is a Leader in the 2026 Gartner Magic Quadrant for Endpoint Protection for the seventh consecutive time. Learn more!
 
 ---
 

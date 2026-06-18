@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "After Executive Order 14409: Next Steps for Securing AI",
+    "link": "https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/",
+    "published": "Jun 17, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Learn how the EO mobilizes the U.",
+    "authors": [
+      "Robert Sheldon"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "Executive Branch to collaborate with industry to face AI model security challenges",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Falcon Exposure Management Now Available for Third-Party Environments",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/",
     "published": "Jun 16, 2026 00:00:00-0500",
@@ -150,23 +167,6 @@
       "solution": "Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk",
       "cause": null,
       "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "ISO 42001:2023 and the New Reality of Cloud AI Data Risk",
-    "link": "https://www.crowdstrike.com/en-us/blog/iso-42001-2023-and-new-reality-of-cloud-ai-data-risk/",
-    "published": "Jun 04, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Learn how CrowdStrike Falcon Data Security for Cloud can help support ISO 42001:2023 cloud AI data security objectives.",
-    "authors": [
-      "Luke Hunsinger - Ofer Dekel"
-    ],
-    "analysis": {
-      "issue": "ISO 42001:2023 and the New Reality of Cloud AI Data Risk",
-      "solution": "Learn how CrowdStrike Falcon Data Security for Cloud can help support ISO 42001:2023 cloud AI data security objectives",
-      "cause": null,
-      "timeline": "lcon Data Security for Cloud can help support ISO 42001:2023 cloud AI data security objectives"
     }
   }
 ]

@@ -1,13 +1,39 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-06-18 20:30:52 UTC
+**Last Updated:** 2026-06-19 04:52:15 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
+#### 1. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
+
+**📅 Published:** Jun 18, 2026 00:00:00-0500  
+**✍️ Authors:** Mathilde Venault  
+
+**📝 Summary:** In Part 2 of this two-part blog series, learn how threat actors weaponize ClickOnce features and how Falcon can detect and respond.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** In Part 2 of this two-part blog series, learn how threat actors weaponize ClickOnce features and how Falcon can detect and respond
+
+---
+
+#### 2. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
+
+**📅 Published:** Jun 18, 2026 00:00:00-0500  
+**✍️ Authors:** Mathilde Venault  
+
+**📝 Summary:** Learn how the ClickOnce deployment technology works, as well as its security implications in Part 1 of a two-part series.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** Learn how the ClickOnce deployment technology works, as well as its security implications in Part 1 of a two-part series
+
+---
+
+#### 3. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
 
 **📅 Published:** Jun 17, 2026 00:00:00-0500  
 **✍️ Authors:** Robert Sheldon  
@@ -20,7 +46,7 @@
 
 ---
 
-#### 2. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
+#### 4. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
 
 **📅 Published:** Jun 16, 2026 00:00:00-0500  
 **✍️ Authors:** Kurt Baker - Rona Kedmi  
@@ -34,7 +60,7 @@
 
 ---
 
-#### 3. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
+#### 5. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
 
 **📅 Published:** Jun 15, 2026 00:00:00-0500  
 **✍️ Authors:** Ryan Terry  
@@ -46,7 +72,7 @@
 
 ---
 
-#### 4. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
+#### 6. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
 
 **📅 Published:** Jun 12, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -58,7 +84,7 @@
 
 ---
 
-#### 5. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
+#### 7. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
 
 **📅 Published:** Jun 11, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -72,7 +98,7 @@
 
 ---
 
-#### 6. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
+#### 8. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
 
 **📅 Published:** Jun 10, 2026 00:00:00-0500  
 **✍️ Authors:** Atul Tulshibagwale - Ian Glazer  
@@ -85,7 +111,7 @@
 
 ---
 
-#### 7. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
+#### 9. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
 
 **📅 Published:** Jun 09, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -98,7 +124,7 @@
 
 ---
 
-#### 8. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
+#### 10. [June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/)
 
 **📅 Published:** Jun 09, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -110,34 +136,6 @@
 - **⚠️ Issue:** Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days
 - **✅ Solution:** Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days
 - **⏰ Timeline:** Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days.
-
----
-
-#### 9. [CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access](https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/)
-
-**📅 Published:** Jun 08, 2026 00:00:00-0500  
-**✍️ Authors:** Chris Kachigian  
-
-**📝 Summary:** Learn how CrowdStrike Falcon Next-Gen Identity Security integrates with Zscaler to deliver real-time risk-based access and Zero Trust protection.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Learn how CrowdStrike Falcon Next-Gen Identity Security integrates with Zscaler to deliver real-time risk-based access and Zero Trust protection
-- **✅ Solution:** Learn how CrowdStrike Falcon Next-Gen Identity Security integrates with Zscaler to deliver real-time risk-based access and Zero Trust protection
-
----
-
-#### 10. [3 Principles to Safely Scale Agentic AI](https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/)
-
-**📅 Published:** Jun 05, 2026 00:00:00-0500  
-**✍️ Authors:** CrowdStrike  
-
-**📝 Summary:** Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk
-- **✅ Solution:** Autonomous AI agents are transforming the enterprise, but without built-in security, they introduce risk
 
 ---
 

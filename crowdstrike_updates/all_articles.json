@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/",
+    "published": "Jun 22, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "The survey reveals the consequences of poor cloud visibility, inability to distinguish malicious activity, and more.",
+    "authors": [
+      "Karishma Asthana"
+    ],
+    "analysis": {
+      "issue": "94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever",
     "link": "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/",
     "published": "Jun 18, 2026 00:00:00-0500",
@@ -150,23 +167,6 @@
       "solution": null,
       "cause": null,
       "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/",
-    "published": "Jun 09, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days.",
-    "authors": [
-      "Falcon Exposure Management Team"
-    ],
-    "analysis": {
-      "issue": "Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days",
-      "solution": "Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days",
-      "cause": null,
-      "timeline": "Microsoft patches 206 vulnerabilities in June 2026 Patch Tuesday, including three publicly disclosed zero-days."
     }
   }
 ]

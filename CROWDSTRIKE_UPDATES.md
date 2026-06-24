@@ -1,13 +1,25 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-06-24 14:40:06 UTC
+**Last Updated:** 2026-06-24 19:52:06 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
+#### 1. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
+
+**📅 Published:** Jun 24, 2026 00:00:00-0500  
+**✍️ Authors:** Atul Tulshibagwale  
+
+**📝 Summary:** Learn the implications for the lack of standardization in OAuth access tokens and how the industry can move forward.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 2. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
 
 **📅 Published:** Jun 22, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -20,7 +32,7 @@
 
 ---
 
-#### 2. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
+#### 3. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
 
 **📅 Published:** Jun 18, 2026 00:00:00-0500  
 **✍️ Authors:** Mathilde Venault  
@@ -33,7 +45,7 @@
 
 ---
 
-#### 3. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
+#### 4. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
 
 **📅 Published:** Jun 18, 2026 00:00:00-0500  
 **✍️ Authors:** Mathilde Venault  
@@ -46,7 +58,7 @@
 
 ---
 
-#### 4. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
+#### 5. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
 
 **📅 Published:** Jun 17, 2026 00:00:00-0500  
 **✍️ Authors:** Robert Sheldon  
@@ -59,7 +71,7 @@
 
 ---
 
-#### 5. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
+#### 6. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
 
 **📅 Published:** Jun 16, 2026 00:00:00-0500  
 **✍️ Authors:** Kurt Baker - Rona Kedmi  
@@ -73,7 +85,7 @@
 
 ---
 
-#### 6. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
+#### 7. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
 
 **📅 Published:** Jun 15, 2026 00:00:00-0500  
 **✍️ Authors:** Ryan Terry  
@@ -85,7 +97,7 @@
 
 ---
 
-#### 7. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
+#### 8. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
 
 **📅 Published:** Jun 12, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -97,7 +109,7 @@
 
 ---
 
-#### 8. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
+#### 9. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
 
 **📅 Published:** Jun 11, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -111,7 +123,7 @@
 
 ---
 
-#### 9. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
+#### 10. [CrowdStrike Expands Identity Leadership with OpenID and IDPro](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/)
 
 **📅 Published:** Jun 10, 2026 00:00:00-0500  
 **✍️ Authors:** Atul Tulshibagwale - Ian Glazer  
@@ -121,19 +133,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** CrowdStrike helps shape identity-first security by advancing open standards and enabling real-time security signals
-
----
-
-#### 10. [CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/)
-
-**📅 Published:** Jun 09, 2026 00:00:00-0500  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** Learn how China-nexus adversaries target technology companies for espionage, intellectual property theft, and supply chain access.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks
 
 ---
 

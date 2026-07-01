@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-07-01 04:18:11 UTC
+**Last Updated:** 2026-07-01 09:56:59 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
+#### 1. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
+
+**📅 Published:** Jun 30, 2026 00:00:00-0500  
+**✍️ Authors:** Hananel Livneh  
+
+**📝 Summary:** Learn about browser-based zero-day vulnerabilities and how to take steps to reduce risk for your business environment.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Learn about browser-based zero-day vulnerabilities and how to take steps to reduce risk for your business environment
+
+---
+
+#### 2. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
 
 **📅 Published:** Jun 29, 2026 00:00:00-0500  
 **✍️ Authors:** Jason Williams  
@@ -20,7 +33,7 @@
 
 ---
 
-#### 2. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
+#### 3. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
 
 **📅 Published:** Jun 24, 2026 00:00:00-0500  
 **✍️ Authors:** Atul Tulshibagwale  
@@ -32,7 +45,7 @@
 
 ---
 
-#### 3. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
+#### 4. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
 
 **📅 Published:** Jun 22, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -45,7 +58,7 @@
 
 ---
 
-#### 4. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
+#### 5. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
 
 **📅 Published:** Jun 18, 2026 00:00:00-0500  
 **✍️ Authors:** Mathilde Venault  
@@ -58,7 +71,7 @@
 
 ---
 
-#### 5. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
+#### 6. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
 
 **📅 Published:** Jun 18, 2026 00:00:00-0500  
 **✍️ Authors:** Mathilde Venault  
@@ -71,7 +84,7 @@
 
 ---
 
-#### 6. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
+#### 7. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
 
 **📅 Published:** Jun 17, 2026 00:00:00-0500  
 **✍️ Authors:** Robert Sheldon  
@@ -84,7 +97,7 @@
 
 ---
 
-#### 7. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
+#### 8. [Falcon Exposure Management Now Available for Third-Party Environments](https://www.crowdstrike.com/en-us/blog/falcon-exposure-management-now-available-for-third-party-environments/)
 
 **📅 Published:** Jun 16, 2026 00:00:00-0500  
 **✍️ Authors:** Kurt Baker - Rona Kedmi  
@@ -98,7 +111,7 @@
 
 ---
 
-#### 8. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
+#### 9. [CrowdStrike Announces Continuous Identity for AI Agents](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-continuous-identity-for-ai-agents/)
 
 **📅 Published:** Jun 15, 2026 00:00:00-0500  
 **✍️ Authors:** Ryan Terry  
@@ -110,7 +123,7 @@
 
 ---
 
-#### 9. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
+#### 10. [Why AI Projects Stall and How CIOs Can Respond](https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/)
 
 **📅 Published:** Jun 12, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -119,20 +132,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/)
-
-**📅 Published:** Jun 11, 2026 00:00:00-0500  
-**✍️ Authors:** Karishma Asthana  
-
-**📝 Summary:** CrowdStrike earned top Innovation and Growth scores in the 2026 Frost Radar for Cloud and Application Runtime Security.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** CrowdStrike earned top Innovation and Growth scores in the 2026 Frost Radar for Cloud and Application Runtime Security
-- **⏰ Timeline:** owdStrike earned top Innovation and Growth scores in the 2026 Frost Radar for Cloud and Application Runtime Security.
 
 ---
 

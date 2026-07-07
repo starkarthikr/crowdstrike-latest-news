@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "How AI-leading Security Teams Are Building the Agentic SOC",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/",
+    "published": "Jul 06, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Learn how Charlotte AI AgentWorks empowers any team to encode their agentic SOC with custom, secure-by-design agents.",
+    "authors": [
+      "Nico Lozano - Lucia Stanham"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Browser Security: Zero-Days Are Only Part of the Problem",
     "link": "https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/",
     "published": "Jun 30, 2026 00:00:00-0500",
@@ -144,23 +161,6 @@
     "ai_summary": "Innovations bring CI to AI agents, extend modern privilege access, and unify identity intel across all identities.",
     "authors": [
       "Ryan Terry"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Why AI Projects Stall and How CIOs Can Respond",
-    "link": "https://www.crowdstrike.com/en-us/blog/why-ai-projects-stall-and-how-cios-can-respond/",
-    "published": "Jun 12, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Learn how AI governance frameworks can stall AI technology innovation and adoption and what CIOs can do to respond.",
-    "authors": [
-      "CrowdStrike"
     ],
     "analysis": {
       "issue": null,

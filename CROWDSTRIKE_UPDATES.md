@@ -1,13 +1,25 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-07-09 19:52:03 UTC
+**Last Updated:** 2026-07-10 03:44:43 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
+#### 1. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
+
+**📅 Published:** Jul 09, 2026 00:00:00-0500  
+**✍️ Authors:** CrowdStrike  
+
+**📝 Summary:** Learn how to address the widening gap between AI usage and AI governance with scalable visibility and enforcement.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 2. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
 
 **📅 Published:** Jul 08, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -21,7 +33,7 @@
 
 ---
 
-#### 2. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
+#### 3. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
 
 **📅 Published:** Jul 07, 2026 00:00:00-0500  
 **✍️ Authors:** David Keller  
@@ -35,7 +47,7 @@
 
 ---
 
-#### 3. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
+#### 4. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
 
 **📅 Published:** Jul 06, 2026 00:00:00-0500  
 **✍️ Authors:** Nico Lozano - Lucia Stanham  
@@ -47,7 +59,7 @@
 
 ---
 
-#### 4. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
+#### 5. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
 
 **📅 Published:** Jun 30, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -60,7 +72,7 @@
 
 ---
 
-#### 5. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
+#### 6. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
 
 **📅 Published:** Jun 29, 2026 00:00:00-0500  
 **✍️ Authors:** Jason Williams  
@@ -73,7 +85,7 @@
 
 ---
 
-#### 6. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
+#### 7. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
 
 **📅 Published:** Jun 24, 2026 00:00:00-0500  
 **✍️ Authors:** Atul Tulshibagwale  
@@ -85,7 +97,7 @@
 
 ---
 
-#### 7. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
+#### 8. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
 
 **📅 Published:** Jun 22, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -98,7 +110,7 @@
 
 ---
 
-#### 8. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
+#### 9. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
 
 **📅 Published:** Jun 18, 2026 00:00:00-0500  
 **✍️ Authors:** Mathilde Venault  
@@ -111,7 +123,7 @@
 
 ---
 
-#### 9. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
+#### 10. [New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/)
 
 **📅 Published:** Jun 18, 2026 00:00:00-0500  
 **✍️ Authors:** Mathilde Venault  
@@ -121,19 +133,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** Learn how the ClickOnce deployment technology works, as well as its security implications in Part 1 of a two-part series
-
----
-
-#### 10. [After Executive Order 14409: Next Steps for Securing AI](https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/)
-
-**📅 Published:** Jun 17, 2026 00:00:00-0500  
-**✍️ Authors:** Robert Sheldon  
-
-**📝 Summary:** Learn how the EO mobilizes the U.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** Executive Branch to collaborate with industry to face AI model security challenges
 
 ---
 

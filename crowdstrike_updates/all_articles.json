@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Why AI Governance Without Guardrails Is Theater",
+    "link": "https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/",
+    "published": "Jul 09, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Learn how to address the widening gap between AI usage and AI governance with scalable visibility and enforcement.",
+    "authors": [
+      "CrowdStrike"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Falcon Secure Access Sets the Standard for Zero Trust Browser Security",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/",
     "published": "Jul 08, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "Learn how the ClickOnce deployment technology works, as well as its security implications in Part 1 of a two-part series",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "After Executive Order 14409: Next Steps for Securing AI",
-    "link": "https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/",
-    "published": "Jun 17, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Learn how the EO mobilizes the U.",
-    "authors": [
-      "Robert Sheldon"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "Executive Branch to collaborate with industry to face AI model security challenges",
       "cause": null,
       "timeline": null
     }

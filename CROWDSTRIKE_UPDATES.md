@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-07-15 13:51:31 UTC
+**Last Updated:** 2026-07-15 19:17:31 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
+#### 1. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
+
+**📅 Published:** Jul 15, 2026 00:00:00-0500  
+**✍️ Authors:** CrowdStrike  
+
+**📝 Summary:** CrowdStrike is pioneering AIDR, a new, unified runtime security category for protecting AI agents across all environments.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike is pioneering AIDR, a new, unified runtime security category for protecting AI agents across all environments
+
+---
+
+#### 2. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
 
 **📅 Published:** Jul 14, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -22,7 +35,7 @@
 
 ---
 
-#### 2. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
+#### 3. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
 
 **📅 Published:** Jul 09, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
+#### 4. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
 
 **📅 Published:** Jul 08, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -48,7 +61,7 @@
 
 ---
 
-#### 4. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
+#### 5. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
 
 **📅 Published:** Jul 07, 2026 00:00:00-0500  
 **✍️ Authors:** David Keller  
@@ -62,7 +75,7 @@
 
 ---
 
-#### 5. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
+#### 6. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
 
 **📅 Published:** Jul 06, 2026 00:00:00-0500  
 **✍️ Authors:** Nico Lozano - Lucia Stanham  
@@ -74,7 +87,7 @@
 
 ---
 
-#### 6. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
+#### 7. [Browser Security: Zero-Days Are Only Part of the Problem](https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/)
 
 **📅 Published:** Jun 30, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -87,7 +100,7 @@
 
 ---
 
-#### 7. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
+#### 8. [Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/)
 
 **📅 Published:** Jun 29, 2026 00:00:00-0500  
 **✍️ Authors:** Jason Williams  
@@ -100,7 +113,7 @@
 
 ---
 
-#### 8. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
+#### 9. [The Identity Problem Hiding in AI Agent Deployments](https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/)
 
 **📅 Published:** Jun 24, 2026 00:00:00-0500  
 **✍️ Authors:** Atul Tulshibagwale  
@@ -112,7 +125,7 @@
 
 ---
 
-#### 9. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
+#### 10. [94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey](https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/)
 
 **📅 Published:** Jun 22, 2026 00:00:00-0500  
 **✍️ Authors:** Karishma Asthana  
@@ -122,19 +135,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** 94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey
-
----
-
-#### 10. [New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever](https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/)
-
-**📅 Published:** Jun 18, 2026 00:00:00-0500  
-**✍️ Authors:** Mathilde Venault  
-
-**📝 Summary:** In Part 2 of this two-part blog series, learn how threat actors weaponize ClickOnce features and how Falcon can detect and respond.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** In Part 2 of this two-part blog series, learn how threat actors weaponize ClickOnce features and how Falcon can detect and respond
 
 ---
 

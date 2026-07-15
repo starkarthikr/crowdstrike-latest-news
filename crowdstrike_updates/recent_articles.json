@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/",
+    "published": "Jul 14, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Microsoft has released security updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout.",
+    "authors": [
+      "Falcon Exposure Management Team"
+    ],
+    "analysis": {
+      "issue": "July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days",
+      "solution": "Microsoft has released security updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout",
+      "cause": null,
+      "timeline": "urity updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout."
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Why AI Governance Without Guardrails Is Theater",
     "link": "https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/",
     "published": "Jul 09, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "In Part 2 of this two-part blog series, learn how threat actors weaponize ClickOnce features and how Falcon can detect and respond",
       "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment",
-    "link": "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/",
-    "published": "Jun 18, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Learn how the ClickOnce deployment technology works, as well as its security implications in Part 1 of a two-part series.",
-    "authors": [
-      "Mathilde Venault"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "Learn how the ClickOnce deployment technology works, as well as its security implications in Part 1 of a two-part series",
       "cause": null,
       "timeline": null
     }

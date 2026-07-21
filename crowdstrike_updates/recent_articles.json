@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks",
+    "link": "https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/",
+    "published": "Jul 21, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Learn about the anatomy of the SANDWORM_MODE infection chain mapped against the components of a modern AI CI/CD pipeline.",
+    "authors": [
+      "John Prieto"
+    ],
+    "analysis": {
+      "issue": "Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense",
     "link": "https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/",
     "published": "Jul 20, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "Learn how new CrowdStrike Falcon Cloud Security innovations expand core capabilities across Azure and Google Cloud",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "The Identity Problem Hiding in AI Agent Deployments",
-    "link": "https://www.crowdstrike.com/en-us/blog/the-identity-problem-hiding-in-ai-agent-deployments/",
-    "published": "Jun 24, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Learn the implications for the lack of standardization in OAuth access tokens and how the industry can move forward.",
-    "authors": [
-      "Atul Tulshibagwale"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
       "cause": null,
       "timeline": null
     }

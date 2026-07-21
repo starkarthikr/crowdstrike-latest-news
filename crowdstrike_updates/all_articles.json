@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense",
+    "link": "https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/",
+    "published": "Jul 20, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "When CrowdStrike tested frontier AI in vulnerability research, we learned the greatest differentiator wasn’t the model used, but the harness around it.",
+    "authors": [
+      "Joel Spurlock"
+    ],
+    "analysis": {
+      "issue": "When CrowdStrike tested frontier AI in vulnerability research, we learned the greatest differentiator wasn’t the model used, but the harness around it",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity",
     "link": "https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/",
     "published": "Jul 15, 2026 00:00:00-0500",
@@ -147,23 +164,6 @@
     ],
     "analysis": {
       "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/",
-    "published": "Jun 22, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "The survey reveals the consequences of poor cloud visibility, inability to distinguish malicious activity, and more.",
-    "authors": [
-      "Karishma Asthana"
-    ],
-    "analysis": {
-      "issue": "94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey",
       "solution": null,
       "cause": null,
       "timeline": null

@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "5 High-Impact Use Cases for Falcon Onum",
+    "link": "https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/",
+    "published": "Jul 27, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC.",
+    "authors": [
+      "Daniel Brault"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/",
     "published": "Jul 27, 2026 00:00:00-0400",
@@ -19,7 +36,7 @@
   {
     "category": "main_blog",
     "title": "CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-goverment-mandates-cisa-bod-26-04/",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/",
     "published": "Jul 22, 2026 00:00:00-0500",
     "summary": "",
     "ai_summary": "The CrowdStrike Falcon platform supports U.",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "CrowdStrike expands its prompt injection taxonomy to 200+ techniques, revealing new AI attack methods to help security teams defend AI agents and LLMs",
       "solution": "CrowdStrike expands its prompt injection taxonomy to 200+ techniques, revealing new AI attack methods to help security teams defend AI agents and LLMs",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "How AI-leading Security Teams Are Building the Agentic SOC",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/",
-    "published": "Jul 06, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Learn how Charlotte AI AgentWorks empowers any team to encode their agentic SOC with custom, secure-by-design agents.",
-    "authors": [
-      "Nico Lozano - Lucia Stanham"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
       "cause": null,
       "timeline": null
     }

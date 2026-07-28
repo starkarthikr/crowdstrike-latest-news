@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-07-27 19:40:44 UTC
+**Last Updated:** 2026-07-28 02:50:17 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+#### 1. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+
+**📅 Published:** Jul 27, 2026 00:00:00-0500  
+**✍️ Authors:** Daniel Brault  
+
+**📝 Summary:** Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC
+
+---
+
+#### 2. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **📅 Published:** Jul 27, 2026 00:00:00-0400  
 **✍️ Authors:** Bartley Richardson  
@@ -20,7 +33,7 @@
 
 ---
 
-#### 2. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-goverment-mandates-cisa-bod-26-04/)
+#### 3. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **📅 Published:** Jul 22, 2026 00:00:00-0500  
 **✍️ Authors:** Karan Sondhi  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
+#### 4. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
 
 **📅 Published:** Jul 21, 2026 00:00:00-0500  
 **✍️ Authors:** John Prieto  
@@ -47,7 +60,7 @@
 
 ---
 
-#### 4. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
+#### 5. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
 
 **📅 Published:** Jul 20, 2026 00:00:00-0500  
 **✍️ Authors:** Joel Spurlock  
@@ -60,7 +73,7 @@
 
 ---
 
-#### 5. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
+#### 6. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
 
 **📅 Published:** Jul 15, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -73,7 +86,7 @@
 
 ---
 
-#### 6. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
+#### 7. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
 
 **📅 Published:** Jul 14, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -88,7 +101,7 @@
 
 ---
 
-#### 7. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
+#### 8. [Why AI Governance Without Guardrails Is Theater](https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/)
 
 **📅 Published:** Jul 09, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -100,7 +113,7 @@
 
 ---
 
-#### 8. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
+#### 9. [Falcon Secure Access Sets the Standard for Zero Trust Browser Security](https://www.crowdstrike.com/en-us/blog/falcon-secure-access-sets-standard-for-zero-trust-security-browser/)
 
 **📅 Published:** Jul 08, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -114,7 +127,7 @@
 
 ---
 
-#### 9. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
+#### 10. [CrowdStrike Uncovers New Prompt Injection Techniques](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-prompt-injection-techniques/)
 
 **📅 Published:** Jul 07, 2026 00:00:00-0500  
 **✍️ Authors:** David Keller  
@@ -125,18 +138,6 @@
 
 - **⚠️ Issue:** CrowdStrike expands its prompt injection taxonomy to 200+ techniques, revealing new AI attack methods to help security teams defend AI agents and LLMs
 - **✅ Solution:** CrowdStrike expands its prompt injection taxonomy to 200+ techniques, revealing new AI attack methods to help security teams defend AI agents and LLMs
-
----
-
-#### 10. [How AI-leading Security Teams Are Building the Agentic SOC](https://www.crowdstrike.com/en-us/blog/how-ai-leading-security-teams-are-building-the-agentic-soc/)
-
-**📅 Published:** Jul 06, 2026 00:00:00-0500  
-**✍️ Authors:** Nico Lozano - Lucia Stanham  
-
-**📝 Summary:** Learn how Charlotte AI AgentWorks empowers any team to encode their agentic SOC with custom, secure-by-design agents.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

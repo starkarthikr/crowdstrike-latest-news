@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-07-31 03:24:34 UTC
+**Last Updated:** 2026-07-31 08:55:13 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+#### 1. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+
+**📅 Published:** Jul 30, 2026 00:00:00-0500  
+**✍️ Authors:** David Keller  
+
+**📝 Summary:** Falcon AIDR extends AI visibility, detection, and response capabilities to Microsoft Copilot Studio and Claude Code.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** Falcon AIDR extends AI visibility, detection, and response capabilities to Microsoft Copilot Studio and Claude Code
+
+---
+
+#### 2. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **📅 Published:** Jul 29, 2026 00:00:00-0500  
 **✍️ Authors:** Kevin Ratto  
@@ -19,7 +32,7 @@
 
 ---
 
-#### 2. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+#### 3. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **📅 Published:** Jul 29, 2026 00:00:00-0500  
 **✍️ Authors:** Dana Raveh  
@@ -32,7 +45,7 @@
 
 ---
 
-#### 3. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+#### 4. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **📅 Published:** Jul 29, 2026 00:00:00-0500  
 **✍️ Authors:** Paola Miranda  
@@ -46,7 +59,7 @@
 
 ---
 
-#### 4. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+#### 5. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **📅 Published:** Jul 27, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Brault  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+#### 6. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **📅 Published:** Jul 27, 2026 00:00:00-0400  
 **✍️ Authors:** Bartley Richardson  
@@ -72,7 +85,7 @@
 
 ---
 
-#### 6. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
+#### 7. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **📅 Published:** Jul 22, 2026 00:00:00-0500  
 **✍️ Authors:** Karan Sondhi  
@@ -86,7 +99,7 @@
 
 ---
 
-#### 7. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
+#### 8. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
 
 **📅 Published:** Jul 21, 2026 00:00:00-0500  
 **✍️ Authors:** John Prieto  
@@ -99,7 +112,7 @@
 
 ---
 
-#### 8. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
+#### 9. [Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense](https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/)
 
 **📅 Published:** Jul 20, 2026 00:00:00-0500  
 **✍️ Authors:** Joel Spurlock  
@@ -112,7 +125,7 @@
 
 ---
 
-#### 9. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
+#### 10. [AIDR: How CrowdStrike Is Defining the Next Era of Cybersecurity](https://www.crowdstrike.com/en-us/blog/aidr-how-crowdstrike-is-defining-next-era-of-cybersecurity/)
 
 **📅 Published:** Jul 15, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike  
@@ -122,21 +135,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** CrowdStrike is pioneering AIDR, a new, unified runtime security category for protecting AI agents across all environments
-
----
-
-#### 10. [July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/)
-
-**📅 Published:** Jul 14, 2026 00:00:00-0500  
-**✍️ Authors:** Falcon Exposure Management Team  
-
-**📝 Summary:** Microsoft has released security updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days
-- **✅ Solution:** Microsoft has released security updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout
-- **⏰ Timeline:** urity updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout.
 
 ---
 

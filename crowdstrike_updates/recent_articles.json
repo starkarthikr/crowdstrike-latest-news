@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Falcon AIDR Now Protects Copilot Studio Agents and Claude Code",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/",
+    "published": "Jul 30, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Falcon AIDR extends AI visibility, detection, and response capabilities to Microsoft Copilot Studio and Claude Code.",
+    "authors": [
+      "David Keller"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "Falcon AIDR extends AI visibility, detection, and response capabilities to Microsoft Copilot Studio and Claude Code",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Inside Astaroth's New Spambot Component",
     "link": "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/",
     "published": "Jul 29, 2026 00:00:00-0500",
@@ -150,23 +167,6 @@
       "solution": "CrowdStrike is pioneering AIDR, a new, unified runtime security category for protecting AI agents across all environments",
       "cause": null,
       "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/",
-    "published": "Jul 14, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Microsoft has released security updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout.",
-    "authors": [
-      "Falcon Exposure Management Team"
-    ],
-    "analysis": {
-      "issue": "July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days",
-      "solution": "Microsoft has released security updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout",
-      "cause": null,
-      "timeline": "urity updates for 622 vulnerabilities in its July 2026 Patch Tuesday rollout."
     }
   }
 ]

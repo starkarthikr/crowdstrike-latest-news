@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-08-07 00:05:21 UTC
+**Last Updated:** 2026-08-07 07:21:56 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+#### 1. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+
+**📅 Published:** Aug 06, 2026 00:00:00-0500  
+**✍️ Authors:** Keegan Hines - Chase Midler  
+
+**📝 Summary:** AI for defense must be evaluated against the operational reality of security teams, including the techniques adversaries use to gain initial access and defenders’ most time-consuming tasks.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery
+- **✅ Solution:** AI for defense must be evaluated against the operational reality of security teams, including the techniques adversaries use to gain initial access and defenders’ most time-consuming tasks
+
+---
+
+#### 2. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **📅 Published:** Aug 04, 2026 00:00:00-0500  
 **✍️ Authors:** Jim Holt - Donato Onofri - Lukasz Woznicki - Dan Dinca - Chase Midler  
@@ -19,7 +33,7 @@
 
 ---
 
-#### 2. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+#### 3. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **📅 Published:** Aug 03, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -33,7 +47,7 @@
 
 ---
 
-#### 3. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+#### 4. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **📅 Published:** Jul 30, 2026 00:00:00-0500  
 **✍️ Authors:** David Keller  
@@ -46,7 +60,7 @@
 
 ---
 
-#### 4. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+#### 5. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **📅 Published:** Jul 29, 2026 00:00:00-0500  
 **✍️ Authors:** Kevin Ratto  
@@ -58,7 +72,7 @@
 
 ---
 
-#### 5. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+#### 6. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **📅 Published:** Jul 29, 2026 00:00:00-0500  
 **✍️ Authors:** Dana Raveh  
@@ -71,7 +85,7 @@
 
 ---
 
-#### 6. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+#### 7. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **📅 Published:** Jul 29, 2026 00:00:00-0500  
 **✍️ Authors:** Paola Miranda  
@@ -85,7 +99,7 @@
 
 ---
 
-#### 7. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
+#### 8. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
 
 **📅 Published:** Jul 27, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Brault  
@@ -98,7 +112,7 @@
 
 ---
 
-#### 8. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
+#### 9. [CrowdStrike Joins the Open Secure AI Alliance to Advance AI Safety and Security](https://www.crowdstrike.com/en-us/blog/crowdstrike-joins-the-open-secure-ai-alliance/)
 
 **📅 Published:** Jul 27, 2026 00:00:00-0400  
 **✍️ Authors:** Bartley Richardson  
@@ -111,7 +125,7 @@
 
 ---
 
-#### 9. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
+#### 10. [CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04](https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/)
 
 **📅 Published:** Jul 22, 2026 00:00:00-0500  
 **✍️ Authors:** Karan Sondhi  
@@ -122,19 +136,6 @@
 
 - **⚠️ Issue:** government CISA BOD-26-04 mandates to prioritize security updates based on risk
 - **✅ Solution:** government CISA BOD-26-04 mandates to prioritize security updates based on risk
-
----
-
-#### 10. [Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/)
-
-**📅 Published:** Jul 21, 2026 00:00:00-0500  
-**✍️ Authors:** John Prieto  
-
-**📝 Summary:** Learn about the anatomy of the SANDWORM_MODE infection chain mapped against the components of a modern AI CI/CD pipeline.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks
 
 ---
 

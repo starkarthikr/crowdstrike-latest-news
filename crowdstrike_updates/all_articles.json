@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery",
+    "link": "https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/",
+    "published": "Aug 06, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "AI for defense must be evaluated against the operational reality of security teams, including the techniques adversaries use to gain initial access and defenders’ most time-consuming tasks.",
+    "authors": [
+      "Keegan Hines - Chase Midler"
+    ],
+    "analysis": {
+      "issue": "Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery",
+      "solution": "AI for defense must be evaluated against the operational reality of security teams, including the techniques adversaries use to gain initial access and defenders’ most time-consuming tasks",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Secure Agent Harness Execution: Preventing Escape",
     "link": "https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/",
     "published": "Aug 04, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "government CISA BOD-26-04 mandates to prioritize security updates based on risk",
       "solution": "government CISA BOD-26-04 mandates to prioritize security updates based on risk",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks",
-    "link": "https://www.crowdstrike.com/en-us/blog/denying-the-worm-sandworm-mode-and-ai-toolchain-supply-chain-attacks/",
-    "published": "Jul 21, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Learn about the anatomy of the SANDWORM_MODE infection chain mapped against the components of a modern AI CI/CD pipeline.",
-    "authors": [
-      "John Prieto"
-    ],
-    "analysis": {
-      "issue": "Denying the Worm: Detecting SANDWORM_MODE and the Emerging Class of AI Toolchain Supply Chain Attacks",
-      "solution": null,
       "cause": null,
       "timeline": null
     }

@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Teaching AI to Reason Through Detection Triage",
+    "link": "https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/",
+    "published": "Aug 17, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "New CrowdStrike research shows how step-by-step reasoning can improve detection triage accuracy, transparency, and safe automation.",
+    "authors": [
+      "Amol Khanna - Manu Nandan - Cristian Viorel Popa - Joan Pujol-Roig - Diana Bolocan - Laura Vasilie - Alexandru Apostu - Chase Helwig - Mihaela Gaman - Mickey Brautbar - Edward Raff - Chase Midler - Sven Krasser"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "New CrowdStrike research shows how step-by-step reasoning can improve detection triage accuracy, transparency, and safe automation",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs",
     "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/",
     "published": "Aug 11, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel",
       "solution": "Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "5 High-Impact Use Cases for Falcon Onum",
-    "link": "https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/",
-    "published": "Jul 27, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC.",
-    "authors": [
-      "Daniel Brault"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC",
       "cause": null,
       "timeline": null
     }

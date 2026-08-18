@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-08-18 01:25:29 UTC
+**Last Updated:** 2026-08-18 06:49:45 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
+#### 1. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
+
+**📅 Published:** Aug 17, 2026 00:00:00-0500  
+**✍️ Authors:** Amol Khanna - Manu Nandan - Cristian Viorel Popa - Joan Pujol-Roig - Diana Bolocan - Laura Vasilie - Alexandru Apostu - Chase Helwig - Mihaela Gaman - Mickey Brautbar - Edward Raff - Chase Midler - Sven Krasser  
+
+**📝 Summary:** New CrowdStrike research shows how step-by-step reasoning can improve detection triage accuracy, transparency, and safe automation.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** New CrowdStrike research shows how step-by-step reasoning can improve detection triage accuracy, transparency, and safe automation
+
+---
+
+#### 2. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
 
 **📅 Published:** Aug 11, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -22,7 +35,7 @@
 
 ---
 
-#### 2. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
+#### 3. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
 
 **📅 Published:** Aug 07, 2026 00:00:00-0500  
 **✍️ Authors:** Erez Goldberg  
@@ -36,7 +49,7 @@
 
 ---
 
-#### 3. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+#### 4. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
 **📅 Published:** Aug 06, 2026 00:00:00-0500  
 **✍️ Authors:** Keegan Hines - Chase Midler  
@@ -50,7 +63,7 @@
 
 ---
 
-#### 4. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+#### 5. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **📅 Published:** Aug 04, 2026 00:00:00-0500  
 **✍️ Authors:** Jim Holt - Donato Onofri - Lukasz Woznicki - Dan Dinca - Chase Midler  
@@ -62,7 +75,7 @@
 
 ---
 
-#### 5. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+#### 6. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **📅 Published:** Aug 03, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -76,7 +89,7 @@
 
 ---
 
-#### 6. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+#### 7. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **📅 Published:** Jul 30, 2026 00:00:00-0500  
 **✍️ Authors:** David Keller  
@@ -89,7 +102,7 @@
 
 ---
 
-#### 7. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
+#### 8. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
 
 **📅 Published:** Jul 29, 2026 00:00:00-0500  
 **✍️ Authors:** Kevin Ratto  
@@ -101,7 +114,7 @@
 
 ---
 
-#### 8. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
+#### 9. [Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud](https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/)
 
 **📅 Published:** Jul 29, 2026 00:00:00-0500  
 **✍️ Authors:** Dana Raveh  
@@ -114,7 +127,7 @@
 
 ---
 
-#### 9. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
+#### 10. [Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats](https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/)
 
 **📅 Published:** Jul 29, 2026 00:00:00-0500  
 **✍️ Authors:** Paola Miranda  
@@ -125,19 +138,6 @@
 
 - **⚠️ Issue:** Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel
 - **✅ Solution:** Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel
-
----
-
-#### 10. [5 High-Impact Use Cases for Falcon Onum](https://www.crowdstrike.com/en-us/blog/five-high-impact-use-cases-for-falcon-onum/)
-
-**📅 Published:** Jul 27, 2026 00:00:00-0500  
-**✍️ Authors:** Daniel Brault  
-
-**📝 Summary:** Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** Falcon Onum gives organizations real-time control of security telemetry for the agentic SOC
 
 ---
 

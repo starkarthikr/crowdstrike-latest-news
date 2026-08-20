@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Benchmaxxing: When the Benchmark Becomes the Target",
+    "link": "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/",
+    "published": "Aug 19, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "The more attention a benchmark receives, the stronger the incentive to optimize for it.",
+    "authors": [
+      "Nathan Danneman"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "In AI and cybersecurity, this can have significant consequences",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Teaching AI to Reason Through Detection Triage",
     "link": "https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/",
     "published": "Aug 17, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "Recent Falcon Cloud Security updates include stronger infrastructure-as-code security, streamlined cloud identity investigations, and expanded agentless workload visibility",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/",
-    "published": "Jul 29, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel.",
-    "authors": [
-      "Paola Miranda"
-    ],
-    "analysis": {
-      "issue": "Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel",
-      "solution": "Falcon Platform IOAs automatically deliver CrowdStrike-managed detections based on the latest threat intel",
       "cause": null,
       "timeline": null
     }

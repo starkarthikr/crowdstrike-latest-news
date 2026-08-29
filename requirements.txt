@@ -9,7 +9,7 @@ requests>=2.32.4
 feedparser>=6.0.11
 
 # Web scraping and parsing
-beautifulsoup4>=4.12.3  # Security updates
+beautifulsoup4>=4.14.3  # Security updates
 lxml>=5.1.0  # CVE-2024-38355 fixed
 
 # Transitive dependencies - Security updates

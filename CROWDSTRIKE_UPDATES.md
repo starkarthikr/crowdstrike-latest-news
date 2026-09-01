@@ -1,13 +1,25 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-08-31 22:40:16 UTC
+**Last Updated:** 2026-09-01 04:24:19 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
+#### 1. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
+
+**📅 Published:** Aug 31, 2026 00:00:00-0400  
+**✍️ Authors:** Vanessa Villa - John Gamble  
+
+**📝 Summary:** Agents of Chaos, CrowdStrike’s new AI red teaming competition, tests players’ defensive skills against adversarial AI techniques.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 2. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
 
 **📅 Published:** Aug 20, 2026 00:00:00-0500  
 **✍️ Authors:** Brett Shaw  
@@ -21,7 +33,7 @@
 
 ---
 
-#### 2. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
+#### 3. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
 
 **📅 Published:** Aug 19, 2026 00:00:00-0500  
 **✍️ Authors:** Nathan Danneman  
@@ -34,7 +46,7 @@
 
 ---
 
-#### 3. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
+#### 4. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
 
 **📅 Published:** Aug 17, 2026 00:00:00-0500  
 **✍️ Authors:** Amol Khanna - Manu Nandan - Cristian Viorel Popa - Joan Pujol-Roig - Diana Bolocan - Laura Vasilie - Alexandru Apostu - Chase Helwig - Mihaela Gaman - Mickey Brautbar - Edward Raff - Chase Midler - Sven Krasser  
@@ -47,7 +59,7 @@
 
 ---
 
-#### 4. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
+#### 5. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
 
 **📅 Published:** Aug 11, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -62,7 +74,7 @@
 
 ---
 
-#### 5. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
+#### 6. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
 
 **📅 Published:** Aug 07, 2026 00:00:00-0500  
 **✍️ Authors:** Erez Goldberg  
@@ -76,7 +88,7 @@
 
 ---
 
-#### 6. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+#### 7. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
 **📅 Published:** Aug 06, 2026 00:00:00-0500  
 **✍️ Authors:** Keegan Hines - Chase Midler  
@@ -90,7 +102,7 @@
 
 ---
 
-#### 7. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+#### 8. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **📅 Published:** Aug 04, 2026 00:00:00-0500  
 **✍️ Authors:** Jim Holt - Donato Onofri - Lukasz Woznicki - Dan Dinca - Chase Midler  
@@ -102,7 +114,7 @@
 
 ---
 
-#### 8. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+#### 9. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **📅 Published:** Aug 03, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -116,7 +128,7 @@
 
 ---
 
-#### 9. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
+#### 10. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
 
 **📅 Published:** Jul 30, 2026 00:00:00-0500  
 **✍️ Authors:** David Keller  
@@ -126,18 +138,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** Falcon AIDR extends AI visibility, detection, and response capabilities to Microsoft Copilot Studio and Claude Code
-
----
-
-#### 10. [Inside Astaroth's New Spambot Component](https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/)
-
-**📅 Published:** Jul 29, 2026 00:00:00-0500  
-**✍️ Authors:** Kevin Ratto  
-
-**📝 Summary:** Learn about the new Astaroth spambot component, how it overlaps with other spambots, and its role in the LATAM eCrime ecosystem.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

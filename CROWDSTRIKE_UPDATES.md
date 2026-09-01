@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-09-01 16:19:46 UTC
+**Last Updated:** 2026-09-01 20:49:03 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
+#### 1. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
+
+**📅 Published:** Sep 01, 2026 00:00:00-0400  
+**✍️ Authors:** Michael Devins  
+
+**📝 Summary:** A new flagship AI detection and response solution delivers runtime protection for AI agents, introduces a new AI gateway, and extends expert-led defense.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** A new flagship AI detection and response solution delivers runtime protection for AI agents, introduces a new AI gateway, and extends expert-led defense
+
+---
+
+#### 2. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
 
 **📅 Published:** Aug 31, 2026 00:00:00-0400  
 **✍️ Authors:** Vanessa Villa - John Gamble  
@@ -19,7 +32,7 @@
 
 ---
 
-#### 2. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
+#### 3. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
 
 **📅 Published:** Aug 20, 2026 00:00:00-0500  
 **✍️ Authors:** Brett Shaw  
@@ -33,7 +46,7 @@
 
 ---
 
-#### 3. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
+#### 4. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
 
 **📅 Published:** Aug 19, 2026 00:00:00-0500  
 **✍️ Authors:** Nathan Danneman  
@@ -46,7 +59,7 @@
 
 ---
 
-#### 4. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
+#### 5. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
 
 **📅 Published:** Aug 17, 2026 00:00:00-0500  
 **✍️ Authors:** Amol Khanna - Manu Nandan - Cristian Viorel Popa - Joan Pujol-Roig - Diana Bolocan - Laura Vasilie - Alexandru Apostu - Chase Helwig - Mihaela Gaman - Mickey Brautbar - Edward Raff - Chase Midler - Sven Krasser  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
+#### 6. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
 
 **📅 Published:** Aug 11, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -74,7 +87,7 @@
 
 ---
 
-#### 6. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
+#### 7. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
 
 **📅 Published:** Aug 07, 2026 00:00:00-0500  
 **✍️ Authors:** Erez Goldberg  
@@ -88,7 +101,7 @@
 
 ---
 
-#### 7. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+#### 8. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
 **📅 Published:** Aug 06, 2026 00:00:00-0500  
 **✍️ Authors:** Keegan Hines - Chase Midler  
@@ -102,7 +115,7 @@
 
 ---
 
-#### 8. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+#### 9. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **📅 Published:** Aug 04, 2026 00:00:00-0500  
 **✍️ Authors:** Jim Holt - Donato Onofri - Lukasz Woznicki - Dan Dinca - Chase Midler  
@@ -114,7 +127,7 @@
 
 ---
 
-#### 9. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
+#### 10. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
 
 **📅 Published:** Aug 03, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -125,19 +138,6 @@
 
 - **⚠️ Issue:** The CrowdStrike 2026 Threat Hunting Report shares observations and real-world case studies demonstrating an increase in attacks on trusted relationships and adversarial use of AI
 - **⏰ Timeline:** The CrowdStrike 2026 Threat Hunting Report shares observations and real-world case studies demonstrating an increase in
-
----
-
-#### 10. [Falcon AIDR Now Protects Copilot Studio Agents and Claude Code](https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/)
-
-**📅 Published:** Jul 30, 2026 00:00:00-0500  
-**✍️ Authors:** David Keller  
-
-**📝 Summary:** Falcon AIDR extends AI visibility, detection, and response capabilities to Microsoft Copilot Studio and Claude Code.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** Falcon AIDR extends AI visibility, detection, and response capabilities to Microsoft Copilot Studio and Claude Code
 
 ---
 

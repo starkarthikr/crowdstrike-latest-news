@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-09-02 03:47:23 UTC
+**Last Updated:** 2026-09-02 10:56:53 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -20,7 +20,19 @@
 
 ---
 
-#### 2. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
+#### 2. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
+
+**📅 Published:** Sep 01, 2026 00:00:00-0400  
+**✍️ Authors:** CrowdStrike Counter Adversary Operations  
+
+**📝 Summary:** CrowdStrike collaborated with international law enforcement and industry partners to execute a coordinated disruption of the Sality peer-to-peer botnet.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 3. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
 
 **📅 Published:** Aug 31, 2026 00:00:00-0400  
 **✍️ Authors:** Vanessa Villa - John Gamble  
@@ -32,7 +44,7 @@
 
 ---
 
-#### 3. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
+#### 4. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
 
 **📅 Published:** Aug 20, 2026 00:00:00-0500  
 **✍️ Authors:** Brett Shaw  
@@ -46,7 +58,7 @@
 
 ---
 
-#### 4. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
+#### 5. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
 
 **📅 Published:** Aug 19, 2026 00:00:00-0500  
 **✍️ Authors:** Nathan Danneman  
@@ -59,7 +71,7 @@
 
 ---
 
-#### 5. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
+#### 6. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
 
 **📅 Published:** Aug 17, 2026 00:00:00-0500  
 **✍️ Authors:** Amol Khanna - Manu Nandan - Cristian Viorel Popa - Joan Pujol-Roig - Diana Bolocan - Laura Vasilie - Alexandru Apostu - Chase Helwig - Mihaela Gaman - Mickey Brautbar - Edward Raff - Chase Midler - Sven Krasser  
@@ -72,7 +84,7 @@
 
 ---
 
-#### 6. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
+#### 7. [August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/)
 
 **📅 Published:** Aug 11, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -87,7 +99,7 @@
 
 ---
 
-#### 7. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
+#### 8. [CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX](https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/)
 
 **📅 Published:** Aug 07, 2026 00:00:00-0500  
 **✍️ Authors:** Erez Goldberg  
@@ -101,7 +113,7 @@
 
 ---
 
-#### 8. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
+#### 9. [Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery](https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/)
 
 **📅 Published:** Aug 06, 2026 00:00:00-0500  
 **✍️ Authors:** Keegan Hines - Chase Midler  
@@ -115,7 +127,7 @@
 
 ---
 
-#### 9. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
+#### 10. [Secure Agent Harness Execution: Preventing Escape](https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/)
 
 **📅 Published:** Aug 04, 2026 00:00:00-0500  
 **✍️ Authors:** Jim Holt - Donato Onofri - Lukasz Woznicki - Dan Dinca - Chase Midler  
@@ -124,20 +136,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/)
-
-**📅 Published:** Aug 03, 2026 00:00:00-0500  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** The CrowdStrike 2026 Threat Hunting Report shares observations and real-world case studies demonstrating an increase in attacks on trusted relationships and adversarial use of AI.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** The CrowdStrike 2026 Threat Hunting Report shares observations and real-world case studies demonstrating an increase in attacks on trusted relationships and adversarial use of AI
-- **⏰ Timeline:** The CrowdStrike 2026 Threat Hunting Report shares observations and real-world case studies demonstrating an increase in
 
 ---
 

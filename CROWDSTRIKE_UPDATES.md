@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-09-16 04:08:44 UTC
+**Last Updated:** 2026-09-16 11:11:09 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+#### 1. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+
+**📅 Published:** Sep 15, 2026 00:00:00-0500  
+**✍️ Authors:** Maddie Stewart  
+
+**📝 Summary:** CrowdStrike identified a financially motivated threat actor who works as a bug bounty hunter and who developed and distributed the JavaScript-based information stealer PhantomRaven.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike identified a financially motivated threat actor who works as a bug bounty hunter and who developed and distributed the JavaScript-based information stealer PhantomRaven
+
+---
+
+#### 2. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **📅 Published:** Sep 08, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -22,7 +35,7 @@
 
 ---
 
-#### 2. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+#### 3. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Brandon Benke  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
+#### 4. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -48,7 +61,7 @@
 
 ---
 
-#### 4. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
+#### 5. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Ryan Terry  
@@ -60,7 +73,7 @@
 
 ---
 
-#### 5. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
+#### 6. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
 
 **📅 Published:** Sep 01, 2026 00:00:00-0400  
 **✍️ Authors:** Michael Devins  
@@ -73,7 +86,7 @@
 
 ---
 
-#### 6. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
+#### 7. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
 
 **📅 Published:** Sep 01, 2026 00:00:00-0400  
 **✍️ Authors:** CrowdStrike Counter Adversary Operations  
@@ -85,7 +98,7 @@
 
 ---
 
-#### 7. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
+#### 8. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
 
 **📅 Published:** Aug 31, 2026 00:00:00-0400  
 **✍️ Authors:** Vanessa Villa - John Gamble  
@@ -97,7 +110,7 @@
 
 ---
 
-#### 8. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
+#### 9. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
 
 **📅 Published:** Aug 20, 2026 00:00:00-0500  
 **✍️ Authors:** Brett Shaw  
@@ -111,7 +124,7 @@
 
 ---
 
-#### 9. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
+#### 10. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
 
 **📅 Published:** Aug 19, 2026 00:00:00-0500  
 **✍️ Authors:** Nathan Danneman  
@@ -121,19 +134,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** In AI and cybersecurity, this can have significant consequences
-
----
-
-#### 10. [Teaching AI to Reason Through Detection Triage](https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/)
-
-**📅 Published:** Aug 17, 2026 00:00:00-0500  
-**✍️ Authors:** Amol Khanna - Manu Nandan - Cristian Viorel Popa - Joan Pujol-Roig - Diana Bolocan - Laura Vasilie - Alexandru Apostu - Chase Helwig - Mihaela Gaman - Mickey Brautbar - Edward Raff - Chase Midler - Sven Krasser  
-
-**📝 Summary:** New CrowdStrike research shows how step-by-step reasoning can improve detection triage accuracy, transparency, and safe automation.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** New CrowdStrike research shows how step-by-step reasoning can improve detection triage accuracy, transparency, and safe automation
 
 ---
 

@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting",
+    "link": "https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/",
+    "published": "Sep 15, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "CrowdStrike identified a financially motivated threat actor who works as a bug bounty hunter and who developed and distributed the JavaScript-based information stealer PhantomRaven.",
+    "authors": [
+      "Maddie Stewart"
+    ],
+    "analysis": {
+      "issue": "CrowdStrike identified a financially motivated threat actor who works as a bug bounty hunter and who developed and distributed the JavaScript-based information stealer PhantomRaven",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs",
     "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/",
     "published": "Sep 08, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "In AI and cybersecurity, this can have significant consequences",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Teaching AI to Reason Through Detection Triage",
-    "link": "https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/",
-    "published": "Aug 17, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "New CrowdStrike research shows how step-by-step reasoning can improve detection triage accuracy, transparency, and safe automation.",
-    "authors": [
-      "Amol Khanna - Manu Nandan - Cristian Viorel Popa - Joan Pujol-Roig - Diana Bolocan - Laura Vasilie - Alexandru Apostu - Chase Helwig - Mihaela Gaman - Mickey Brautbar - Edward Raff - Chase Midler - Sven Krasser"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "New CrowdStrike research shows how step-by-step reasoning can improve detection triage accuracy, transparency, and safe automation",
       "cause": null,
       "timeline": null
     }

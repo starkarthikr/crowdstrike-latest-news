@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-09-16 11:11:09 UTC
+**Last Updated:** 2026-09-16 16:30:26 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+#### 1. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+
+**📅 Published:** Sep 16, 2026 00:00:00-0500  
+**✍️ Authors:** Lior Ribak  
+
+**📝 Summary:** CrowdStrike worked closely with Intel to introduce a new capability in Falcon Data Security that classifies sensitive data using language models that run on-device using dedicated hardware for AI.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike worked closely with Intel to introduce a new capability in Falcon Data Security that classifies sensitive data using language models that run on-device using dedicated hardware for AI
+
+---
+
+#### 2. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
 
 **📅 Published:** Sep 15, 2026 00:00:00-0500  
 **✍️ Authors:** Maddie Stewart  
@@ -20,7 +33,7 @@
 
 ---
 
-#### 2. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+#### 3. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **📅 Published:** Sep 08, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -35,7 +48,7 @@
 
 ---
 
-#### 3. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+#### 4. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Brandon Benke  
@@ -47,7 +60,7 @@
 
 ---
 
-#### 4. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
+#### 5. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -61,7 +74,7 @@
 
 ---
 
-#### 5. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
+#### 6. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Ryan Terry  
@@ -73,7 +86,7 @@
 
 ---
 
-#### 6. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
+#### 7. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
 
 **📅 Published:** Sep 01, 2026 00:00:00-0400  
 **✍️ Authors:** Michael Devins  
@@ -86,7 +99,7 @@
 
 ---
 
-#### 7. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
+#### 8. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
 
 **📅 Published:** Sep 01, 2026 00:00:00-0400  
 **✍️ Authors:** CrowdStrike Counter Adversary Operations  
@@ -98,7 +111,7 @@
 
 ---
 
-#### 8. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
+#### 9. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
 
 **📅 Published:** Aug 31, 2026 00:00:00-0400  
 **✍️ Authors:** Vanessa Villa - John Gamble  
@@ -110,7 +123,7 @@
 
 ---
 
-#### 9. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
+#### 10. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
 
 **📅 Published:** Aug 20, 2026 00:00:00-0500  
 **✍️ Authors:** Brett Shaw  
@@ -121,19 +134,6 @@
 
 - **⚠️ Issue:** Falcon Cloud Security earned the highest scores in both Innovation and Growth by connecting risk, adversary intelligence, and real-time protection to stop attacks
 - **✅ Solution:** Falcon Cloud Security earned the highest scores in both Innovation and Growth by connecting risk, adversary intelligence, and real-time protection to stop attacks
-
----
-
-#### 10. [Benchmaxxing: When the Benchmark Becomes the Target](https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/)
-
-**📅 Published:** Aug 19, 2026 00:00:00-0500  
-**✍️ Authors:** Nathan Danneman  
-
-**📝 Summary:** The more attention a benchmark receives, the stronger the incentive to optimize for it.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** In AI and cybersecurity, this can have significant consequences
 
 ---
 

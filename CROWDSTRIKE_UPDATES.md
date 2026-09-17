@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-09-17 11:18:52 UTC
+**Last Updated:** 2026-09-17 16:35:48 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+#### 1. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
+
+**📅 Published:** Sep 17, 2026 00:00:00-0500  
+**✍️ Authors:** Counter Adversary Operations  
+
+**📝 Summary:** CrowdStrike has been named a Leader in The Forrester Wave™: External Threat Intelligence Service Providers, Q3 2026, receiving the highest scores in both Strength of Offering and Strength of Strategy.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike has been named a Leader in The Forrester Wave™: External Threat Intelligence Service Providers, Q3 2026, receiving the highest scores in both Strength of Offering and Strength of Strategy
+- **⏰ Timeline:** xternal Threat Intelligence Service Providers, Q3 2026, receiving the highest scores in both Strength of Offering and Strength of Strategy. Learn more
+
+---
+
+#### 2. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
 
 **📅 Published:** Sep 16, 2026 00:00:00-0500  
 **✍️ Authors:** Lior Ribak  
@@ -20,7 +34,7 @@
 
 ---
 
-#### 2. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+#### 3. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
 
 **📅 Published:** Sep 15, 2026 00:00:00-0500  
 **✍️ Authors:** Maddie Stewart  
@@ -33,7 +47,7 @@
 
 ---
 
-#### 3. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+#### 4. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **📅 Published:** Sep 08, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -48,7 +62,7 @@
 
 ---
 
-#### 4. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+#### 5. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Brandon Benke  
@@ -60,7 +74,7 @@
 
 ---
 
-#### 5. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
+#### 6. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -74,7 +88,7 @@
 
 ---
 
-#### 6. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
+#### 7. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Ryan Terry  
@@ -86,7 +100,7 @@
 
 ---
 
-#### 7. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
+#### 8. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
 
 **📅 Published:** Sep 01, 2026 00:00:00-0400  
 **✍️ Authors:** Michael Devins  
@@ -99,7 +113,7 @@
 
 ---
 
-#### 8. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
+#### 9. [Peer Pressure: Inside the Sality Botnet Disruption Operation](https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/)
 
 **📅 Published:** Sep 01, 2026 00:00:00-0400  
 **✍️ Authors:** CrowdStrike Counter Adversary Operations  
@@ -111,7 +125,7 @@
 
 ---
 
-#### 9. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
+#### 10. [Agents of Chaos: A New $100K Agentic Security Challenge](https://www.crowdstrike.com/en-us/blog/agents-of-chaos-immersive-ai-security-challenge/)
 
 **📅 Published:** Aug 31, 2026 00:00:00-0400  
 **✍️ Authors:** Vanessa Villa - John Gamble  
@@ -120,20 +134,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/)
-
-**📅 Published:** Aug 20, 2026 00:00:00-0500  
-**✍️ Authors:** Brett Shaw  
-
-**📝 Summary:** Falcon Cloud Security earned the highest scores in both Innovation and Growth by connecting risk, adversary intelligence, and real-time protection to stop attacks.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Falcon Cloud Security earned the highest scores in both Innovation and Growth by connecting risk, adversary intelligence, and real-time protection to stop attacks
-- **✅ Solution:** Falcon Cloud Security earned the highest scores in both Innovation and Growth by connecting risk, adversary intelligence, and real-time protection to stop attacks
 
 ---
 

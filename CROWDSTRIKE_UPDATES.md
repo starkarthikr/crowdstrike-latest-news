@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-09-28 23:04:36 UTC
+**Last Updated:** 2026-09-29 05:05:23 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
+#### 1. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+
+**📅 Published:** Sep 28, 2026 00:00:00-0400  
+**✍️ Authors:** Bartley Richardson  
+
+**📝 Summary:** CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for autonomous AI.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for auton
+
+---
+
+#### 2. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
 
 **📅 Published:** Sep 24, 2026 00:00:00-0500  
 **✍️ Authors:** Rona Kedmi  
@@ -19,7 +32,7 @@
 
 ---
 
-#### 2. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
+#### 3. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
 
 **📅 Published:** Sep 17, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -33,7 +46,7 @@
 
 ---
 
-#### 3. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
+#### 4. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
 
 **📅 Published:** Sep 17, 2026 00:00:00-0500  
 **✍️ Authors:** Ioana Croitoru - Sean Pagano - Keegan Hines - Alexander Nazarian - Chase Midler  
@@ -46,7 +59,7 @@
 
 ---
 
-#### 4. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+#### 5. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
 
 **📅 Published:** Sep 16, 2026 00:00:00-0500  
 **✍️ Authors:** Lior Ribak  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+#### 6. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
 
 **📅 Published:** Sep 15, 2026 00:00:00-0500  
 **✍️ Authors:** Maddie Stewart  
@@ -72,7 +85,7 @@
 
 ---
 
-#### 6. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+#### 7. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **📅 Published:** Sep 08, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -87,7 +100,7 @@
 
 ---
 
-#### 7. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+#### 8. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Brandon Benke  
@@ -99,7 +112,7 @@
 
 ---
 
-#### 8. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
+#### 9. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -113,7 +126,7 @@
 
 ---
 
-#### 9. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
+#### 10. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Ryan Terry  
@@ -122,19 +135,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [CrowdStrike Falcon Guardian Defines the Next Generation of AI Security](https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/)
-
-**📅 Published:** Sep 01, 2026 00:00:00-0400  
-**✍️ Authors:** Michael Devins  
-
-**📝 Summary:** A new flagship AI detection and response solution delivers runtime protection for AI agents, introduces a new AI gateway, and extends expert-led defense.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** A new flagship AI detection and response solution delivers runtime protection for AI agents, introduces a new AI gateway, and extends expert-led defense
 
 ---
 

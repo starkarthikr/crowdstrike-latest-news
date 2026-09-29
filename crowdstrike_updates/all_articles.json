@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/",
+    "published": "Sep 28, 2026 00:00:00-0400",
+    "summary": "",
+    "ai_summary": "CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for autonomous AI.",
+    "authors": [
+      "Bartley Richardson"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for auton",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/",
     "published": "Sep 24, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike Falcon Guardian Defines the Next Generation of AI Security",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/",
-    "published": "Sep 01, 2026 00:00:00-0400",
-    "summary": "",
-    "ai_summary": "A new flagship AI detection and response solution delivers runtime protection for AI agents, introduces a new AI gateway, and extends expert-led defense.",
-    "authors": [
-      "Michael Devins"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "A new flagship AI detection and response solution delivers runtime protection for AI agents, introduces a new AI gateway, and extends expert-led defense",
       "cause": null,
       "timeline": null
     }

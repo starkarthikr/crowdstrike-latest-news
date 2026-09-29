@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-09-29 12:27:34 UTC
+**Last Updated:** 2026-09-29 22:03:03 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+#### 1. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
+
+**📅 Published:** Sep 29, 2026 00:00:00-0500  
+**✍️ Authors:** Hananel Livneh  
+
+**📝 Summary:** ClickFix attacks trick users into executing malicious commands themselves.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** ClickFix attacks trick users into executing malicious commands themselves
+- **✅ Solution:** ClickFix attacks trick users into executing malicious commands themselves
+
+---
+
+#### 2. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
 
 **📅 Published:** Sep 28, 2026 00:00:00-0400  
 **✍️ Authors:** Bartley Richardson  
@@ -20,7 +34,7 @@
 
 ---
 
-#### 2. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
+#### 3. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
 
 **📅 Published:** Sep 24, 2026 00:00:00-0500  
 **✍️ Authors:** Rona Kedmi  
@@ -32,7 +46,7 @@
 
 ---
 
-#### 3. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
+#### 4. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
 
 **📅 Published:** Sep 17, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -46,7 +60,7 @@
 
 ---
 
-#### 4. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
+#### 5. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
 
 **📅 Published:** Sep 17, 2026 00:00:00-0500  
 **✍️ Authors:** Ioana Croitoru - Sean Pagano - Keegan Hines - Alexander Nazarian - Chase Midler  
@@ -59,7 +73,7 @@
 
 ---
 
-#### 5. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+#### 6. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
 
 **📅 Published:** Sep 16, 2026 00:00:00-0500  
 **✍️ Authors:** Lior Ribak  
@@ -72,7 +86,7 @@
 
 ---
 
-#### 6. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+#### 7. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
 
 **📅 Published:** Sep 15, 2026 00:00:00-0500  
 **✍️ Authors:** Maddie Stewart  
@@ -85,7 +99,7 @@
 
 ---
 
-#### 7. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+#### 8. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **📅 Published:** Sep 08, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -100,7 +114,7 @@
 
 ---
 
-#### 8. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+#### 9. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Brandon Benke  
@@ -112,7 +126,7 @@
 
 ---
 
-#### 9. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
+#### 10. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -123,18 +137,6 @@
 
 - **⚠️ Issue:** Real-Time Supply Chain Attack Protection, embedded into the Falcon sensor, blocks malicious open-source packages at download to protect the endpoint
 - **✅ Solution:** Real-Time Supply Chain Attack Protection, embedded into the Falcon sensor, blocks malicious open-source packages at download to protect the endpoint
-
----
-
-#### 10. [CrowdStrike Announces Agentic Identity Provider](https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/)
-
-**📅 Published:** Sep 02, 2026 00:00:00-0400  
-**✍️ Authors:** Ryan Terry  
-
-**📝 Summary:** CrowdStrike gives every AI agent a trusted identity and controls their access based on real-time context, and expands modern privileged access.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

@@ -39,16 +39,10 @@
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/",
     "published": "Sep 24, 2026 00:00:00-0500",
     "summary": "",
-    "ai_summary": "CrowdStrike received the highest Strategy score in the evaluation and the highest possible scores in Innovation and Roadmap.",
+    "ai_summary": "Article about crowdstrike named a leader in the forrester wave&trade;: proactive security platforms, q3 2026.",
     "authors": [
       "Rona Kedmi"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
+    ]
   },
   {
     "category": "main_blog",
@@ -56,16 +50,10 @@
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/",
     "published": "Sep 17, 2026 00:00:00-0500",
     "summary": "",
-    "ai_summary": "CrowdStrike has been named a Leader in The Forrester Wave™: External Threat Intelligence Service Providers, Q3 2026, receiving the highest scores in both Strength of Offering and Strength of Strategy.",
+    "ai_summary": "Article about crowdstrike named a leader in the forrester wave&trade;: external threat intelligence service providers, q3 2026.",
     "authors": [
       "Counter Adversary Operations"
-    ],
-    "analysis": {
-      "issue": "CrowdStrike has been named a Leader in The Forrester Wave™: External Threat Intelligence Service Providers, Q3 2026, receiving the highest scores in both Strength of Offering and Strength of Strategy",
-      "solution": null,
-      "cause": null,
-      "timeline": "xternal Threat Intelligence Service Providers, Q3 2026, receiving the highest scores in both Strength of Offering and Strength of Strategy. Learn more"
-    }
+    ]
   },
   {
     "category": "main_blog",
@@ -73,16 +61,10 @@
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/",
     "published": "Sep 17, 2026 00:00:00-0500",
     "summary": "",
-    "ai_summary": "SafeMind is a closed-loop system where offense and defense continuously sharpen each other, resulting in a defense that's been forged against the best possible attacks.",
+    "ai_summary": "Article about crowdstrike safemind: when the best offense builds the best defense.",
     "authors": [
       "Ioana Croitoru - Sean Pagano - Keegan Hines - Alexander Nazarian - Chase Midler"
-    ],
-    "analysis": {
-      "issue": "SafeMind is a closed-loop system where offense and defense continuously sharpen each other, resulting in a defense that's been forged against the best possible attacks",
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
+    ]
   },
   {
     "category": "main_blog",
@@ -141,16 +123,10 @@
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/",
     "published": "Sep 02, 2026 00:00:00-0400",
     "summary": "",
-    "ai_summary": "Expert agents that reason together, learn your environment, and run on data CrowdStrike owns.",
+    "ai_summary": "Article about crowdstrike delivers the next evolution of the agentic soc.",
     "authors": [
       "Brandon Benke"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
+    ]
   },
   {
     "category": "main_blog",

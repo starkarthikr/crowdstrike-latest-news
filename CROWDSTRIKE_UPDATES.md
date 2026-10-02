@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-01 22:29:55 UTC
+**Last Updated:** 2026-10-02 04:54:52 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
+#### 1. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
+
+**📅 Published:** Oct 01, 2026 00:00:00-0500  
+**✍️ Authors:** Karan Sondhi  
+
+**📝 Summary:** Falcon Next-Gen SIEM joins CISA’s SIEMaaS technology stack, which gives eligible agencies a funded path to modernize security through the CDM DEFEND F shared service.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** Falcon Next-Gen SIEM joins CISA’s SIEMaaS technology stack, which gives eligible agencies a funded path to modernize security through the CDM DEFEND F shared service
+
+---
+
+#### 2. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
 
 **📅 Published:** Sep 29, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -21,7 +34,7 @@
 
 ---
 
-#### 2. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+#### 3. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
 
 **📅 Published:** Sep 28, 2026 00:00:00-0400  
 **✍️ Authors:** Bartley Richardson  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
+#### 4. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
 
 **📅 Published:** Sep 24, 2026 00:00:00-0500  
 **✍️ Authors:** Rona Kedmi  
@@ -46,7 +59,7 @@
 
 ---
 
-#### 4. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
+#### 5. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
 
 **📅 Published:** Sep 17, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -60,7 +73,7 @@
 
 ---
 
-#### 5. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
+#### 6. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
 
 **📅 Published:** Sep 17, 2026 00:00:00-0500  
 **✍️ Authors:** Ioana Croitoru - Sean Pagano - Keegan Hines - Alexander Nazarian - Chase Midler  
@@ -73,7 +86,7 @@
 
 ---
 
-#### 6. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+#### 7. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
 
 **📅 Published:** Sep 16, 2026 00:00:00-0500  
 **✍️ Authors:** Lior Ribak  
@@ -86,7 +99,7 @@
 
 ---
 
-#### 7. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
+#### 8. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
 
 **📅 Published:** Sep 15, 2026 00:00:00-0500  
 **✍️ Authors:** Maddie Stewart  
@@ -99,7 +112,7 @@
 
 ---
 
-#### 8. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
+#### 9. [September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/)
 
 **📅 Published:** Sep 08, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -114,7 +127,7 @@
 
 ---
 
-#### 9. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
+#### 10. [CrowdStrike Delivers the Next Evolution of the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/)
 
 **📅 Published:** Sep 02, 2026 00:00:00-0400  
 **✍️ Authors:** Brandon Benke  
@@ -123,20 +136,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks](https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/)
-
-**📅 Published:** Sep 02, 2026 00:00:00-0400  
-**✍️ Authors:** Anne Aarness - Chris Prall  
-
-**📝 Summary:** Real-Time Supply Chain Attack Protection, embedded into the Falcon sensor, blocks malicious open-source packages at download to protect the endpoint.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Real-Time Supply Chain Attack Protection, embedded into the Falcon sensor, blocks malicious open-source packages at download to protect the endpoint
-- **✅ Solution:** Real-Time Supply Chain Attack Protection, embedded into the Falcon sensor, blocks malicious open-source packages at download to protect the endpoint
 
 ---
 

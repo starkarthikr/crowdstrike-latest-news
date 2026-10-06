@@ -1,23 +1,6 @@
 [
   {
     "category": "main_blog",
-    "title": "New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/",
-    "published": "Oct 05, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Falcon Cloud Security gains third-party application insights and AI-enhanced remediation to improve the context and AI capabilities available to customers.",
-    "authors": [
-      "Jason Williams"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "Falcon Cloud Security gains third-party application insights and AI-enhanced remediation to improve the context and AI capabilities available to customers",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
     "title": "Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/",
     "published": "Oct 05, 2026 00:00:00-0500",
@@ -29,6 +12,23 @@
     "analysis": {
       "issue": null,
       "solution": "Now generally available, Falcon Data Security for SaaS extends data security into SharePoint, OneDrive, and Copilot to help organizations discover and protect sensitive data",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/",
+    "published": "Oct 05, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Falcon Cloud Security gains third-party application insights and AI-enhanced remediation to improve the context and AI capabilities available to customers.",
+    "authors": [
+      "Jason Williams"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "Falcon Cloud Security gains third-party application insights and AI-enhanced remediation to improve the context and AI capabilities available to customers",
       "cause": null,
       "timeline": null
     }

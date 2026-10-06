@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/",
+    "published": "Oct 06, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "The CrowdStrike Cyber Superintelligence Lab evaluated the most advanced publicly deployed content safety classifier and found it can be systematically circumvented.",
+    "authors": [
+      "Donato Onofri - Paul Urian"
+    ],
+    "analysis": {
+      "issue": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/",
     "published": "Oct 05, 2026 00:00:00-0500",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "CrowdStrike worked closely with Intel to introduce a new capability in Falcon Data Security that classifies sensitive data using language models that run on-device using dedicated hardware for AI",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting",
-    "link": "https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/",
-    "published": "Sep 15, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "CrowdStrike identified a financially motivated threat actor who works as a bug bounty hunter and who developed and distributed the JavaScript-based information stealer PhantomRaven.",
-    "authors": [
-      "Maddie Stewart"
-    ],
-    "analysis": {
-      "issue": "CrowdStrike identified a financially motivated threat actor who works as a bug bounty hunter and who developed and distributed the JavaScript-based information stealer PhantomRaven",
-      "solution": null,
       "cause": null,
       "timeline": null
     }

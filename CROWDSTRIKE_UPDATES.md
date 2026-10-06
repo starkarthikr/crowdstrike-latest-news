@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-06 13:03:51 UTC
+**Last Updated:** 2026-10-06 22:31:15 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
+#### 1. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
+
+**📅 Published:** Oct 06, 2026 00:00:00-0500  
+**✍️ Authors:** Donato Onofri - Paul Urian  
+
+**📝 Summary:** The CrowdStrike Cyber Superintelligence Lab evaluated the most advanced publicly deployed content safety classifier and found it can be systematically circumvented.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers
+
+---
+
+#### 2. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
 
 **📅 Published:** Oct 05, 2026 00:00:00-0500  
 **✍️ Authors:** Dana Larson  
@@ -20,7 +33,7 @@
 
 ---
 
-#### 2. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
+#### 3. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
 
 **📅 Published:** Oct 05, 2026 00:00:00-0500  
 **✍️ Authors:** Jason Williams  
@@ -33,7 +46,7 @@
 
 ---
 
-#### 3. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
+#### 4. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
 
 **📅 Published:** Oct 01, 2026 00:00:00-0500  
 **✍️ Authors:** Karan Sondhi  
@@ -46,7 +59,7 @@
 
 ---
 
-#### 4. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
+#### 5. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
 
 **📅 Published:** Sep 29, 2026 00:00:00-0500  
 **✍️ Authors:** Hananel Livneh  
@@ -60,7 +73,7 @@
 
 ---
 
-#### 5. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
+#### 6. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
 
 **📅 Published:** Sep 28, 2026 00:00:00-0400  
 **✍️ Authors:** Bartley Richardson  
@@ -73,7 +86,7 @@
 
 ---
 
-#### 6. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
+#### 7. [CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/)
 
 **📅 Published:** Sep 24, 2026 00:00:00-0500  
 **✍️ Authors:** Rona Kedmi  
@@ -85,7 +98,7 @@
 
 ---
 
-#### 7. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
+#### 8. [CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/)
 
 **📅 Published:** Sep 17, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -99,7 +112,7 @@
 
 ---
 
-#### 8. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
+#### 9. [CrowdStrike SafeMind: When the Best Offense Builds the Best Defense](https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/)
 
 **📅 Published:** Sep 17, 2026 00:00:00-0500  
 **✍️ Authors:** Ioana Croitoru - Sean Pagano - Keegan Hines - Alexander Nazarian - Chase Midler  
@@ -112,7 +125,7 @@
 
 ---
 
-#### 9. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
+#### 10. [CrowdStrike Accelerates Real-Time Data Classification with On-Device AI](https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/)
 
 **📅 Published:** Sep 16, 2026 00:00:00-0500  
 **✍️ Authors:** Lior Ribak  
@@ -122,19 +135,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** CrowdStrike worked closely with Intel to introduce a new capability in Falcon Data Security that classifies sensitive data using language models that run on-device using dedicated hardware for AI
-
----
-
-#### 10. [PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting](https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/)
-
-**📅 Published:** Sep 15, 2026 00:00:00-0500  
-**✍️ Authors:** Maddie Stewart  
-
-**📝 Summary:** CrowdStrike identified a financially motivated threat actor who works as a bug bounty hunter and who developed and distributed the JavaScript-based information stealer PhantomRaven.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike identified a financially motivated threat actor who works as a bug bounty hunter and who developed and distributed the JavaScript-based information stealer PhantomRaven
 
 ---
 

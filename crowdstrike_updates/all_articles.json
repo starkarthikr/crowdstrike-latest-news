@@ -1,19 +1,36 @@
 [
   {
     "category": "main_blog",
-    "title": "Solving the Continuous Authorization Conundrum",
-    "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
-    "published": "Oct 08, 2026 00:00:00-0500",
+    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
+    "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
+    "published": "Oct 13, 2026 00:00:00-0500",
     "summary": "",
-    "ai_summary": "Organizations continue to face myriad issues related to Zero Trust.",
+    "ai_summary": "CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies.",
     "authors": [
-      "Atul Tulshibagwale"
+      "CrowdStrike Counter Adversary Operations"
     ],
     "analysis": {
-      "issue": null,
+      "issue": "CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies",
       "solution": null,
       "cause": null,
       "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
+    "published": "Oct 13, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout.",
+    "authors": [
+      "Falcon Exposure Management Team"
+    ],
+    "analysis": {
+      "issue": "Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout",
+      "solution": "Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout",
+      "cause": null,
+      "timeline": "closed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout."
     }
   },
   {
@@ -29,6 +46,23 @@
     "analysis": {
       "issue": "CrowdStrike joins Anthropic’s Critical Infrastructure Defense Program, bringing expertise in protecting IT and OT environments to help advance AI-powered defense",
       "solution": "CrowdStrike joins Anthropic’s Critical Infrastructure Defense Program, bringing expertise in protecting IT and OT environments to help advance AI-powered defense",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "Solving the Continuous Authorization Conundrum",
+    "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
+    "published": "Oct 08, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Organizations continue to face myriad issues related to Zero Trust.",
+    "authors": [
+      "Atul Tulshibagwale"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": null,
       "cause": null,
       "timeline": null
     }
@@ -131,40 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "Falcon Next-Gen SIEM joins CISA’s SIEMaaS technology stack, which gives eligible agencies a funded path to modernize security through the CDM DEFEND F shared service",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/",
-    "published": "Sep 29, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "ClickFix attacks trick users into executing malicious commands themselves.",
-    "authors": [
-      "Hananel Livneh"
-    ],
-    "analysis": {
-      "issue": "ClickFix attacks trick users into executing malicious commands themselves",
-      "solution": "ClickFix attacks trick users into executing malicious commands themselves",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/",
-    "published": "Sep 28, 2026 00:00:00-0400",
-    "summary": "",
-    "ai_summary": "CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for autonomous AI.",
-    "authors": [
-      "Bartley Richardson"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for auton",
       "cause": null,
       "timeline": null
     }

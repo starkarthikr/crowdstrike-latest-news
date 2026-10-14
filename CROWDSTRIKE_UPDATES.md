@@ -1,25 +1,41 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-13 22:26:39 UTC
+**Last Updated:** 2026-10-14 04:15:11 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
+#### 1. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
-**📅 Published:** Oct 08, 2026 00:00:00-0500  
-**✍️ Authors:** Atul Tulshibagwale  
+**📅 Published:** Oct 13, 2026 00:00:00-0500  
+**✍️ Authors:** CrowdStrike Counter Adversary Operations  
 
-**📝 Summary:** Organizations continue to face myriad issues related to Zero Trust.
+**📝 Summary:** CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies.
 
 **🔍 Detailed Analysis:**
 
+- **⚠️ Issue:** CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies
 
 ---
 
-#### 2. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+#### 2. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+
+**📅 Published:** Oct 13, 2026 00:00:00-0500  
+**✍️ Authors:** Falcon Exposure Management Team  
+
+**📝 Summary:** Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout
+- **✅ Solution:** Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout
+- **⏰ Timeline:** closed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout.
+
+---
+
+#### 3. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
 
 **📅 Published:** Oct 08, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Bernard  
@@ -33,7 +49,19 @@
 
 ---
 
-#### 3. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
+#### 4. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
+
+**📅 Published:** Oct 08, 2026 00:00:00-0500  
+**✍️ Authors:** Atul Tulshibagwale  
+
+**📝 Summary:** Organizations continue to face myriad issues related to Zero Trust.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 5. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 **📅 Published:** Oct 07, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -46,7 +74,7 @@
 
 ---
 
-#### 4. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
+#### 6. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
 
 **📅 Published:** Oct 07, 2026 00:00:00-0500  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -58,7 +86,7 @@
 
 ---
 
-#### 5. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
+#### 7. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
 
 **📅 Published:** Oct 06, 2026 00:00:00-0500  
 **✍️ Authors:** Donato Onofri - Paul Urian  
@@ -71,7 +99,7 @@
 
 ---
 
-#### 6. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
+#### 8. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
 
 **📅 Published:** Oct 05, 2026 00:00:00-0500  
 **✍️ Authors:** Dana Larson  
@@ -84,7 +112,7 @@
 
 ---
 
-#### 7. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
+#### 9. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
 
 **📅 Published:** Oct 05, 2026 00:00:00-0500  
 **✍️ Authors:** Jason Williams  
@@ -97,7 +125,7 @@
 
 ---
 
-#### 8. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
+#### 10. [CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/)
 
 **📅 Published:** Oct 01, 2026 00:00:00-0500  
 **✍️ Authors:** Karan Sondhi  
@@ -107,33 +135,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** Falcon Next-Gen SIEM joins CISA’s SIEMaaS technology stack, which gives eligible agencies a funded path to modernize security through the CDM DEFEND F shared service
-
----
-
-#### 9. [Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them](https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/)
-
-**📅 Published:** Sep 29, 2026 00:00:00-0500  
-**✍️ Authors:** Hananel Livneh  
-
-**📝 Summary:** ClickFix attacks trick users into executing malicious commands themselves.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** ClickFix attacks trick users into executing malicious commands themselves
-- **✅ Solution:** ClickFix attacks trick users into executing malicious commands themselves
-
----
-
-#### 10. [A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack](https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/)
-
-**📅 Published:** Sep 28, 2026 00:00:00-0400  
-**✍️ Authors:** Bartley Richardson  
-
-**📝 Summary:** CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for autonomous AI.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** CrowdStrike and NVIDIA are collaborating on the NVIDIA Open Agent Safety Platform, an open reference design to extend security deeper into the agentic stack and establish stronger boundaries for auton
 
 ---
 

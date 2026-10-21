@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-21 11:27:09 UTC
+**Last Updated:** 2026-10-21 16:54:35 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
+#### 1. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+
+**📅 Published:** Oct 21, 2026 00:00:00-0500  
+**✍️ Authors:** CrowdStrike Counter Adversary Operations  
+
+**📝 Summary:** CrowdStrike details research into four previously unreported threat actors conducting campaigns in which AI agents make decisions and execute commands.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike details research into four previously unreported threat actors conducting campaigns in which AI agents make decisions and execute commands
+
+---
+
+#### 2. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **📅 Published:** Oct 20, 2026 00:00:00-0500  
 **✍️ Authors:** Max Gebhardt  
@@ -19,7 +32,7 @@
 
 ---
 
-#### 2. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+#### 3. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike Counter Adversary Operations  
@@ -32,7 +45,7 @@
 
 ---
 
-#### 3. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+#### 4. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -47,7 +60,7 @@
 
 ---
 
-#### 4. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+#### 5. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
 
 **📅 Published:** Oct 08, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Bernard  
@@ -61,7 +74,7 @@
 
 ---
 
-#### 5. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
+#### 6. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
 
 **📅 Published:** Oct 08, 2026 00:00:00-0500  
 **✍️ Authors:** Atul Tulshibagwale  
@@ -73,7 +86,7 @@
 
 ---
 
-#### 6. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
+#### 7. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 **📅 Published:** Oct 07, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -86,7 +99,7 @@
 
 ---
 
-#### 7. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
+#### 8. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
 
 **📅 Published:** Oct 07, 2026 00:00:00-0500  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -98,7 +111,7 @@
 
 ---
 
-#### 8. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
+#### 9. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
 
 **📅 Published:** Oct 06, 2026 00:00:00-0500  
 **✍️ Authors:** Donato Onofri - Paul Urian  
@@ -111,7 +124,7 @@
 
 ---
 
-#### 9. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
+#### 10. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
 
 **📅 Published:** Oct 05, 2026 00:00:00-0500  
 **✍️ Authors:** Dana Larson  
@@ -121,19 +134,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** Now generally available, Falcon Data Security for SaaS extends data security into SharePoint, OneDrive, and Copilot to help organizations discover and protect sensitive data
-
----
-
-#### 10. [New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/)
-
-**📅 Published:** Oct 05, 2026 00:00:00-0500  
-**✍️ Authors:** Jason Williams  
-
-**📝 Summary:** Falcon Cloud Security gains third-party application insights and AI-enhanced remediation to improve the context and AI capabilities available to customers.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** Falcon Cloud Security gains third-party application insights and AI-enhanced remediation to improve the context and AI capabilities available to customers
 
 ---
 

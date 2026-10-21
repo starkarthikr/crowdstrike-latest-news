@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-21 16:54:35 UTC
+**Last Updated:** 2026-10-21 21:26:18 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -20,7 +20,22 @@
 
 ---
 
-#### 2. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
+#### 2. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
+
+**📅 Published:** Oct 21, 2026 00:00:00-0500  
+**✍️ Authors:** Amit Serper  
+
+**📝 Summary:** The Falcon platform provides out-of-the-box visibility and detection coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** The Falcon platform provides out-of-the-box visibility and detection coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619
+- **✅ Solution:** The Falcon platform provides out-of-the-box visibility and detection coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619
+- **⏰ Timeline:** coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619.
+
+---
+
+#### 3. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **📅 Published:** Oct 20, 2026 00:00:00-0500  
 **✍️ Authors:** Max Gebhardt  
@@ -32,7 +47,7 @@
 
 ---
 
-#### 3. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+#### 4. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike Counter Adversary Operations  
@@ -45,7 +60,7 @@
 
 ---
 
-#### 4. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+#### 5. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -60,7 +75,7 @@
 
 ---
 
-#### 5. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+#### 6. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
 
 **📅 Published:** Oct 08, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Bernard  
@@ -74,7 +89,7 @@
 
 ---
 
-#### 6. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
+#### 7. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
 
 **📅 Published:** Oct 08, 2026 00:00:00-0500  
 **✍️ Authors:** Atul Tulshibagwale  
@@ -86,7 +101,7 @@
 
 ---
 
-#### 7. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
+#### 8. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 **📅 Published:** Oct 07, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -99,7 +114,7 @@
 
 ---
 
-#### 8. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
+#### 9. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
 
 **📅 Published:** Oct 07, 2026 00:00:00-0500  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -111,7 +126,7 @@
 
 ---
 
-#### 9. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
+#### 10. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
 
 **📅 Published:** Oct 06, 2026 00:00:00-0500  
 **✍️ Authors:** Donato Onofri - Paul Urian  
@@ -121,19 +136,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers
-
----
-
-#### 10. [Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365](https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/)
-
-**📅 Published:** Oct 05, 2026 00:00:00-0500  
-**✍️ Authors:** Dana Larson  
-
-**📝 Summary:** Now generally available, Falcon Data Security for SaaS extends data security into SharePoint, OneDrive, and Copilot to help organizations discover and protect sensitive data.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** Now generally available, Falcon Data Security for SaaS extends data security into SharePoint, OneDrive, and Copilot to help organizations discover and protect sensitive data
 
 ---
 

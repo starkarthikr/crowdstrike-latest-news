@@ -1,22 +1,22 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-23 16:45:50 UTC
+**Last Updated:** 2026-10-23 21:11:50 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+#### 1. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
-**📅 Published:** Oct 21, 2026 00:00:00-0500  
-**✍️ Authors:** CrowdStrike Counter Adversary Operations  
+**📅 Published:** Oct 23, 2026 00:00:00-0500  
+**✍️ Authors:** Vanessa Villa  
 
-**📝 Summary:** CrowdStrike details research into four previously unreported threat actors conducting campaigns in which AI agents make decisions and execute commands.
+**📝 Summary:** Falcon Guardian has been deployed at hundreds of organizations around the world.
 
 **🔍 Detailed Analysis:**
 
-- **⚠️ Issue:** CrowdStrike details research into four previously unreported threat actors conducting campaigns in which AI agents make decisions and execute commands
+- **⚠️ Issue:** We asked them about the critical AI concerns and requirements that led to it
 
 ---
 
@@ -35,7 +35,20 @@
 
 ---
 
-#### 3. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
+#### 3. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+
+**📅 Published:** Oct 21, 2026 00:00:00-0500  
+**✍️ Authors:** CrowdStrike Counter Adversary Operations  
+
+**📝 Summary:** CrowdStrike details research into four previously unreported threat actors conducting campaigns in which AI agents make decisions and execute commands.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike details research into four previously unreported threat actors conducting campaigns in which AI agents make decisions and execute commands
+
+---
+
+#### 4. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **📅 Published:** Oct 20, 2026 00:00:00-0500  
 **✍️ Authors:** Max Gebhardt  
@@ -47,7 +60,7 @@
 
 ---
 
-#### 4. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+#### 5. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike Counter Adversary Operations  
@@ -60,7 +73,7 @@
 
 ---
 
-#### 5. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+#### 6. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -75,7 +88,7 @@
 
 ---
 
-#### 6. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+#### 7. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
 
 **📅 Published:** Oct 08, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Bernard  
@@ -89,7 +102,7 @@
 
 ---
 
-#### 7. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
+#### 8. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
 
 **📅 Published:** Oct 08, 2026 00:00:00-0500  
 **✍️ Authors:** Atul Tulshibagwale  
@@ -101,7 +114,7 @@
 
 ---
 
-#### 8. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
+#### 9. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 **📅 Published:** Oct 07, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -114,7 +127,7 @@
 
 ---
 
-#### 9. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
+#### 10. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/)
 
 **📅 Published:** Oct 07, 2026 00:00:00-0500  
 **✍️ Authors:** Anne Aarness - Chris Prall  
@@ -123,19 +136,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers](https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/)
-
-**📅 Published:** Oct 06, 2026 00:00:00-0500  
-**✍️ Authors:** Donato Onofri - Paul Urian  
-
-**📝 Summary:** The CrowdStrike Cyber Superintelligence Lab evaluated the most advanced publicly deployed content safety classifier and found it can be systematically circumvented.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers
 
 ---
 

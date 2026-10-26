@@ -1,26 +1,13 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-26 04:03:10 UTC
+**Last Updated:** 2026-10-26 12:34:11 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
-
-**📅 Published:** Oct 23, 2026 00:00:00-0500  
-**✍️ Authors:** Vanessa Villa  
-
-**📝 Summary:** Falcon Guardian has been deployed at hundreds of organizations around the world.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** We asked them about the critical AI concerns and requirements that led to it
-
----
-
-#### 2. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
+#### 1. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
 
 **📅 Published:** Oct 23, 2026 00:00:00-0500  
 **✍️ Authors:** Jaime Duque - Brenden Conrad  
@@ -31,6 +18,19 @@
 
 - **⚠️ Issue:** Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits
 - **🔎 Cause:** Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits
+
+---
+
+#### 2. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+
+**📅 Published:** Oct 23, 2026 00:00:00-0500  
+**✍️ Authors:** Vanessa Villa  
+
+**📝 Summary:** Falcon Guardian has been deployed at hundreds of organizations around the world.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** We asked them about the critical AI concerns and requirements that led to it
 
 ---
 

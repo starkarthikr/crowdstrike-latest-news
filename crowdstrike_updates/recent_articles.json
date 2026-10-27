@@ -1,23 +1,6 @@
 [
   {
     "category": "main_blog",
-    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-    "published": "Oct 23, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits.",
-    "authors": [
-      "Jaime Duque - Brenden Conrad"
-    ],
-    "analysis": {
-      "issue": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
-      "solution": null,
-      "cause": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
     "title": "Why Organizations Secure AI Agents with Falcon Guardian",
     "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
     "published": "Oct 23, 2026 00:00:00-0500",
@@ -30,6 +13,23 @@
       "issue": "We asked them about the critical AI concerns and requirements that led to it",
       "solution": null,
       "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+    "published": "Oct 23, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits.",
+    "authors": [
+      "Jaime Duque - Brenden Conrad"
+    ],
+    "analysis": {
+      "issue": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
+      "solution": null,
+      "cause": "Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits",
       "timeline": null
     }
   },

@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-28 04:54:27 UTC
+**Last Updated:** 2026-10-28 12:25:39 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+#### 1. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
+
+**📅 Published:** Oct 28, 2026 00:00:00-0500  
+**✍️ Authors:** Counter Adversary Operations  
+
+**📝 Summary:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape
+- **⏰ Timeline:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector
+
+---
+
+#### 2. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
 **📅 Published:** Oct 23, 2026 00:00:00-0500  
 **✍️ Authors:** Vanessa Villa  
@@ -20,7 +34,7 @@
 
 ---
 
-#### 2. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
+#### 3. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
 
 **📅 Published:** Oct 23, 2026 00:00:00-0500  
 **✍️ Authors:** Jaime Duque - Brenden Conrad  
@@ -34,7 +48,7 @@
 
 ---
 
-#### 3. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
+#### 4. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
 
 **📅 Published:** Oct 21, 2026 00:00:00-0500  
 **✍️ Authors:** Amit Serper  
@@ -49,7 +63,7 @@
 
 ---
 
-#### 4. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+#### 5. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
 
 **📅 Published:** Oct 21, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike Counter Adversary Operations  
@@ -62,7 +76,7 @@
 
 ---
 
-#### 5. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
+#### 6. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **📅 Published:** Oct 20, 2026 00:00:00-0500  
 **✍️ Authors:** Max Gebhardt  
@@ -74,7 +88,7 @@
 
 ---
 
-#### 6. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+#### 7. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** CrowdStrike Counter Adversary Operations  
@@ -87,7 +101,7 @@
 
 ---
 
-#### 7. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+#### 8. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -102,7 +116,7 @@
 
 ---
 
-#### 8. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
+#### 9. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
 
 **📅 Published:** Oct 08, 2026 00:00:00-0500  
 **✍️ Authors:** Daniel Bernard  
@@ -116,7 +130,7 @@
 
 ---
 
-#### 9. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
+#### 10. [Solving the Continuous Authorization Conundrum](https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/)
 
 **📅 Published:** Oct 08, 2026 00:00:00-0500  
 **✍️ Authors:** Atul Tulshibagwale  
@@ -125,19 +139,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
-
-**📅 Published:** Oct 07, 2026 00:00:00-0500  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** CrowdStrike Intelligence identified infrastructure associated with a targeted campaign against South Korean financial institutions that resulted in exfiltrated data.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance
 
 ---
 

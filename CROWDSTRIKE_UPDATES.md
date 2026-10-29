@@ -1,23 +1,22 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-29 12:36:06 UTC
+**Last Updated:** 2026-10-29 22:35:42 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
+#### 1. [New Prompt Injection Techniques Cover Agent-Planning Attacks](https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/)
 
-**📅 Published:** Oct 28, 2026 00:00:00-0500  
-**✍️ Authors:** Counter Adversary Operations  
+**📅 Published:** Oct 29, 2026 00:00:00-0500  
+**✍️ Authors:** Vanessa Villa - Dr. Jim Hoagland  
 
-**📝 Summary:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape.
+**📝 Summary:** CrowdStrike introduces a new version of the Prompt Injection Taxonomy, adding newly discovered attack techniques on autonomous agents and how they plan.
 
 **🔍 Detailed Analysis:**
 
-- **⚠️ Issue:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape
-- **⏰ Timeline:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector
+- **⚠️ Issue:** CrowdStrike introduces a new version of the Prompt Injection Taxonomy,  adding newly discovered attack techniques on autonomous agents and how they plan
 
 ---
 
@@ -35,16 +34,17 @@
 
 ---
 
-#### 3. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+#### 3. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
 
-**📅 Published:** Oct 23, 2026 00:00:00-0500  
-**✍️ Authors:** Vanessa Villa  
+**📅 Published:** Oct 28, 2026 00:00:00-0500  
+**✍️ Authors:** Counter Adversary Operations  
 
-**📝 Summary:** Falcon Guardian has been deployed at hundreds of organizations around the world.
+**📝 Summary:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape.
 
 **🔍 Detailed Analysis:**
 
-- **⚠️ Issue:** We asked them about the critical AI concerns and requirements that led to it
+- **⚠️ Issue:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape
+- **⏰ Timeline:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector
 
 ---
 
@@ -62,7 +62,20 @@
 
 ---
 
-#### 5. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
+#### 5. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+
+**📅 Published:** Oct 23, 2026 00:00:00-0500  
+**✍️ Authors:** Vanessa Villa  
+
+**📝 Summary:** Falcon Guardian has been deployed at hundreds of organizations around the world.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** We asked them about the critical AI concerns and requirements that led to it
+
+---
+
+#### 6. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
 
 **📅 Published:** Oct 21, 2026 00:00:00-0500  
 **✍️ Authors:** Amit Serper  
@@ -77,10 +90,10 @@
 
 ---
 
-#### 6. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+#### 7. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
 
 **📅 Published:** Oct 21, 2026 00:00:00-0500  
-**✍️ Authors:** CrowdStrike Counter Adversary Operations  
+**✍️ Authors:** Counter Adversary Operations  
 
 **📝 Summary:** CrowdStrike details research into four previously unreported threat actors conducting campaigns in which AI agents make decisions and execute commands.
 
@@ -90,7 +103,7 @@
 
 ---
 
-#### 7. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
+#### 8. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **📅 Published:** Oct 20, 2026 00:00:00-0500  
 **✍️ Authors:** Max Gebhardt  
@@ -102,10 +115,10 @@
 
 ---
 
-#### 8. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+#### 9. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
-**✍️ Authors:** CrowdStrike Counter Adversary Operations  
+**✍️ Authors:** Counter Adversary Operations  
 
 **📝 Summary:** CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies.
 
@@ -115,7 +128,7 @@
 
 ---
 
-#### 9. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
+#### 10. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -127,20 +140,6 @@
 - **⚠️ Issue:** Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout
 - **✅ Solution:** Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout
 - **⏰ Timeline:** closed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout.
-
----
-
-#### 10. [CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage](https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/)
-
-**📅 Published:** Oct 08, 2026 00:00:00-0500  
-**✍️ Authors:** Daniel Bernard  
-
-**📝 Summary:** CrowdStrike joins Anthropic’s Critical Infrastructure Defense Program, bringing expertise in protecting IT and OT environments to help advance AI-powered defense.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike joins Anthropic’s Critical Infrastructure Defense Program, bringing expertise in protecting IT and OT environments to help advance AI-powered defense
-- **✅ Solution:** CrowdStrike joins Anthropic’s Critical Infrastructure Defense Program, bringing expertise in protecting IT and OT environments to help advance AI-powered defense
 
 ---
 

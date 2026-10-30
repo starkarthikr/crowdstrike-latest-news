@@ -18,6 +18,23 @@
   },
   {
     "category": "main_blog",
+    "title": "VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign",
+    "link": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
+    "published": "Oct 29, 2026 00:00:00-0500",
+    "summary": "",
+    "ai_summary": "CrowdStrike identified a VAPOR PANDA campaign using ARTEX, along with DeepSeek and another commercial LLM, to attack multiple high-value targets.",
+    "authors": [
+      "Counter Adversary Operations"
+    ],
+    "analysis": {
+      "issue": "CrowdStrike identified a VAPOR PANDA campaign using ARTEX, along with DeepSeek and another commercial LLM, to attack multiple high-value targets",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "When AI Guardrails Expose Vulnerabilities",
     "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
     "published": "Oct 28, 2026 00:00:00-0500",
@@ -150,23 +167,6 @@
       "solution": null,
       "cause": null,
       "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
-    "published": "Oct 13, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout.",
-    "authors": [
-      "Falcon Exposure Management Team"
-    ],
-    "analysis": {
-      "issue": "Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout",
-      "solution": "Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout",
-      "cause": null,
-      "timeline": "closed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout."
     }
   }
 ]

@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-10-29 22:35:42 UTC
+**Last Updated:** 2026-10-30 05:04:27 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -20,7 +20,20 @@
 
 ---
 
-#### 2. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
+#### 2. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
+
+**📅 Published:** Oct 29, 2026 00:00:00-0500  
+**✍️ Authors:** Counter Adversary Operations  
+
+**📝 Summary:** CrowdStrike identified a VAPOR PANDA campaign using ARTEX, along with DeepSeek and another commercial LLM, to attack multiple high-value targets.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike identified a VAPOR PANDA campaign using ARTEX, along with DeepSeek and another commercial LLM, to attack multiple high-value targets
+
+---
+
+#### 3. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
 
 **📅 Published:** Oct 28, 2026 00:00:00-0500  
 **✍️ Authors:** Jonathan Bar Or - D'Angelo Gonzalez  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
+#### 4. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
 
 **📅 Published:** Oct 28, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -48,7 +61,7 @@
 
 ---
 
-#### 4. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
+#### 5. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
 
 **📅 Published:** Oct 23, 2026 00:00:00-0500  
 **✍️ Authors:** Jaime Duque - Brenden Conrad  
@@ -62,7 +75,7 @@
 
 ---
 
-#### 5. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+#### 6. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
 **📅 Published:** Oct 23, 2026 00:00:00-0500  
 **✍️ Authors:** Vanessa Villa  
@@ -75,7 +88,7 @@
 
 ---
 
-#### 6. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
+#### 7. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
 
 **📅 Published:** Oct 21, 2026 00:00:00-0500  
 **✍️ Authors:** Amit Serper  
@@ -90,7 +103,7 @@
 
 ---
 
-#### 7. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
+#### 8. [CrowdStrike Uncovers New Agentic AI Campaigns](https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/)
 
 **📅 Published:** Oct 21, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -103,7 +116,7 @@
 
 ---
 
-#### 8. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
+#### 9. [CrowdStrike Achieves NCSC CIR Enhanced Level Assurance](https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/)
 
 **📅 Published:** Oct 20, 2026 00:00:00-0500  
 **✍️ Authors:** Max Gebhardt  
@@ -115,7 +128,7 @@
 
 ---
 
-#### 9. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
+#### 10. [U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance](https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/)
 
 **📅 Published:** Oct 13, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -125,21 +138,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** CrowdStrike collaborated with the FBI to disrupt several laptop farms that were operated by DPRK-nexus adversary FAMOUS CHOLLIMA to fraudulently employ operatives at American companies
-
----
-
-#### 10. [October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/)
-
-**📅 Published:** Oct 13, 2026 00:00:00-0500  
-**✍️ Authors:** Falcon Exposure Management Team  
-
-**📝 Summary:** Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout
-- **✅ Solution:** Microsoft has released security updates for 1,413 vulnerabilities, including one exploited zero-day, two publicly disclosed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout
-- **⏰ Timeline:** closed zero-days, and 75 critical, in its October 2026 Patch Tuesday rollout.
 
 ---
 

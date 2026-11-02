@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-02 05:16:02 UTC
+**Last Updated:** 2026-11-02 15:13:05 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/)
+#### 1. [What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon](https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/)
+
+**📅 Published:** Nov 02, 2026 00:00:00-0600  
+**✍️ Authors:** Lucia Stanham  
+
+**📝 Summary:** The first-ever AgentWorks Hackathon invited security teams to submit agents they built on Charlotte AI AgentWorks to solve a persistent bottleneck and function as a trusted extension of the team.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** The first-ever AgentWorks Hackathon invited security teams to submit agents they built on Charlotte AI AgentWorks to solve a persistent bottleneck and function as a trusted extension of the team
+
+---
+
+#### 2. [CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/)
 
 **📅 Published:** Oct 30, 2026 00:00:00-0500  
 **✍️ Authors:** Thuy Nguyen  
@@ -20,7 +33,7 @@
 
 ---
 
-#### 2. [Build an Intelligence Advantage with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/)
+#### 3. [Build an Intelligence Advantage with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/)
 
 **📅 Published:** Oct 30, 2026 00:00:00-0500  
 **✍️ Authors:** Paola Miranda  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [CrowdStrike Agent Graph Shows How Agents Act on the Endpoint](https://www.crowdstrike.com/en-us/blog/crowdstrike-agent-graph-shows-how-agents-act-on-endpoint/)
+#### 4. [CrowdStrike Agent Graph Shows How Agents Act on the Endpoint](https://www.crowdstrike.com/en-us/blog/crowdstrike-agent-graph-shows-how-agents-act-on-endpoint/)
 
 **📅 Published:** Oct 30, 2026 00:00:00-0500  
 **✍️ Authors:** Vanessa Villa  
@@ -46,7 +59,7 @@
 
 ---
 
-#### 4. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
+#### 5. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
 
 **📅 Published:** Oct 29, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [New Prompt Injection Techniques Cover Agent-Planning Attacks](https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/)
+#### 6. [New Prompt Injection Techniques Cover Agent-Planning Attacks](https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/)
 
 **📅 Published:** Oct 29, 2026 00:00:00-0500  
 **✍️ Authors:** Vanessa Villa - Dr. Jim Hoagland  
@@ -72,7 +85,7 @@
 
 ---
 
-#### 6. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
+#### 7. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
 
 **📅 Published:** Oct 28, 2026 00:00:00-0500  
 **✍️ Authors:** Jonathan Bar Or - D'Angelo Gonzalez  
@@ -86,7 +99,7 @@
 
 ---
 
-#### 7. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
+#### 8. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
 
 **📅 Published:** Oct 28, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -100,7 +113,7 @@
 
 ---
 
-#### 8. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
+#### 9. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
 
 **📅 Published:** Oct 23, 2026 00:00:00-0500  
 **✍️ Authors:** Jaime Duque - Brenden Conrad  
@@ -114,7 +127,7 @@
 
 ---
 
-#### 9. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
+#### 10. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
 
 **📅 Published:** Oct 23, 2026 00:00:00-0500  
 **✍️ Authors:** Vanessa Villa  
@@ -124,21 +137,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** We asked them about the critical AI concerns and requirements that led to it
-
----
-
-#### 10. [CrowdStrike Protects Customers from Threats Delivered via PHP2Shell](https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/)
-
-**📅 Published:** Oct 21, 2026 00:00:00-0500  
-**✍️ Authors:** Amit Serper  
-
-**📝 Summary:** The Falcon platform provides out-of-the-box visibility and detection coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** The Falcon platform provides out-of-the-box visibility and detection coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619
-- **✅ Solution:** The Falcon platform provides out-of-the-box visibility and detection coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619
-- **⏰ Timeline:** coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619.
 
 ---
 

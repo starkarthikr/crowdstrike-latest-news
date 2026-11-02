@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon",
+    "link": "https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/",
+    "published": "Nov 02, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "The first-ever AgentWorks Hackathon invited security teams to submit agents they built on Charlotte AI AgentWorks to solve a persistent bottleneck and function as a trusted extension of the team.",
+    "authors": [
+      "Lucia Stanham"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "The first-ever AgentWorks Hackathon invited security teams to submit agents they built on Charlotte AI AgentWorks to solve a persistent bottleneck and function as a trusted extension of the team",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/",
     "published": "Oct 30, 2026 00:00:00-0500",
@@ -150,23 +167,6 @@
       "solution": null,
       "cause": null,
       "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
-    "published": "Oct 21, 2026 00:00:00-0500",
-    "summary": "",
-    "ai_summary": "The Falcon platform provides out-of-the-box visibility and detection coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619.",
-    "authors": [
-      "Amit Serper"
-    ],
-    "analysis": {
-      "issue": "The Falcon platform provides out-of-the-box visibility and detection coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619",
-      "solution": "The Falcon platform provides out-of-the-box visibility and detection coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619",
-      "cause": null,
-      "timeline": "coverage for post-exploitation activities of CVE-2026-109618 and CVE-2026-109619."
     }
   }
 ]

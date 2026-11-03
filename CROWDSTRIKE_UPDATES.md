@@ -1,13 +1,77 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-03 00:46:11 UTC
+**Last Updated:** 2026-11-03 13:53:21 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon](https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/)
+#### 1. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/)
+
+**📅 Published:** Nov 03, 2026 00:00:00-0800  
+**✍️ Authors:** Michael Sentonas  
+
+**📝 Summary:** The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise
+
+---
+
+#### 2. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
+
+**📅 Published:** Nov 03, 2026 00:00:00-0800  
+**✍️ Authors:** Michael Devins  
+
+**📝 Summary:** CrowdStrike launches a new AI kill switch, now available to Falcon Guardian customers, and introduces innovations that strengthen AI security architecture, expand cloud coverage, and enable agent insider threat detection.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike launches a new AI kill switch, now available to Falcon Guardian customers, and introduces innovations that strengthen AI security architecture, expand cloud coverage, and enable agent insi
+- **✅ Solution:** CrowdStrike launches a new AI kill switch, now available to Falcon Guardian customers, and introduces innovations that strengthen AI security architecture, expand cloud coverage, and enable agent insi
+
+---
+
+#### 3. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
+
+**📅 Published:** Nov 03, 2026 00:00:00-0800  
+**✍️ Authors:** Michael Sentonas  
+
+**📝 Summary:** The acquisition of Fiddler will bring AI observability to the Falcon platform.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 4. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
+
+**📅 Published:** Nov 03, 2026 00:00:00-0800  
+**✍️ Authors:** Michael Devins  
+
+**📝 Summary:** CrowdStrike debuts AI Kill Switch to deliver quick control over AI model access and lay the foundation for coordinated agent containment across the Falcon platform.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 5. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
+
+**📅 Published:** Nov 03, 2026 00:00:00-0800  
+**✍️ Authors:** Michael Devins  
+
+**📝 Summary:** CrowdStrike announced it is bringing Falcon Guardian protection natively into Anthropic's Claude Cowork.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike announced it is bringing Falcon Guardian protection natively into Anthropic's Claude Cowork
+
+---
+
+#### 6. [What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon](https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/)
 
 **📅 Published:** Nov 02, 2026 00:00:00-0600  
 **✍️ Authors:** Lucia Stanham  
@@ -20,7 +84,7 @@
 
 ---
 
-#### 2. [CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/)
+#### 7. [CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/)
 
 **📅 Published:** Oct 30, 2026 00:00:00-0500  
 **✍️ Authors:** Thuy Nguyen  
@@ -33,7 +97,7 @@
 
 ---
 
-#### 3. [Build an Intelligence Advantage with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/)
+#### 8. [Build an Intelligence Advantage with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/)
 
 **📅 Published:** Oct 30, 2026 00:00:00-0500  
 **✍️ Authors:** Paola Miranda  
@@ -47,7 +111,7 @@
 
 ---
 
-#### 4. [CrowdStrike Agent Graph Shows How Agents Act on the Endpoint](https://www.crowdstrike.com/en-us/blog/crowdstrike-agent-graph-shows-how-agents-act-on-endpoint/)
+#### 9. [CrowdStrike Agent Graph Shows How Agents Act on the Endpoint](https://www.crowdstrike.com/en-us/blog/crowdstrike-agent-graph-shows-how-agents-act-on-endpoint/)
 
 **📅 Published:** Oct 30, 2026 00:00:00-0500  
 **✍️ Authors:** Vanessa Villa  
@@ -59,7 +123,7 @@
 
 ---
 
-#### 5. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
+#### 10. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
 
 **📅 Published:** Oct 29, 2026 00:00:00-0500  
 **✍️ Authors:** Counter Adversary Operations  
@@ -69,74 +133,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** CrowdStrike identified a VAPOR PANDA campaign using ARTEX, along with DeepSeek and another commercial LLM, to attack multiple high-value targets
-
----
-
-#### 6. [New Prompt Injection Techniques Cover Agent-Planning Attacks](https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/)
-
-**📅 Published:** Oct 29, 2026 00:00:00-0500  
-**✍️ Authors:** Vanessa Villa - Dr. Jim Hoagland  
-
-**📝 Summary:** CrowdStrike introduces a new version of the Prompt Injection Taxonomy, adding newly discovered attack techniques on autonomous agents and how they plan.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike introduces a new version of the Prompt Injection Taxonomy,  adding newly discovered attack techniques on autonomous agents and how they plan
-
----
-
-#### 7. [When AI Guardrails Expose Vulnerabilities](https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/)
-
-**📅 Published:** Oct 28, 2026 00:00:00-0500  
-**✍️ Authors:** Jonathan Bar Or - D'Angelo Gonzalez  
-
-**📝 Summary:** In Guardrail-Based Vulnerability Discovery, the guardrails intended to keep AI models from aiding attackers can signify issues that defenders can interpret and act on.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** In Guardrail-Based Vulnerability Discovery, the guardrails intended to keep AI models from aiding attackers can signify issues that defenders can interpret and act on
-- **✅ Solution:** In Guardrail-Based Vulnerability Discovery, the guardrails intended to keep AI models from aiding attackers can signify issues that defenders can interpret and act on
-
----
-
-#### 8. [CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies](https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/)
-
-**📅 Published:** Oct 28, 2026 00:00:00-0500  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape
-- **⏰ Timeline:** The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector
-
----
-
-#### 9. [Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation](https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/)
-
-**📅 Published:** Oct 23, 2026 00:00:00-0500  
-**✍️ Authors:** Jaime Duque - Brenden Conrad  
-
-**📝 Summary:** Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits
-- **🔎 Cause:** Threat actors have not yet exploited PHP2Shell, but the speed with which they attempted to weaponize the vulns highlights how swiftly attackers adopt new exploits
-
----
-
-#### 10. [Why Organizations Secure AI Agents with Falcon Guardian](https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/)
-
-**📅 Published:** Oct 23, 2026 00:00:00-0500  
-**✍️ Authors:** Vanessa Villa  
-
-**📝 Summary:** Falcon Guardian has been deployed at hundreds of organizations around the world.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** We asked them about the critical AI concerns and requirements that led to it
 
 ---
 

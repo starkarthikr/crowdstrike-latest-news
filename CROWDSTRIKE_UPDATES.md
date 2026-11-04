@@ -1,26 +1,65 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-04 05:36:42 UTC
+**Last Updated:** 2026-11-04 14:01:25 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/)
+#### 1. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
 
-**📅 Published:** Nov 03, 2026 00:00:00-0800  
-**✍️ Authors:** Michael Sentonas  
+**📅 Published:** Nov 04, 2026 00:00:00-0600  
+**✍️ Authors:** Counter Adversary Operations  
 
-**📝 Summary:** The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise.
+**📝 Summary:** New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defenses.
 
 **🔍 Detailed Analysis:**
 
-- **✅ Solution:** The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise
+- **⚠️ Issue:** New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defense
 
 ---
 
-#### 2. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
+#### 2. [CrowdStrike Brings Enterprise Browser Security to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/)
+
+**📅 Published:** Nov 04, 2026 00:00:00-0600  
+**✍️ Authors:** Hananel Livneh  
+
+**📝 Summary:** CrowdStrike Falcon Seraphic Enterprise Browser is now available through the new unified Falcon platform experience.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 3. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
+
+**📅 Published:** Nov 04, 2026 00:00:00-0600  
+**✍️ Authors:** Brandon Benke  
+
+**📝 Summary:** CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform
+
+---
+
+#### 4. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
+
+**📅 Published:** Nov 04, 2026 00:00:00-0600  
+**✍️ Authors:** Brett Shaw  
+
+**📝 Summary:** CrowdStrike unifies proactive security, software supply chain protection, and real-time cloud detection and response to stop attacks from build to runtime.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike unifies proactive security, software supply chain protection, and real-time cloud detection and response to stop attacks from build to runtime
+- **✅ Solution:** CrowdStrike unifies proactive security, software supply chain protection, and real-time cloud detection and response to stop attacks from build to runtime
+
+---
+
+#### 5. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -34,19 +73,7 @@
 
 ---
 
-#### 3. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
-
-**📅 Published:** Nov 03, 2026 00:00:00-0800  
-**✍️ Authors:** Michael Sentonas  
-
-**📝 Summary:** The acquisition of Fiddler will bring AI observability to the Falcon platform.
-
-**🔍 Detailed Analysis:**
-
-
----
-
-#### 4. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
+#### 6. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -58,7 +85,7 @@
 
 ---
 
-#### 5. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
+#### 7. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -71,7 +98,32 @@
 
 ---
 
-#### 6. [What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon](https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/)
+#### 8. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/)
+
+**📅 Published:** Nov 03, 2026 00:00:00-0800  
+**✍️ Authors:** Michael Sentonas  
+
+**📝 Summary:** The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise
+
+---
+
+#### 9. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
+
+**📅 Published:** Nov 03, 2026 00:00:00-0800  
+**✍️ Authors:** Michael Sentonas  
+
+**📝 Summary:** The acquisition of Fiddler will bring AI observability to the Falcon platform.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 10. [What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon](https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/)
 
 **📅 Published:** Nov 02, 2026 00:00:00-0600  
 **✍️ Authors:** Lucia Stanham  
@@ -81,58 +133,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** The first-ever AgentWorks Hackathon invited security teams to submit agents they built on Charlotte AI AgentWorks to solve a persistent bottleneck and function as a trusted extension of the team
-
----
-
-#### 7. [CrowdStrike Expands Falcon Adversary OverWatch Threat Hunting Across AI and Google Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-threat-hunting-across-ai-and-google-cloud/)
-
-**📅 Published:** Oct 30, 2026 00:00:00-0500  
-**✍️ Authors:** Thuy Nguyen  
-
-**📝 Summary:** Falcon Adversary OverWatch now includes 24/7 managed hunting for AI applications and autonomous agent activity, and deeper, telemetry-driven hunting for Google Cloud.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Falcon Adversary OverWatch now includes 24/7 managed hunting for AI applications and autonomous agent activity, and deeper, telemetry-driven hunting for Google Cloud
-
----
-
-#### 8. [Build an Intelligence Advantage with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/build-intelligence-advantage-with-falcon-next-gen-siem/)
-
-**📅 Published:** Oct 30, 2026 00:00:00-0500  
-**✍️ Authors:** Paola Miranda  
-
-**📝 Summary:** Falcon Next-Gen SIEM unifies threat intelligence with security telemetry to strengthen detection, accelerate investigations, and build a smarter foundation for the agentic SOC.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Falcon Next-Gen SIEM unifies threat intelligence with security telemetry to strengthen detection, accelerate investigations, and build a smarter foundation for the agentic SOC
-- **✅ Solution:** Falcon Next-Gen SIEM unifies threat intelligence with security telemetry to strengthen detection, accelerate investigations, and build a smarter foundation for the agentic SOC
-
----
-
-#### 9. [CrowdStrike Agent Graph Shows How Agents Act on the Endpoint](https://www.crowdstrike.com/en-us/blog/crowdstrike-agent-graph-shows-how-agents-act-on-endpoint/)
-
-**📅 Published:** Oct 30, 2026 00:00:00-0500  
-**✍️ Authors:** Vanessa Villa  
-
-**📝 Summary:** CrowdStrike Agent Graph powers Falcon Guardian, connecting the AI layer to the execution layer to show not only what the agent was asked to do, but what it did.
-
-**🔍 Detailed Analysis:**
-
-
----
-
-#### 10. [VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign](https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/)
-
-**📅 Published:** Oct 29, 2026 00:00:00-0500  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** CrowdStrike identified a VAPOR PANDA campaign using ARTEX, along with DeepSeek and another commercial LLM, to attack multiple high-value targets.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike identified a VAPOR PANDA campaign using ARTEX, along with DeepSeek and another commercial LLM, to attack multiple high-value targets
 
 ---
 

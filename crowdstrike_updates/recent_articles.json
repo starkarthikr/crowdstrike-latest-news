@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+    "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+    "published": "Nov 05, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "CrowdStrike’s analysis of vulnerability weaponization timelines reveals adversaries are quickly adopting public vulnerability research, often within hours.",
+    "authors": [
+      "Lacie Blythe - Jaime Duque"
+    ],
+    "analysis": {
+      "issue": "CrowdStrike’s analysis of vulnerability weaponization timelines reveals adversaries are quickly adopting public vulnerability research, often within hours",
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
     "published": "Nov 04, 2026 00:00:00-0600",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon",
-    "link": "https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/",
-    "published": "Nov 02, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "The first-ever AgentWorks Hackathon invited security teams to submit agents they built on Charlotte AI AgentWorks to solve a persistent bottleneck and function as a trusted extension of the team.",
-    "authors": [
-      "Lucia Stanham"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": "The first-ever AgentWorks Hackathon invited security teams to submit agents they built on Charlotte AI AgentWorks to solve a persistent bottleneck and function as a trusted extension of the team",
       "cause": null,
       "timeline": null
     }

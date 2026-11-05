@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-05 05:55:18 UTC
+**Last Updated:** 2026-11-05 14:23:00 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
+#### 1. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
+
+**📅 Published:** Nov 05, 2026 00:00:00-0600  
+**✍️ Authors:** Lacie Blythe - Jaime Duque  
+
+**📝 Summary:** CrowdStrike’s analysis of vulnerability weaponization timelines reveals adversaries are quickly adopting public vulnerability research, often within hours.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike’s analysis of vulnerability weaponization timelines reveals adversaries are quickly adopting public vulnerability research, often within hours
+
+---
+
+#### 2. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Counter Adversary Operations  
@@ -20,7 +33,7 @@
 
 ---
 
-#### 2. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
+#### 3. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Brandon Benke  
@@ -33,7 +46,7 @@
 
 ---
 
-#### 3. [CrowdStrike Brings Enterprise Browser Security to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/)
+#### 4. [CrowdStrike Brings Enterprise Browser Security to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Hananel Livneh  
@@ -45,7 +58,7 @@
 
 ---
 
-#### 4. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
+#### 5. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Brett Shaw  
@@ -59,7 +72,7 @@
 
 ---
 
-#### 5. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
+#### 6. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -73,7 +86,7 @@
 
 ---
 
-#### 6. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
+#### 7. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -85,7 +98,7 @@
 
 ---
 
-#### 7. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
+#### 8. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -98,7 +111,7 @@
 
 ---
 
-#### 8. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/)
+#### 9. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Sentonas  
@@ -111,7 +124,7 @@
 
 ---
 
-#### 9. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
+#### 10. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Sentonas  
@@ -120,19 +133,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 10. [What Makes a Good Security Agent? 5 Lessons from the AgentWorks Hackathon](https://www.crowdstrike.com/en-us/blog/five-lessons-from-agentworks-hackathon/)
-
-**📅 Published:** Nov 02, 2026 00:00:00-0600  
-**✍️ Authors:** Lucia Stanham  
-
-**📝 Summary:** The first-ever AgentWorks Hackathon invited security teams to submit agents they built on Charlotte AI AgentWorks to solve a persistent bottleneck and function as a trusted extension of the team.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** The first-ever AgentWorks Hackathon invited security teams to submit agents they built on Charlotte AI AgentWorks to solve a persistent bottleneck and function as a trusted extension of the team
 
 ---
 

@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
+    "published": "Nov 10, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout.",
+    "authors": [
+      "Falcon Exposure Management Team"
+    ],
+    "analysis": {
+      "issue": "Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout",
+      "solution": "Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout",
+      "cause": null,
+      "timeline": "ploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout."
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
     "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
     "published": "Nov 05, 2026 00:00:00-0600",
@@ -35,23 +52,6 @@
   },
   {
     "category": "main_blog",
-    "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
-    "published": "Nov 04, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform.",
-    "authors": [
-      "Brandon Benke"
-    ],
-    "analysis": {
-      "issue": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform",
-      "solution": null,
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
     "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
     "published": "Nov 04, 2026 00:00:00-0600",
@@ -62,6 +62,23 @@
     ],
     "analysis": {
       "issue": null,
+      "solution": null,
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
+    "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
+    "published": "Nov 04, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform.",
+    "authors": [
+      "Brandon Benke"
+    ],
+    "analysis": {
+      "issue": "CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform",
       "solution": null,
       "cause": null,
       "timeline": null
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": null,
       "solution": "The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
-    "published": "Nov 03, 2026 00:00:00-0800",
-    "summary": "",
-    "ai_summary": "The acquisition of Fiddler will bring AI observability to the Falcon platform.",
-    "authors": [
-      "Michael Sentonas"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
       "cause": null,
       "timeline": null
     }

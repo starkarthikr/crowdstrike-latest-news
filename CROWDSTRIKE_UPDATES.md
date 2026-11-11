@@ -1,13 +1,28 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-10 23:00:51 UTC
+**Last Updated:** 2026-11-11 05:29:21 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
+#### 1. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
+
+**📅 Published:** Nov 10, 2026 00:00:00-0600  
+**✍️ Authors:** Falcon Exposure Management Team  
+
+**📝 Summary:** Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout
+- **✅ Solution:** Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout
+- **⏰ Timeline:** ploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout.
+
+---
+
+#### 2. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
 
 **📅 Published:** Nov 05, 2026 00:00:00-0600  
 **✍️ Authors:** Lacie Blythe - Jaime Duque  
@@ -20,7 +35,7 @@
 
 ---
 
-#### 2. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
+#### 3. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Counter Adversary Operations  
@@ -30,19 +45,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defense
-
----
-
-#### 3. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
-
-**📅 Published:** Nov 04, 2026 00:00:00-0600  
-**✍️ Authors:** Brandon Benke  
-
-**📝 Summary:** CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform
 
 ---
 
@@ -58,7 +60,20 @@
 
 ---
 
-#### 5. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
+#### 5. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
+
+**📅 Published:** Nov 04, 2026 00:00:00-0600  
+**✍️ Authors:** Brandon Benke  
+
+**📝 Summary:** CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform
+
+---
+
+#### 6. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Brett Shaw  
@@ -72,7 +87,7 @@
 
 ---
 
-#### 6. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
+#### 7. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -86,7 +101,7 @@
 
 ---
 
-#### 7. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
+#### 8. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -98,7 +113,7 @@
 
 ---
 
-#### 8. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
+#### 9. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -111,7 +126,7 @@
 
 ---
 
-#### 9. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/)
+#### 10. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Sentonas  
@@ -121,18 +136,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise
-
----
-
-#### 10. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
-
-**📅 Published:** Nov 03, 2026 00:00:00-0800  
-**✍️ Authors:** Michael Sentonas  
-
-**📝 Summary:** The acquisition of Fiddler will bring AI observability to the Falcon platform.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

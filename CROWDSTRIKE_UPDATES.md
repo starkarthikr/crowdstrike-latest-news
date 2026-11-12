@@ -1,13 +1,26 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-12 00:17:17 UTC
+**Last Updated:** 2026-11-12 14:53:22 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
+#### 1. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
+
+**📅 Published:** Nov 12, 2026 00:00:00-0600  
+**✍️ Authors:** Ryan Terry  
+
+**📝 Summary:** IDC places CrowdStrike in the Leaders category of its inaugural MarketScape for Augmented Identity Security Solutions.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** IDC places CrowdStrike in the Leaders category of its inaugural MarketScape for Augmented Identity Security Solutions
+
+---
+
+#### 2. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
 
 **📅 Published:** Nov 10, 2026 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -22,7 +35,7 @@
 
 ---
 
-#### 2. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
+#### 3. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
 
 **📅 Published:** Nov 05, 2026 00:00:00-0600  
 **✍️ Authors:** Lacie Blythe - Jaime Duque  
@@ -32,19 +45,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** CrowdStrike’s analysis of vulnerability weaponization timelines reveals adversaries are quickly adopting public vulnerability research, often within hours
-
----
-
-#### 3. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
-
-**📅 Published:** Nov 04, 2026 00:00:00-0600  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defenses.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defense
 
 ---
 
@@ -73,7 +73,20 @@
 
 ---
 
-#### 6. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
+#### 6. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
+
+**📅 Published:** Nov 04, 2026 00:00:00-0600  
+**✍️ Authors:** Counter Adversary Operations  
+
+**📝 Summary:** New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defenses.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defense
+
+---
+
+#### 7. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Brett Shaw  
@@ -87,7 +100,7 @@
 
 ---
 
-#### 7. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
+#### 8. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -101,7 +114,19 @@
 
 ---
 
-#### 8. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
+#### 9. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
+
+**📅 Published:** Nov 03, 2026 00:00:00-0800  
+**✍️ Authors:** Michael Sentonas  
+
+**📝 Summary:** The acquisition of Fiddler will bring AI observability to the Falcon platform.
+
+**🔍 Detailed Analysis:**
+
+
+---
+
+#### 10. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -110,32 +135,6 @@
 
 **🔍 Detailed Analysis:**
 
-
----
-
-#### 9. [CrowdStrike Secures AI Agents Inside Claude Cowork](https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/)
-
-**📅 Published:** Nov 03, 2026 00:00:00-0800  
-**✍️ Authors:** Michael Devins  
-
-**📝 Summary:** CrowdStrike announced it is bringing Falcon Guardian protection natively into Anthropic's Claude Cowork.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** CrowdStrike announced it is bringing Falcon Guardian protection natively into Anthropic's Claude Cowork
-
----
-
-#### 10. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/)
-
-**📅 Published:** Nov 03, 2026 00:00:00-0800  
-**✍️ Authors:** Michael Sentonas  
-
-**📝 Summary:** The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise.
-
-**🔍 Detailed Analysis:**
-
-- **✅ Solution:** The acquisition of Dreadnode will bring automated AI security testing to the Falcon platform as AI systems proliferate across the enterprise
 
 ---
 

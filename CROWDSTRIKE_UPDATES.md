@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-16 15:17:00 UTC
+**Last Updated:** 2026-11-17 01:44:59 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
+#### 1. [Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models](https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/)
+
+**📅 Published:** Nov 16, 2026 00:00:00-0600  
+**✍️ Authors:** Donato Onofri - Paul Urian - Jonathan Bar Or  
+
+**📝 Summary:** CrowdStrike researchers developed a two-stage approach to protect model supply chains by detecting LoRA backdoored models before deployment.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models
+- **✅ Solution:** CrowdStrike researchers developed a two-stage approach to protect model supply chains by detecting LoRA backdoored models before deployment
+
+---
+
+#### 2. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
 
 **📅 Published:** Nov 13, 2026 00:00:00-0600  
 **✍️ Authors:** Vanessa Villa  
@@ -20,7 +34,7 @@
 
 ---
 
-#### 2. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
+#### 3. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
 
 **📅 Published:** Nov 12, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -33,7 +47,7 @@
 
 ---
 
-#### 3. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
+#### 4. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
 
 **📅 Published:** Nov 10, 2026 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -48,7 +62,7 @@
 
 ---
 
-#### 4. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
+#### 5. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
 
 **📅 Published:** Nov 05, 2026 00:00:00-0600  
 **✍️ Authors:** Lacie Blythe - Jaime Duque  
@@ -61,7 +75,7 @@
 
 ---
 
-#### 5. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
+#### 6. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Brandon Benke  
@@ -74,7 +88,7 @@
 
 ---
 
-#### 6. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
+#### 7. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Counter Adversary Operations  
@@ -87,7 +101,7 @@
 
 ---
 
-#### 7. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
+#### 8. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Brett Shaw  
@@ -101,7 +115,7 @@
 
 ---
 
-#### 8. [CrowdStrike Brings Enterprise Browser Security to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/)
+#### 9. [CrowdStrike Brings Enterprise Browser Security to the Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Hananel Livneh  
@@ -113,7 +127,7 @@
 
 ---
 
-#### 9. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
+#### 10. [CrowdStrike Advances AI Security and Safety from Endpoint to Cloud](https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/)
 
 **📅 Published:** Nov 03, 2026 00:00:00-0800  
 **✍️ Authors:** Michael Devins  
@@ -124,18 +138,6 @@
 
 - **⚠️ Issue:** CrowdStrike launches a new AI kill switch, now available to Falcon Guardian customers, and introduces innovations that strengthen AI security architecture, expand cloud coverage, and enable agent insi
 - **✅ Solution:** CrowdStrike launches a new AI kill switch, now available to Falcon Guardian customers, and introduces innovations that strengthen AI security architecture, expand cloud coverage, and enable agent insi
-
----
-
-#### 10. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/)
-
-**📅 Published:** Nov 03, 2026 00:00:00-0800  
-**✍️ Authors:** Michael Sentonas  
-
-**📝 Summary:** The acquisition of Fiddler will bring AI observability to the Falcon platform.
-
-**🔍 Detailed Analysis:**
-
 
 ---
 

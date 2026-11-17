@@ -1,6 +1,23 @@
 [
   {
     "category": "main_blog",
+    "title": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
+    "link": "https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/",
+    "published": "Nov 16, 2026 00:00:00-0600",
+    "summary": "",
+    "ai_summary": "CrowdStrike researchers developed a two-stage approach to protect model supply chains by detecting LoRA backdoored models before deployment.",
+    "authors": [
+      "Donato Onofri - Paul Urian - Jonathan Bar Or"
+    ],
+    "analysis": {
+      "issue": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
+      "solution": "CrowdStrike researchers developed a two-stage approach to protect model supply chains by detecting LoRA backdoored models before deployment",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
     "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
     "published": "Nov 13, 2026 00:00:00-0600",
@@ -148,23 +165,6 @@
     "analysis": {
       "issue": "CrowdStrike launches a new AI kill switch, now available to Falcon Guardian customers, and introduces innovations that strengthen AI security architecture, expand cloud coverage, and enable agent insi",
       "solution": "CrowdStrike launches a new AI kill switch, now available to Falcon Guardian customers, and introduces innovations that strengthen AI security architecture, expand cloud coverage, and enable agent insi",
-      "cause": null,
-      "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
-    "published": "Nov 03, 2026 00:00:00-0800",
-    "summary": "",
-    "ai_summary": "The acquisition of Fiddler will bring AI observability to the Falcon platform.",
-    "authors": [
-      "Michael Sentonas"
-    ],
-    "analysis": {
-      "issue": null,
-      "solution": null,
       "cause": null,
       "timeline": null
     }

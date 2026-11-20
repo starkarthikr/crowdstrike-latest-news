@@ -1,27 +1,39 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-19 15:29:21 UTC
+**Last Updated:** 2026-11-20 00:26:15 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
+#### 1. [Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/)
 
-**📅 Published:** Nov 18, 2026 00:00:00-0600  
-**✍️ Authors:** Ajit Sancheti  
+**📅 Published:** Nov 19, 2026 00:00:00-0600  
+**✍️ Authors:** Suraj Sahu - Yuri Diogenes  
 
-**📝 Summary:** CrowdStrike has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).
+**📝 Summary:** The Falcon platform helps organizations understand their exposure and detect post-exploitation activity related to Java4Shell.
 
 **🔍 Detailed Analysis:**
 
-- **✅ Solution:** CrowdStrike has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM)
-- **⏰ Timeline:** CrowdStrike has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).
+- **⚠️ Issue:** The Falcon platform helps organizations understand their exposure and detect post-exploitation activity related to Java4Shell
 
 ---
 
-#### 2. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
+#### 2. [NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/)
+
+**📅 Published:** Nov 19, 2026 00:00:00-0600  
+**✍️ Authors:** Sujay Doshi  
+
+**📝 Summary:** The Falcon platform helps organizations identify exposed assets and detect post-exploitation activity related to NGINX2Root.
+
+**🔍 Detailed Analysis:**
+
+- **⚠️ Issue:** The Falcon platform helps organizations identify exposed assets and detect post-exploitation activity related to NGINX2Root
+
+---
+
+#### 3. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
 
 **📅 Published:** Nov 18, 2026 00:00:00-0600  
 **✍️ Authors:** Chris Bowie  
@@ -35,7 +47,21 @@
 
 ---
 
-#### 3. [Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models](https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/)
+#### 4. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
+
+**📅 Published:** Nov 18, 2026 00:00:00-0600  
+**✍️ Authors:** Ajit Sancheti  
+
+**📝 Summary:** CrowdStrike has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM)
+- **⏰ Timeline:** CrowdStrike has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).
+
+---
+
+#### 5. [Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models](https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/)
 
 **📅 Published:** Nov 16, 2026 00:00:00-0600  
 **✍️ Authors:** Donato Onofri - Paul Urian - Jonathan Bar Or  
@@ -49,7 +75,7 @@
 
 ---
 
-#### 4. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
+#### 6. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
 
 **📅 Published:** Nov 13, 2026 00:00:00-0600  
 **✍️ Authors:** Vanessa Villa  
@@ -62,7 +88,7 @@
 
 ---
 
-#### 5. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
+#### 7. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
 
 **📅 Published:** Nov 12, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -75,7 +101,7 @@
 
 ---
 
-#### 6. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
+#### 8. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
 
 **📅 Published:** Nov 10, 2026 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -90,7 +116,7 @@
 
 ---
 
-#### 7. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
+#### 9. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
 
 **📅 Published:** Nov 05, 2026 00:00:00-0600  
 **✍️ Authors:** Lacie Blythe - Jaime Duque  
@@ -103,7 +129,7 @@
 
 ---
 
-#### 8. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
+#### 10. [CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats](https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/)
 
 **📅 Published:** Nov 04, 2026 00:00:00-0600  
 **✍️ Authors:** Brandon Benke  
@@ -113,33 +139,6 @@
 **🔍 Detailed Analysis:**
 
 - **⚠️ Issue:** CrowdStrike extends the agentic SOC to detect agent insider threats, investigate across every domain, and govern response on the Falcon platform
-
----
-
-#### 9. [CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries](https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/)
-
-**📅 Published:** Nov 04, 2026 00:00:00-0600  
-**✍️ Authors:** Counter Adversary Operations  
-
-**📝 Summary:** New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defenses.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** New AI-powered red teaming capability, powered by SafeMind, combines purpose-built AI systems, adversary intelligence, and Falcon platform visibility to emulate real-world attacks and validate defense
-
----
-
-#### 10. [New Falcon Cloud Security Innovations Secure the Cloud AI Runs On](https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/)
-
-**📅 Published:** Nov 04, 2026 00:00:00-0600  
-**✍️ Authors:** Brett Shaw  
-
-**📝 Summary:** CrowdStrike unifies proactive security, software supply chain protection, and real-time cloud detection and response to stop attacks from build to runtime.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike unifies proactive security, software supply chain protection, and real-time cloud detection and response to stop attacks from build to runtime
-- **✅ Solution:** CrowdStrike unifies proactive security, software supply chain protection, and real-time cloud detection and response to stop attacks from build to runtime
 
 ---
 

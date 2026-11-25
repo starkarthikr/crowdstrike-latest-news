@@ -1,13 +1,27 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-25 07:47:08 UTC
+**Last Updated:** 2026-11-25 21:24:14 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
 
 ### Main Blog
 
-#### 1. [Reprioritizing Automated Leads with CrowdStrike Signal](https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/)
+#### 1. [CrowdStrike Accelerates the Shift to the Agentic SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/)
+
+**📅 Published:** Nov 25, 2026 00:00:00-0800  
+**✍️ Authors:** Ajit Sancheti  
+
+**📝 Summary:** CrowdStrike has been named a Leader in the inaugural 2026 Gartner® Magic Quadrant™ for Integrated Security Operations Center (ISOC) Systems.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** CrowdStrike has been named a Leader in the inaugural 2026 Gartner® Magic Quadrant™ for Integrated Security Operations Center (ISOC) Systems
+- **⏰ Timeline:** wdStrike has been named a Leader in the inaugural 2026 Gartner® Magic Quadrant™ for Integrated Security Operations Center (ISOC) Systems.
+
+---
+
+#### 2. [Reprioritizing Automated Leads with CrowdStrike Signal](https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/)
 
 **📅 Published:** Nov 24, 2026 00:00:00-0800  
 **✍️ Authors:** Talha Ongun - Tom Hobson - Daniel Brown  
@@ -20,7 +34,7 @@
 
 ---
 
-#### 2. [Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/)
+#### 3. [Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/)
 
 **📅 Published:** Nov 19, 2026 00:00:00-0600  
 **✍️ Authors:** Suraj Sahu - Yuri Diogenes  
@@ -33,7 +47,7 @@
 
 ---
 
-#### 3. [NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/)
+#### 4. [NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/)
 
 **📅 Published:** Nov 19, 2026 00:00:00-0600  
 **✍️ Authors:** Sujay Doshi  
@@ -46,7 +60,7 @@
 
 ---
 
-#### 4. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
+#### 5. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
 
 **📅 Published:** Nov 18, 2026 00:00:00-0800  
 **✍️ Authors:** Ajit Sancheti  
@@ -60,7 +74,7 @@
 
 ---
 
-#### 5. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
+#### 6. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
 
 **📅 Published:** Nov 18, 2026 00:00:00-0600  
 **✍️ Authors:** Chris Bowie  
@@ -74,7 +88,7 @@
 
 ---
 
-#### 6. [Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models](https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/)
+#### 7. [Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models](https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/)
 
 **📅 Published:** Nov 16, 2026 00:00:00-0600  
 **✍️ Authors:** Donato Onofri - Paul Urian - Jonathan Bar Or  
@@ -88,7 +102,7 @@
 
 ---
 
-#### 7. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
+#### 8. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
 
 **📅 Published:** Nov 13, 2026 00:00:00-0600  
 **✍️ Authors:** Vanessa Villa  
@@ -101,7 +115,7 @@
 
 ---
 
-#### 8. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
+#### 9. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
 
 **📅 Published:** Nov 12, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -114,7 +128,7 @@
 
 ---
 
-#### 9. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
+#### 10. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
 
 **📅 Published:** Nov 10, 2026 00:00:00-0600  
 **✍️ Authors:** Falcon Exposure Management Team  
@@ -126,19 +140,6 @@
 - **⚠️ Issue:** Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout
 - **✅ Solution:** Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout
 - **⏰ Timeline:** ploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout.
-
----
-
-#### 10. [How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders](https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/)
-
-**📅 Published:** Nov 05, 2026 00:00:00-0600  
-**✍️ Authors:** Lacie Blythe - Jaime Duque  
-
-**📝 Summary:** CrowdStrike’s analysis of vulnerability weaponization timelines reveals adversaries are quickly adopting public vulnerability research, often within hours.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** CrowdStrike’s analysis of vulnerability weaponization timelines reveals adversaries are quickly adopting public vulnerability research, often within hours
 
 ---
 

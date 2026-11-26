@@ -18,6 +18,23 @@
   },
   {
     "category": "main_blog",
+    "title": "Securing Employees&rsquo; AI Use Requires a Unified Architecture",
+    "link": "https://www.crowdstrike.com/en-us/blog/securing-employees-ai-use-requires-unified-architecture/",
+    "published": "Nov 25, 2026 00:00:00-0800",
+    "summary": "",
+    "ai_summary": "Falcon Guardian brings together complementary security mechanisms to deliver visibility, protection, and response across AI interactions and agent activity.",
+    "authors": [
+      "Vanessa Villa"
+    ],
+    "analysis": {
+      "issue": null,
+      "solution": "Falcon Guardian brings together complementary security mechanisms to deliver visibility, protection, and response across AI interactions and agent activity",
+      "cause": null,
+      "timeline": null
+    }
+  },
+  {
+    "category": "main_blog",
     "title": "Reprioritizing Automated Leads with CrowdStrike Signal",
     "link": "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
     "published": "Nov 24, 2026 00:00:00-0800",
@@ -150,23 +167,6 @@
       "solution": "IDC places CrowdStrike in the Leaders category of its inaugural MarketScape for Augmented Identity Security Solutions",
       "cause": null,
       "timeline": null
-    }
-  },
-  {
-    "category": "main_blog",
-    "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
-    "published": "Nov 10, 2026 00:00:00-0600",
-    "summary": "",
-    "ai_summary": "Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout.",
-    "authors": [
-      "Falcon Exposure Management Team"
-    ],
-    "analysis": {
-      "issue": "Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout",
-      "solution": "Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout",
-      "cause": null,
-      "timeline": "ploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout."
     }
   }
 ]

@@ -1,6 +1,6 @@
 # 🛡️ CrowdStrike Latest Updates
 
-**Last Updated:** 2026-11-26 07:38:38 UTC
+**Last Updated:** 2026-11-26 21:10:58 UTC
 
 ## 📰 Recent Articles (Last 7 Days)
 
@@ -21,7 +21,20 @@
 
 ---
 
-#### 2. [Reprioritizing Automated Leads with CrowdStrike Signal](https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/)
+#### 2. [Securing Employees&rsquo; AI Use Requires a Unified Architecture](https://www.crowdstrike.com/en-us/blog/securing-employees-ai-use-requires-unified-architecture/)
+
+**📅 Published:** Nov 25, 2026 00:00:00-0800  
+**✍️ Authors:** Vanessa Villa  
+
+**📝 Summary:** Falcon Guardian brings together complementary security mechanisms to deliver visibility, protection, and response across AI interactions and agent activity.
+
+**🔍 Detailed Analysis:**
+
+- **✅ Solution:** Falcon Guardian brings together complementary security mechanisms to deliver visibility, protection, and response across AI interactions and agent activity
+
+---
+
+#### 3. [Reprioritizing Automated Leads with CrowdStrike Signal](https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/)
 
 **📅 Published:** Nov 24, 2026 00:00:00-0800  
 **✍️ Authors:** Talha Ongun - Tom Hobson - Daniel Brown  
@@ -34,7 +47,7 @@
 
 ---
 
-#### 3. [Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/)
+#### 4. [Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/)
 
 **📅 Published:** Nov 19, 2026 00:00:00-0600  
 **✍️ Authors:** Suraj Sahu - Yuri Diogenes  
@@ -47,7 +60,7 @@
 
 ---
 
-#### 4. [NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/)
+#### 5. [NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform](https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/)
 
 **📅 Published:** Nov 19, 2026 00:00:00-0600  
 **✍️ Authors:** Sujay Doshi  
@@ -60,7 +73,7 @@
 
 ---
 
-#### 5. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
+#### 6. [CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/)
 
 **📅 Published:** Nov 18, 2026 00:00:00-0800  
 **✍️ Authors:** Ajit Sancheti  
@@ -74,7 +87,7 @@
 
 ---
 
-#### 6. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
+#### 7. [CrowdStrike Brings the Human Advantage to AI Detection and Response](https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/)
 
 **📅 Published:** Nov 18, 2026 00:00:00-0600  
 **✍️ Authors:** Chris Bowie  
@@ -88,7 +101,7 @@
 
 ---
 
-#### 7. [Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models](https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/)
+#### 8. [Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models](https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/)
 
 **📅 Published:** Nov 16, 2026 00:00:00-0600  
 **✍️ Authors:** Donato Onofri - Paul Urian - Jonathan Bar Or  
@@ -102,7 +115,7 @@
 
 ---
 
-#### 8. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
+#### 9. [Inside Falcon AI Gateway: One Control Point for AI Traffic](https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/)
 
 **📅 Published:** Nov 13, 2026 00:00:00-0600  
 **✍️ Authors:** Vanessa Villa  
@@ -115,7 +128,7 @@
 
 ---
 
-#### 9. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
+#### 10. [CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions](https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/)
 
 **📅 Published:** Nov 12, 2026 00:00:00-0600  
 **✍️ Authors:** Ryan Terry  
@@ -125,21 +138,6 @@
 **🔍 Detailed Analysis:**
 
 - **✅ Solution:** IDC places CrowdStrike in the Leaders category of its inaugural MarketScape for Augmented Identity Security Solutions
-
----
-
-#### 10. [November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities](https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/)
-
-**📅 Published:** Nov 10, 2026 00:00:00-0600  
-**✍️ Authors:** Falcon Exposure Management Team  
-
-**📝 Summary:** Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout.
-
-**🔍 Detailed Analysis:**
-
-- **⚠️ Issue:** Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout
-- **✅ Solution:** Microsoft has released security updates for 1,252 vulnerabilities, including one exploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout
-- **⏰ Timeline:** ploited zero-day and 68 critical, in its November 2026 Patch Tuesday rollout.
 
 ---
 
